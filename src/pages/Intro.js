@@ -1,66 +1,13 @@
-import {Typography, Link, Container} from '@material-ui/core';
-import {makeStyles} from '@material-ui/core/styles';
 import React from "react";
-
-const useStyles = makeStyles({
-    itemRoot: {
-        textAlign: 'left',
-        paddingBottom: 20,
-        fontFamily: 'Ubuntu',
-        lineHeight: 1.5,
-    },
-    title: {
-        paddingTop: 30,
-        paddingBottom: 10,
-        fontWeight: 'bold',
-        fontFamily: 'Ubuntu',
-        textAlign: 'initial',
-        fontSize: 26,
-    },
-    item: {
-        fontSize: 17,
-        fontWeight: 400,
-        textAlign: 'initial',
-        color: '#000',
-        "&:hover": {
-            color: '#2196f3'
-        },
-    },
-    itemDescription: {
-        fontSize: 17,
-        fontWeight: 400,
-        textAlign: 'initial',
-        color: '#7a7a7a',
-    },
-    hr: {
-        borderTop: '1px solid #ddd',
-    }
-});
-
-function Item(props) {
-    const {name, description, link} = props;
-    const classes = useStyles();
-    return (
-        <div className={classes.itemRoot}>
-            <Link className={classes.item} href={link} target="_blank">
-                {name}
-            </Link>
-            {' · '}
-            <span className={classes.itemDescription}>
-                {description}
-            </span>
-        </div>
-    );
-}
+import {Container, Divider} from '@material-ui/core/index';
+import {Title, Interest, Item, Education, Experience, Footer} from '../components/Intro'
 
 function Intro() {
-    const classes = useStyles();
     return (
         <Container style={{maxWidth: 800}}>
-            <hr className={classes.hr}/>
-            <Typography className={classes.title} variant="h5" gutterBottom>
-                Public Projects
-            </Typography>
+            <Divider/>
+            {/*<hr className={classes.hr}/>*/}
+            <Title name="Public Projects"/>
             <Item name="MOHLTC Data Project"
                   description="A web app designed for businesses to create data collection forms on the fly and collect
                    data in a short period of time."
@@ -86,6 +33,32 @@ function Intro() {
             <Item name="Object Detection Webapp (requires camera)"
                   description="A react wrapper for object detection. Pre-trained Model is from Tenserflow.js "
                   link="https://lesterlyu.com/"/>
+
+            <Divider/>
+
+            <Title name="Interests"/>
+            <Interest name={"Computer Networks & Low Level Programming"}/>
+            <Interest name={"Web Full Stack Programming"}/>
+            <Interest name={"Machine Learning & Visual Computing"}/>
+
+            <Divider/>
+
+            <Title name="Experiences"/>
+            <Experience title="Software Developer Intern"
+                        company="Ontario Government Ministry of Health and Long-Term Care"
+                        link="http://www.health.gov.on.ca/en/"
+                        duration="September 2018 – August 2019"/>
+            <Experience title="Software Developer Co-op"
+                        company="Xiamen Dnake Intelligent Technology Co., Ltd."
+                        link="https://www.dnake-global.com/"
+                        duration="June 2016 – August 2016"/>
+
+            <Divider/>
+
+            <Title name="Education"/>
+            <Education/>
+            <Divider/>
+            <Footer/>
         </Container>
     );
 }

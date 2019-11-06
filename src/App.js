@@ -5,7 +5,7 @@ import ThemeSwitcher from './components/ThemeSwitcher';
 import {Typography, IconButton, Grid} from '@material-ui/core';
 import {makeStyles} from '@material-ui/core/styles';
 import {GitHub, LinkedIn, Email} from '@material-ui/icons';
-import Intro from './components/pages/Intro';
+import Intro from './pages/Intro';
 
 const useStyles = makeStyles({
     name: {
@@ -16,6 +16,10 @@ const useStyles = makeStyles({
     icon: {
         fontSize: 30,
         color: '#555'
+    },
+    description: {
+        fontWeight: 'bold',
+        fontFamily: 'Ubuntu'
     }
 });
 
@@ -28,6 +32,9 @@ function App() {
                 <ParallaxBackground/>
                 <Typography className={classes.name} variant="h3" gutterBottom>
                     Dishu Lyu
+                </Typography>
+                <Typography className={classes.description} variant="subtitle1" gutterBottom>
+                    Graduating 2020 May 😋
                 </Typography>
                 <Grid container justify="center">
                     <Grid item>
