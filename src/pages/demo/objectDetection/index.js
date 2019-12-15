@@ -2,8 +2,9 @@ import React from "react";
 import * as cocoSsd from "@tensorflow-models/coco-ssd/dist/index";
 import "@tensorflow/tfjs/dist/index";
 import "./styles.css";
-import MyAppBar from "../../../components/AppBar";
-import Button from "@material-ui/core/Button";
+import {Button, Fab} from "@material-ui/core";
+import {ArrowBack} from "@material-ui/icons";
+import {Link as RouterLink} from "react-router-dom";
 
 class App extends React.Component {
     videoRef = React.createRef();
@@ -150,7 +151,6 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <MyAppBar title={"Object Detection"}/>
                 <video
                     className="size"
                     autoPlay
@@ -171,10 +171,32 @@ class App extends React.Component {
                     }}
                 />
                 {this.state.fps !== 0 ?
-                    <h4 style={{display: 'absolute', top: 0, left: 0, color: '#aaa'}}>{this.state.fps}</h4>
+                    <h4 style={{position: 'absolute', top: 0, left: 0, color: '#aaa'}}>{this.state.fps}</h4>
                     : ''}
-                <h4 style={{display: this.state.info.length ? 'show' : 'none',}}>{this.state.info}</h4>
-                <Button variant="contained" style={{position: 'absolute', top: window.innerHeight - 60, height: 40}}
+                <h4 style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    display: this.state.info.length ? 'show' : 'none',
+                }}>{this.state.info}</h4>
+
+                <RouterLink to="/" style={{
+                    position: 'absolute',
+                    top: window.innerHeight - 65,
+                    left: 20,
+                    height: 40,
+                    width: 60
+                }}>
+                    <Fab color={"inherit"} style={{
+                        color: '#fff',
+                        backgroundColor: '#2196f3'
+                    }}>
+                        <ArrowBack fontSize="default"/>
+                    </Fab>
+                </RouterLink>
+
+                <Button variant="contained"
+                        style={{position: 'absolute', top: window.innerHeight - 57, height: 40, left: 100}}
                         color="primary" onClick={this.switchCamera}>Switch Camera
                 </Button>
             </div>
