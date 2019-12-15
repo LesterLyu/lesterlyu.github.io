@@ -5,8 +5,8 @@
   "dependencies": {
     "@material-ui/core": "^4.5.2",
     "@material-ui/icons": "^4.5.1",
-    "@tensorflow-models/coco-ssd": "^2.0.1",
-    "@tensorflow/tfjs": "^1.4.0",
+    "@tensorflow-models/coco-ssd": "0.1.1",
+    "@tensorflow/tfjs": "0.13.5",
     "fast-formula-parser": "^1.0.4",
     "node-sass": "^4.13.0",
     "prop-types": "latest",

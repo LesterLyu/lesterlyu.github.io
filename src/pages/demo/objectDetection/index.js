@@ -1,6 +1,5 @@
 import React from "react";
-import * as cocoSsd from "@tensorflow-models/coco-ssd/dist/index";
-import "@tensorflow/tfjs/dist/index";
+import * as cocoSsd from "@tensorflow-models/coco-ssd";
 import "./styles.css";
 import {Button, Fab} from "@material-ui/core";
 import {ArrowBack} from "@material-ui/icons";
@@ -186,7 +185,14 @@ class App extends React.Component {
                     left: 20,
                     height: 40,
                     width: 60
-                }}>
+                }} onClick={() => {
+					this.stop = true;
+					if (window.stream) {
+						window.stream.getTracks().forEach(t => {
+							t.stop();
+						})
+					}
+				}}>
                     <Fab color={"inherit"} style={{
                         color: '#fff',
                         backgroundColor: '#2196f3'
