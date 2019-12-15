@@ -41,6 +41,9 @@ class App extends React.Component {
             })
             .then(model => {
                 this.model = model;
+                this.stop = false;
+                this.setState({info: ''});
+                this.detectFrame(this.videoRef.current);
             })
             .catch(error => {
                 this.setState({info: error.message});
@@ -63,7 +66,7 @@ class App extends React.Component {
                 })
                 .then(stream => {
                     console.log(stream);
-                    this.setState({info: 'success get stream'});
+                    this.setState({info: 'Loading Model, this may take 10 seconds...'});
                     window.stream = stream;
                     this.videoRef.current.srcObject = stream;
                     return new Promise((resolve, reject) => {
@@ -72,17 +75,12 @@ class App extends React.Component {
                         };
                     });
                 })
-                .then(() => {
-                    this.stop = false;
-                    this.setState({info: ''});
-                    this.detectFrame(this.videoRef.current, this.model);
-                });
         } else {
             return Promise.reject("Browser not supported.");
         }
     }
 
-    detectFrame = (video, model) => {
+    detectFrame = (video) => {
         if (this.stop)
             return;
         if (Date.now() - this.time >= 1000) {
@@ -91,10 +89,10 @@ class App extends React.Component {
             this.time = Date.now();
         }
         this.frames++;
-        model.detect(video).then(predictions => {
+        this.model.detect(video).then(predictions => {
             this.renderPredictions(predictions);
             requestAnimationFrame(() => {
-                this.detectFrame(video, model);
+                this.detectFrame(video);
             });
         });
     };
@@ -142,14 +140,17 @@ class App extends React.Component {
         }
         this.front = !this.front;
         console.log(this.front);
-        this.start();
+        this.start().then(() => {
+            this.stop = false;
+            this.setState({info: ''});
+            this.detectFrame(this.videoRef.current);
+        });
     };
 
     render() {
         return (
             <div>
                 <MyAppBar title={"Object Detection"}/>
-                <h4 style={{display: this.state.info.length ? 'show' : 'none',}}>{this.state.info}</h4>
                 <video
                     className="size"
                     autoPlay
@@ -172,6 +173,7 @@ class App extends React.Component {
                 {this.state.fps !== 0 ?
                     <h4 style={{display: 'absolute', top: 0, left: 0, color: '#aaa'}}>{this.state.fps}</h4>
                     : ''}
+                <h4 style={{display: this.state.info.length ? 'show' : 'none',}}>{this.state.info}</h4>
                 <Button variant="contained" style={{position: 'absolute', top: window.innerHeight - 60, height: 40}}
                         color="primary" onClick={this.switchCamera}>Switch Camera
                 </Button>
