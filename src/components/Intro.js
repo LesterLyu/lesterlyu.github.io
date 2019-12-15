@@ -1,6 +1,8 @@
 import {Typography, Link} from '@material-ui/core';
 import {makeStyles} from '@material-ui/core/styles';
 import React from "react";
+import {Link as RouterLink} from 'react-router-dom';
+import {OpenInNew, Star} from "@material-ui/icons";
 
 const useStyles = makeStyles({
     itemRoot: {
@@ -16,6 +18,22 @@ const useStyles = makeStyles({
         fontFamily: 'Ubuntu',
         textAlign: 'initial',
         fontSize: 26,
+    },
+    demo: {
+        fontSize: 17,
+        fontWeight: 400,
+        textAlign: 'initial',
+        color: '#3b6ae9',
+        "&:hover": {
+            color: '#2196f3'
+        },
+    },
+    noDemo: {
+        fontSize: 17,
+        fontWeight: 400,
+        textAlign: 'initial',
+        color: '#3b6ae9',
+        textDecoration: 'line-through'
     },
     item: {
         fontSize: 17,
@@ -62,13 +80,46 @@ export function Title(props) {
 }
 
 export function Item(props) {
-    const {name, description, link} = props;
+    const {name, description, link, demo, playStore, noDemo} = props;
     const classes = useStyles();
     return (
         <div className={classes.itemRoot}>
             <Link className={classes.item} href={link} target="_blank">
                 {name}
+                <OpenInNew fontSize="inherit"/>
             </Link>
+            {demo ?
+                <span>
+                    {' · '}
+                    <RouterLink className={classes.demo} to={demo}>
+                        demo
+                        <Star fontSize="inherit"/>
+                    </RouterLink>
+                </span>
+                : null
+            }
+
+            {noDemo ?
+                <span>
+                        {' · '}
+                    <span className={classes.noDemo}>
+                        demo
+                        <Star fontSize="inherit"/>
+                    </span>
+                </span>
+                : null
+            }
+            {playStore ?
+                <span>
+                    {' · '}
+                    <Link className={classes.demo} href={playStore} target="_blank">
+                        Play Store
+                        <OpenInNew fontSize="inherit"/>
+                    </Link>
+                </span>
+                : null
+            }
+
             {' · '}
             <span className={classes.itemDescription}>
                 {description}

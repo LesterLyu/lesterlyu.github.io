@@ -8,23 +8,26 @@ function Intro() {
             <Divider/>
             {/*<hr className={classes.hr}/>*/}
             <Title name="Public Projects"/>
+            <Item name="Excel Formula Parser"
+                  description="A JavaScript library to parse and evaluate MS Excel/Google Sheets formulas with near 300
+                   formulas support and competitive performance."
+                  demo="/demo/fast-formula-parser"
+                  link="https://github.com/LesterLyu/fast-formula-parser"/>
             <Item name="MOHLTC Data Project"
                   description="A web app designed for businesses to create data collection forms on the fly and collect
                    data in a short period of time."
+                  noDemo={true}
                   link="https://github.com/LesterLyu/MOHLTC-DataProject"/>
             <Item name="Xlsx Populate"
                   description="A JavaScript library that creates or modifies MS Excel files. It supports real-time
                   formula evaluating and is able to run in the browser."
                   link="https://github.com/LesterLyu/xlsx-populate"/>
-            <Item name="Excel Formula Parser"
-                  description="A JavaScript library to parse and evaluate MS Excel/Google Sheets formulas with near 300
-                   formulas support and competitive performance."
-                  link="https://github.com/LesterLyu/fast-formula-parser"/>
             <Item name="Connect Four AI"
                   description="An  implementation of Minimax Algorithm on Connect Four with GUI."
                   link="https://github.com/LesterLyu/CSC384Project"/>
             <Item name="UofT Timetable"
                   description="A timetable Android app for students in University of Toronto."
+                  playStore="https://play.google.com/store/apps/details?id=com.lvds2000.utsccsuntility"
                   link="https://github.com/LesterLyu/UofT-Timetable"/>
             <Item name="Acorn API"
                   description="An Acorn API for University of Toronto. Acorn is UofT' s student information service.
@@ -32,7 +35,8 @@ function Intro() {
                   link="https://github.com/LesterLyu/AcornAPI"/>
             <Item name="Object Detection Webapp (requires camera)"
                   description="A react wrapper for object detection. Pre-trained Model is from Tenserflow.js "
-                  link="https://lesterlyu.com/"/>
+                  demo="/demo/object-detection"
+                  link="https://github.com/LesterLyu/ObjectDetectionReact"/>
 
             <Divider/>
 
