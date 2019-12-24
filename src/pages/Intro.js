@@ -48,6 +48,10 @@ function Intro() {
             <Divider/>
 
             <Title name="Experiences"/>
+            <Experience title="Research Assistance"
+                        company="University of Toronto"
+                        link="https://www.utoronto.ca/"
+                        duration="January 2020 – April 2020"/>
             <Experience title="Software Developer Intern"
                         company="Ontario Government Ministry of Health and Long-Term Care"
                         link="http://www.health.gov.on.ca/en/"
