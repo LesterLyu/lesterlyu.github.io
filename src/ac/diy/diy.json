@@ -560,6 +560,14 @@
     "materials": "竹子材料*8"
   },
   {
+    "label": "竹鼓",
+    "name": "FtrBamboodrum",
+    "category": "",
+    "how": "村民赠送",
+    "space": "",
+    "materials": "竹子材料*3+软木材*2"
+  },
+  {
     "label": "竹花瓶",
     "name": "FtrBambooFlowerwall",
     "category": "",
@@ -608,6 +616,14 @@
     "materials": "竹子材料*15"
   },
   {
+    "label": "竹笋灯",
+    "name": "FtrBambooshootLamp",
+    "category": "季节手册",
+    "how": "气球/漂流瓶",
+    "space": "1.0×1.0",
+    "materials": "春笋*4+竹笋*5+黏土*4"
+  },
+  {
     "label": "流水素面",
     "name": "FtrBambooSomen",
     "category": "季节手册",
@@ -630,22 +646,6 @@
     "how": "气球",
     "space": "1.0×1.0",
     "materials": "春笋*6"
-  },
-  {
-    "label": "竹鼓",
-    "name": "FtrBamboodrum",
-    "category": "",
-    "how": "村民赠送",
-    "space": "",
-    "materials": "竹子材料*3+软木材*2"
-  },
-  {
-    "label": "竹笋灯",
-    "name": "FtrBambooshootLamp",
-    "category": "季节手册",
-    "how": "气球/漂流瓶",
-    "space": "1.0×1.0",
-    "materials": "春笋*4+竹笋*5+黏土*4"
   },
   {
     "label": "杠铃",
