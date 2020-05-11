@@ -9,6 +9,7 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Intro from './pages/Intro';
 import FastFormulaParser from './pages/demo/formulaParser/fastFormulaParser';
 import ObjectDetection from './pages/demo/objectDetection'
+import {Diy} from './ac/diy'
 
 const theme = createMuiTheme({
     palette: {
@@ -71,6 +72,9 @@ function App() {
         <Router>
             <ThemeProvider theme={theme}>
                 <Switch>
+                    <Route path="/ac">
+                        <Diy/>
+                    </Route>
                     <Route path="/demo/fast-formula-parser">
                         <FastFormulaParser/>
                     </Route>
