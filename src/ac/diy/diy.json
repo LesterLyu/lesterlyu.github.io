@@ -1,1 +1,4762 @@
-[{"label":"简陋铲子","name":"80px-ToolShovelWood","category":"工具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"硬木材*5"},{"label":"青苔庭院石","name":"80px-FtrGardenrockMoss","category":"家具","how":"罗迪欧赠送/商店购买","space":"1.0×1.0","materials":"石头*15+杂草*15"},{"label":"钥匙挂钩","name":"80px-FtrKeyhanger","category":"壁挂物","how":"然姐赠送/商店购买","space":"1.0×1.0","materials":"木材*3+铁矿石*1"},{"label":"空罐卡林巴琴","name":"80px-FtrKalimbaCan","category":"小物件","how":"灵感/商店购买","space":"1.0×1.0","materials":"空罐*1+木材*1+铁矿石*1"},{"label":"垃圾袋","name":"80px-FtrGarbagebag","category":"小物件","how":"灵感/商店购买","space":"1.0×1.0","materials":"空罐*1+长靴*1+轮胎*1"},{"label":"多肉植物","name":"80px-FtrPlantSucculents","category":"小物件","how":"灵感/商店购买","space":"1.0×1.0","materials":"杂草*10+空罐*1"},{"label":"垃圾堆墙","name":"80px-RoomTexWallGarbage00","category":"墙壁·地板·地垫","how":"灵感/商店购买","space":"一个房间","materials":"空罐*2+长靴*2+轮胎*2"},{"label":"房间地板","name":"80px-RoomTexFloorGarbage00","category":"墙壁·地板·地垫","how":"灵感/商店购买","space":"一个房间","materials":"空罐*2+长靴*2+轮胎*2"},{"label":"竹子墙","name":"80px-RoomTexWallBamboo00","category":"墙壁·地板·地垫","how":"气球礼物/商店购买","space":"一个房间","materials":"竹子材料*15"},{"label":"简陋捕虫网","name":"80px-ToolNet","category":"工具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"树枝*5"},{"label":"回收长靴","name":"80px-ShoesKneeRecyclingboots0","category":"装备","how":"灵感/商店购买","space":"1.0×1.0","materials":"长靴*2"},{"label":"晒衣绳","name":"80px-FtrClothesline","category":"家具","how":"狸克赠送/商店购买","space":"2.0×0.5","materials":"树枝*10"},{"label":"圆木餐桌","name":"80px-FtrLogTableL","category":"家具","how":"狸克赠送/商店购买","space":"2.0×2.0","materials":"硬木材*15"},{"label":"圆木长凳","name":"80px-FtrLogStoolL","category":"家具","how":"狸克赠送/商店购买","space":"2.0×1.0","materials":"硬木材*5"},{"label":"自然风花园椅","name":"80px-FtrGardenChairNatural","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"硬木材*6+铁矿石*2"},{"label":"自然风花园桌","name":"80px-FtrGardenTableNatural","category":"家具","how":"狸克赠送/商店购买","space":"2.0×2.0","materials":"硬木材*9+铁矿石*3"},{"label":"木制水桶","name":"80px-FtrBucketWood","category":"家具","how":"狸克赠送/商店购买/向岛民学习配方","space":"1.0×1.0","materials":"木材*3+铁矿石*1"},{"label":"轮胎玩具","name":"80px-FtrPlayingtire","category":"家具","how":"灵感/商店购买","space":"1.0×1.0","materials":"轮胎*1"},{"label":"轮胎堆","name":"80px-FtrTyres","category":"家具","how":"灵感/商店购买","space":"1.0×1.0","materials":"轮胎*3"},{"label":"石斧头","name":"80px-ToolAxeStoneNormal","category":"工具","how":"商店购买","space":"1.0×1.0","materials":"简陋斧头*1+木材*3"},{"label":"星星棒","name":"80px-ToolChangeStick","category":"工具","how":"流星雨当天晚上与岛上的傅珂对话","space":"1","materials":"大星星碎片*1+星星碎片*3"},{"label":"斧头","name":"80px-ToolAxe","category":"工具","how":"商店购买","space":"1.0×1.0","materials":"简陋斧头*1+木材*3+铁矿石*1"},{"label":"叶子雨伞","name":"80px-UmbrellaLeaf0","category":"装备","how":"动物赠送/商店购买","space":"1.0×1.0","materials":"杂草*15"},{"label":"铲子","name":"80px-ToolScoop","category":"工具","how":"商店购买","space":"1.0×1.0","materials":"简陋铲子*1+铁矿石*1"},{"label":"钓竿","name":"80px-ToolAngling","category":"工具","how":"商店购买","space":"1.0×1.0","materials":"简陋钓竿*1+铁矿石*1"},{"label":"捕虫网","name":"80px-ToolNetNormal","category":"工具","how":"狸端机兑换（平常就能用！道具手册）","space":"1.0×1.0","materials":"简陋捕虫网*1+铁矿石*1"},{"label":"简陋浇花壶","name":"80px-ToolWateringWood","category":"工具","how":"商店购买","space":"1.0×1.0","materials":"软木材*5"},{"label":"浇花壶","name":"80px-ToolWatering","category":"工具","how":"商店购买","space":"1.0×1.0","materials":"简陋浇花壶*1+铁矿石*1"},{"label":"弹弓","name":"80px-ToolSlingshot","category":"工具","how":"商店购买","space":"1.0×1.0","materials":"硬木材*5"},{"label":"陶笛","name":"80px-ToolOcarina","category":"小物件","how":"商店购买（新手DIY手册）","space":"1.0×1.0","materials":"黏土*5"},{"label":"撑杆跳竿子","name":"80px-LongWoodenStick","category":"工具","how":"博达赠送/商店购买","space":"1.0×1.0","materials":"软木材*5"},{"label":"梯子","name":"80px-ToolLadder","category":"工具","how":"商店购买","space":"1.0×1.0","materials":"木材*4+硬木材*4+软木材*4"},{"label":"迷你DIY作业台","name":"80px-FtrWorkbenchS","category":"家具","how":"商店购买","space":"1.0×1.0","materials":"木材*3+硬木材*3+软木材*3+铁矿石*2"},{"label":"干草床铺","name":"80px-FtrHaybed","category":"家具","how":"商店购买（新手DIY手册）","space":"2.0×1.0","materials":"杂草*20"},{"label":"篝火","name":"80px-FtrCampfire","category":"家具","how":"商店购买（新手DIY手册）","space":"2.0×2.0","materials":"炊火*1+木材*10"},{"label":"火把","name":"80px-FtrTorch","category":"家具","how":"","space":"1.0×1.0","materials":"树枝*5+木材*5"},{"label":"木制椅","name":"80px-FtrWoodenChairS","category":"家具","how":"","space":"1.0×1.0","materials":"木材*6"},{"label":"木制边桌","name":"80px-FtrWoodenTableS","category":"家具","how":"","space":"1.0×1.0","materials":"木材*8"},{"label":"圆木桩","name":"80px-FtrWoodPile","category":"家具","how":"狸克赠送","space":"1.0×1.0","materials":"木材*3"},{"label":"积木椅","name":"80px-FtrBlockChairS","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"积木玩具*1+软木材*3"},{"label":"积木桌","name":"80px-FtrBlockTableL","category":"家具","how":"狸克赠送/商店购买","space":"2.0×2.0","materials":"积木玩具*1+软木材*8"},{"label":"朴素木制招牌","name":"80px-FtrSignWood","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"木材*6"},{"label":"积木音响","name":"80px-FtrBlockCompo","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"积木玩具*1+软木材*5+铁矿石*2"},{"label":"石头凳子","name":"80px-FtrStoneChair","category":"家具","how":"商店购买（新手DIY手册）","space":"1.0×1.0","materials":"石头*3"},{"label":"积木书柜","name":"80px-FtrBlockShelf","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"积木玩具*1+软木材*3"},{"label":"摇椅","name":"80px-FtrRockingchair","category":"家具","how":"狸克赠送","space":"1.0×1.0","materials":"木材*3+软木材*5"},{"label":"秋千椅","name":"80px-FtrSwingWood","category":"家具","how":"狸克赠送","space":"2.0×1.0","materials":"木材*5+软木材*7"},{"label":"茶几","name":"80px-FtrDiningtableJapan","category":"家具","how":"商店购买","space":"2.0×2.0","materials":"硬木材*12"},{"label":"狗屋","name":"80px-FtrDoghouse","category":"家具","how":"皮蛋赠送/商店购买","space":"1.0×1.0","materials":"木材*10+硬木材*7"},{"label":"鸟巢屋","name":"80px-FtrBirdhouse","category":"家具","how":"商店购买","space":"1.0×1.0","materials":"木材*2+软木材*5"},{"label":"平底锅","name":"80px-FtrPan","category":"小物件","how":"商店购买（新手DIY手册）","space":"1.0×1.0","materials":"铁矿石*2"},{"label":"小鸟水盆","name":"80px-FtrBirdbus","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"石头*6"},{"label":"洗衣盆","name":"80px-FtrWashtub","category":"小物件","how":"商店购买（新手DIY手册）","space":"1.0×1.0","materials":"软木材*3"},{"label":"积木玩具","name":"80px-FtrBlockBrick","category":"小物件","how":"商店购买（新手DIY手册）","space":"1.0×1.0","materials":"软木材*3"},{"label":"俄罗斯套娃","name":"80px-FtrMatryoshka","category":"小物件","how":"漂流瓶/村民教","space":"1*1","materials":"软木材*5"},{"label":"花园铸铁椅","name":"80px-FtrIrongardenChair","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"铁矿石*3"},{"label":"花园铸铁桌","name":"80px-FtrIrongardenTable","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"铁矿石*5"},{"label":"桃子椅","name":"80px-FtrFruitsChairPeach","category":"家具","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"桃子*10+木材*5"},{"label":"桃子惊吓箱","name":"80px-FtrFruitsBox","category":"小物件","how":"狸克赠送/商店购买","space":"1.0×1.0","materials":"桃子*10+软木材*4"},{"label":"绿色落叶","name":"80px-FtrFallenleavesGreen","category":"季节手册","how":"漂流瓶/气球礼物","space":"1.5×1.5","materials":"春笋*1+杂草*10"},{"label":"流水素面","name":"80px-FtrBambooSomen","category":"季节手册","how":"漂流瓶/气球礼物","space":"3.0×1.0","materials":"春笋*7+木材*3"},{"label":"浅色竹子地垫","name":"80px-RugRectBambooM00","category":"季节手册","how":"漂流瓶/气球礼物","space":"3.0×2.0","materials":"春笋*6"},{"label":"学步推车","name":"80px-FtrKatakatatoy","category":"","how":"","space":"","materials":"硬木材*2+软木材*6"},{"label":"蓑衣","name":"80px-TopsTexTopCoatLStrawBeige","category":"装备","how":"漂流瓶","space":"1.0*1.0","materials":"杂草*8"},{"label":"草编双肩包","name":"80px-BagBackpackGrass0","category":"装备","how":"漂流瓶","space":"1.0*1.0","materials":"杂草*20"},{"label":"贝壳桌","name":"80px-FtrShellTableL","category":"家具","how":"小动物赠送","space":"2.0*2.0","materials":"沙钱*7+黏土*3"},{"label":"树海墙","name":"80px-RoomTexWallJukai00","category":"墙壁·地板·地垫","how":"漂流瓶","space":"一个房间","materials":"杂草*15+软木材*9"},{"label":"蜂蜜地板","name":"80px-RoomTexFloorHoney00","category":"墙壁·地板·地垫","how":"村民赠送","space":"一个房间","materials":"蜂巢*5"},{"label":"沙滩地板","name":"80px-RoomTexFloorSand00","category":"地板","how":"漂流瓶","space":"一个房间","materials":"钟螺壳*1+骨螺壳*1+沙钱*1+珊瑚*1+扇贝壳*1+宝螺壳*1"},{"label":"铁板地板","name":"80px-RoomTexFloorSteel00","category":"墙壁·地板·地垫","how":"漂流瓶","space":"一个房间","materials":"铁矿石*7"},{"label":"草坪地板","name":"80px-RoomTexFloorLawn00","category":"墙壁·地板·地垫","how":"漂流瓶","space":"一个房间","materials":"杂草*30"},{"label":"杠铃","name":"80px-FtrBarbell","category":"家具","how":"蓬蓬赠送","space":"2.0*1.0","materials":"铁矿石*10"},{"label":"石水盆","name":"80px-FtrStonewaterbowl","category":"家具","how":"","space":"","materials":"石头*10"},{"label":"拼木墙","name":"80px-RoomTexWallMixwood00","category":"墙壁·地板·地垫","how":"漂流瓶","space":"一个房间","materials":"木材*5+软木材*5+硬木材*5"},{"label":"消波块","name":"80px-FtrTetrapod","category":"","how":"里程兑换","space":"","materials":"石头*10+黏土*10"},{"label":"草丛道具","name":"80px-FtrHariboteGrass","category":"家具","how":"漂流瓶","space":"1.0×0.5","materials":"木材*2+软木材*2"},{"label":"乌克丽丽","name":"80px-FtrUkulele","category":"小物件","how":"漂流瓶/气球礼物","space":"1.0×1.0","materials":"硬木材*5"},{"label":"木马","name":"80px-FtrRockinghorse","category":"","how":"","space":"","materials":"软木材*5"},{"label":"树丛道具","name":"80px-FtrHariboteHedge","category":"","how":"","space":"","materials":"木材*2+软木材*3"},{"label":"套圈圈","name":"80px-FtrQuoits","category":"小物件","how":"狸克赠送","space":"1.0×1.0","materials":"木材*2+软木材*2"},{"label":"假山道具","name":"80px-FtrHariboteMountain","category":"","how":"","space":"","materials":"木材*4+软木材*5"},{"label":"人孔盖","name":"80px-FtrManhole","category":"小物件","how":"里程兑换","space":"1*1","materials":"铁矿石*3"},{"label":"假树道具","name":"80px-FtrHariboteTree","category":"家具","how":"漂流瓶/气球礼物/村民赠送","space":"2.0×1.0","materials":"木材*5+软木材*8"},{"label":"木吉他","name":"80px-FtrAcorsticguitar","category":"","how":"","space":"","materials":"软木材*8+铁矿石*3"},{"label":"露天池","name":"80px-FtrOpenairbath","category":"家具","how":"狸端机兑换","space":"3.0×3.0","materials":"石头*20+铲子*1"},{"label":"蘑菇灯","name":"80px-FtrMushroomLamp","category":"","how":"","space":"","materials":"瘦小蘑菇*1+黏土*5"},{"label":"落叶","name":"80px-FtrFallenleaves","category":"","how":"","space":"","materials":"松果*3+杂草*5"},{"label":"竹长凳","name":"80px-FtrBambooChairL","category":"","how":"","space":"","materials":"竹子材料*8"},{"label":"稻草人","name":"80px-FtrScarecrow","category":"家具","how":"","space":"1.0×1.0","materials":"树枝*3+杂草*5"},{"label":"蘑菇桌","name":"80px-FtrMushroomTableL","category":"","how":"","space":"","materials":"扁平蘑菇*2+木材*6"},{"label":"杂志架","name":"80px-FtrMagazinerack","category":"","how":"","space":"","materials":"杂志*2+木材*4"},{"label":"地炉","name":"80px-FtrIrori","category":"家具","how":"","space":"2.0×2.0","materials":"竹子材料*2+铁矿石*5+黏土*4+硬木材*5"},{"label":"窑烤炉","name":"80px-FtrStoneoven","category":"家具","how":"","space":"1.5×1.5","materials":"黏土*8+铁矿石*2+木材*6"},{"label":"鸟笼","name":"80px-FtrBirdcage","category":"","how":"村民","space":"","materials":"木材*8"},{"label":"石灯笼","name":"80px-FtrStonelantern","category":"","how":"","space":"","materials":"石头*18"},{"label":"月亮","name":"80px-FtrMoon","category":"","how":"流星雨当天晚上与岛上的傅珂对话","space":"","materials":"星星碎片*15+大星星碎片*1"},{"label":"常见庭院石","name":"80px-FtrGardenrock","category":"","how":"","space":"","materials":"石头*15"},{"label":"圣诞蜡烛","name":"80px-FtrCandleXmas","category":"","how":"","space":"","materials":"红色装饰品*5+杂草*5"},{"label":"竹流水造景","name":"80px-FtrShishiodoshi","category":"家具","how":"","space":"1.0×1.0","materials":"竹子材料*3+石头*8+杂草*3"},{"label":"乐谱架","name":"80px-FtrMusicstand","category":"家具","how":"村民赠送","space":"1.0×1.0","materials":"硬木材*8"},{"label":"高耸庭院石","name":"80px-FtrGardenrockTall","category":"","how":"","space":"","materials":"石头*60"},{"label":"水果篮","name":"80px-FtrFruitbasket","category":"","how":"","space":"","materials":"苹果*1+梨子*1+樱桃*1+橘子*1+桃子*1"},{"label":"飞旋镖","name":"80px-FtrBoomerang","category":"","how":"","space":"","materials":"硬木材*3"},{"label":"飞碟","name":"80px-FtrUFO","category":"","how":"","space":"","materials":"星星碎片*15+铁矿石*10"},{"label":"木桶","name":"80px-FtrPirateBarrel","category":"","how":"","space":"","materials":"木材*5+铁矿石*2"},{"label":"积木矮柜","name":"80px-FtrBlockChest","category":"","how":"","space":"","materials":"积木玩具*1+软木材*12"},{"label":"月球车","name":"80px-FtrMoonrover","category":"","how":"","space":"","materials":"星星碎片*10+铁矿石*10+轮胎*4"},{"label":"特大熊熊","name":"80px-FtrBearXL","category":"家具","how":"","space":"3.0×3.0","materials":"大熊熊*1+中熊熊*1+小熊熊*1"},{"label":"炊火","name":"80px-FtrBonfire","category":"家具","how":"开场自带","space":"1.0×1.0","materials":"树枝*3"},{"label":"花园铸铁长椅","name":"80px-FtrIrongardenBench","category":"","how":"村民","space":"","materials":"铁矿石*8"},{"label":"人工卫星","name":"80px-FtrSatellite","category":"","how":"","space":"","materials":"星星碎片*10+铁矿石*15"},{"label":"英雄机器人","name":"80px-FtrHerorobot","category":"家具","how":"狸端机兑换","space":"3.0×3.0","materials":"火箭*1+金盔甲*1+生锈零件*30+铁矿石*90+金矿石*10"},{"label":"陨石","name":"80px-FtrMeteo","category":"","how":"","space":"","materials":"星星碎片*5+石头*10"},{"label":"太空梭","name":"80px-FtrShuttle","category":"家具","how":"傅珂赠送","space":"1.0x3.0","materials":"星星碎片*5+铁矿石*10"},{"label":"DIY作业台","name":"80px-FtrWorkbench","category":"","how":"","space":"","materials":"木材*5+硬木材*5+软木材*5+铁矿石*3+迷你DIY作业台*1"},{"label":"积木床铺","name":"80px-FtrBlockBedS","category":"家具","how":"漂流瓶/气球礼物/村民赠送","space":"2.0×1.0","materials":"积木玩具*1+软木材*17"},{"label":"登月舱","name":"80px-FtrModule","category":"","how":"流星雨当天晚上与岛上的傅珂对话","space":"","materials":"星星碎片*10+铁矿石*15"},{"label":"太空人","name":"80px-FtrSpacesuit","category":"","how":"","space":"","materials":"星星碎片*5+铁矿石*5"},{"label":"梨子衣柜","name":"80px-FtrFruitsClosetLR","category":"家具","how":"","space":"1.0×1.0","materials":"梨子*10+木材*5"},{"label":"积木长凳","name":"80px-FtrBlockChairL","category":"家具","how":"漂流瓶/气球礼物/村民赠送","space":"2.0×1.0","materials":"积木玩具*1+软木材*4"},{"label":"火箭","name":"80px-FtrRocket","category":"家具","how":"流星雨当天晚上与岛上的傅珂对话","space":"2.0×1.0","materials":"星星碎片*10+铁矿石*20"},{"label":"书堆","name":"80px-FtrBooks","category":"","how":"","space":"","materials":"书*5"},{"label":"木雕鸭","name":"80px-FtrDecoy","category":"","how":"","space":"","materials":"软木材*4"},{"label":"杂志堆","name":"80px-FtrMagagine","category":"","how":"村民赠送","space":"1.0×1.0","materials":"杂志*6"},{"label":"文件堆","name":"80px-FtrOfficePapers","category":"","how":"","space":"","materials":"散乱的纸张*1"},{"label":"饮水处","name":"80px-FtrDrinkingfountain","category":"家具","how":"狸端机兑换","space":"1.0×1.0","materials":"石头*8+铁矿石*2"},{"label":"熏香台","name":"80px-FtrAlomapot","category":"小物件","how":"漂流瓶/气球礼物/村民赠送","space":"1.0×1.0","materials":"黏土*3"},{"label":"手压式汲水器","name":"80px-FtrHandpump","category":"家具","how":"漂流瓶/气球礼物/村民赠送","space":"1.0×1.0","materials":"铁矿石*2+黏土*6"},{"label":"苹果电视","name":"80px-FtrFruitsTV","category":"家具","how":"狸克赠送","space":"1.0x1.0","materials":"苹果*10+铁矿石*2"},{"label":"简陋斧头","name":"80px-ToolAxeStone","category":"工具","how":"狸克赠送","space":"1.0×1.0","materials":"树枝*5+石头*1"},{"label":"钢架","name":"80px-FtrIronframe","category":"家具","how":"漂流瓶/村民赠送","space":"2.0x3.0","materials":"铁矿石*20"},{"label":"铸铁木矮桌","name":"80px-FtrIronwoodTableM","category":"","how":"","space":"","materials":"木材*6+铁矿石*4"},{"label":"木制单人床","name":"80px-FtrWoodenBedS","category":"家具","how":"","space":"2.0×1.0","materials":"木材*18"},{"label":"砖块栅栏","name":"80px-ItemFenceWallRenga","category":"","how":"里程兑换","space":"","materials":"黏土*6"},{"label":"瓦罐","name":"80px-FtrKame","category":"小物件","how":"狸克赠送","space":"1.0×1.0","materials":"黏土*5"},{"label":"铸铁木收纳推车","name":"80px-FtrIronwoodServingcart","category":"","how":"","space":"","materials":"木材*6+铁矿石*4"},{"label":"简约水井","name":"80px-FtrWell","category":"家具","how":"狸端机兑换","space":"1.0x1.0","materials":"石头*15+简陋铲子*1"},{"label":"简陋钓竿","name":"80px-ToolFishingrodWood","category":"工具","how":"狸克赠送","space":"1.0×1.0","materials":"树枝*5"},{"label":"木制矮柜","name":"80px-FtrWoodenChest","category":"","how":"","space":"","materials":"木材*16"},{"label":"铸铁木矮柜","name":"80px-FtrIronwoodChest","category":"","how":"","space":"","materials":"木材*7+铁矿石*4"},{"label":"药","name":"80px-ItemMedicine","category":"其他","how":"村民赠送","space":"1.0×1.0","materials":"蜂巢*1+杂草*3"},{"label":"铸铁木桌","name":"80px-FtrIronwoodTableL","category":"","how":"","space":"","materials":"木材*12+铁矿石*6"},{"label":"陷阱种子","name":"80px-PitfallSeed","category":"其他","how":"小动物赠送","space":"1*1","materials":"杂草*4+树枝*6"},{"label":"金条","name":"80px-FtrGoldbar","category":"","how":"","space":"","materials":"金矿石*3"},{"label":"铸铁木凳","name":"80px-FtrIronwoodChairS","category":"","how":"","space":"","materials":"木材*3+铁矿石*2"},{"label":"竹栅栏","name":"80px-ItemFenceBamboo","category":"其他","how":"狸端机兑换","space":"1.0x1.0","materials":"竹子材料*6"},{"label":"积木挂钟","name":"80px-FtrBlockClock","category":"","how":"","space":"","materials":"积木玩具*1+软木材*2+铁矿石*1"},{"label":"木制衣柜","name":"80px-FtrWoodenCloset","category":"家具","how":"","space":"1.0×1.0","materials":"木材*12"},{"label":"小鹿装饰品","name":"80px-FtrHuntingtrophy","category":"壁挂物","how":"","space":"1.0×1.5","materials":"软木材*8"},{"label":"养蜂箱","name":"80px-FtrBeekeepingbox","category":"家具","how":"","space":"1.0×1.0","materials":"蜂巢*3+木材*5"},{"label":"铸铁木厨房","name":"80px-FtrIronwoodKitchen","category":"家具","how":"","space":"2.0×1.0","materials":"木材*4+铁矿石*3+铸铁木矮柜*1+切菜板*1"},{"label":"木制桌","name":"80px-FtrWoodenTableL","category":"","how":"","space":"","materials":"木材*15"},{"label":"蒸笼","name":"80px-FtrBasketsteamer","category":"小物件/季节手册","how":"漂流瓶/气球","space":"1.0×1.0","materials":"春笋*6"},{"label":"搬家纸箱S","name":"80px-FtrMovingboxS","category":"","how":"","space":"","materials":"纸箱*2"},{"label":"铸铁木橱柜","name":"80px-FtrIronwoodCupboard","category":"","how":"","space":"","materials":"木材*12+铁矿石*6+铸铁木矮柜*1"},{"label":"石头桌","name":"80px-FtrStoneTable","category":"家具","how":"狸克赠送","space":"2.0×2.0","materials":"石头*8"},{"label":"搬家纸箱M","name":"80px-FtrMovingboxM","category":"家具","how":"","space":"2.0×1.0","materials":"纸箱*4"},{"label":"铸铁木时钟","name":"80px-FtrIronwoodClockW","category":"","how":"","space":"","materials":"木材*2+铁矿石*2"},{"label":"直条木板栅栏","name":"80px-ItemFenceVerticalWood","category":"其他","how":"狸端机兑换","space":"1.0×1.0","materials":"木材*8"},{"label":"铸铁木床铺","name":"80px-FtrIronwoodBedS","category":"","how":"","space":"","materials":"木材*20+铁矿石*10"},{"label":"搬家纸箱L","name":"80px-FtrMovingboxL","category":"家具","how":"","space":"2.0×2.0","materials":"纸箱*5"},{"label":"橘子服","name":"80px-TopsTexOnepieceAlineNOrange","category":"","how":"","space":"","materials":"橘子*8"},{"label":"木制凳子","name":"80px-FtrWoodenStoolS","category":"","how":"","space":"","materials":"木材*4"},{"label":"竹制博古架","name":"80px-FtrBambooShelf","category":"","how":"","space":"","materials":"竹子材料*15"},{"label":"冰块隔板","name":"80px-FtrIceScreen","category":"","how":"","space":"","materials":"大雪花*1+雪花*6"},{"label":"竹制落地灯","name":"80px-FtrBambooLamp","category":"","how":"","space":"","materials":"竹子材料*8"},{"label":"冰块椅子","name":"80px-FtrIceChairS","category":"","how":"","space":"","materials":"大雪花*1+雪花*3"},{"label":"黄金马桶","name":"80px-FtrGoldWC","category":"","how":"","space":"","materials":"金矿石*6"},{"label":"竹屏风","name":"80px-FtrBambooScreen","category":"","how":"","space":"","materials":"竹子材料*7+石头*6"},{"label":"冰块拱门","name":"80px-FtrIceGate","category":"","how":"","space":"","materials":"大雪花*1+雪花*10"},{"label":"竹花瓶","name":"80px-FtrBambooFlowerwall","category":"","how":"","space":"","materials":"竹子材料*1"},{"label":"冰块树木","name":"80px-FtrIceTree","category":"","how":"","space":"","materials":"大雪花*1+雪花*8"},{"label":"黄金长椅","name":"80px-FtrGoldbench","category":"","how":"","space":"","materials":"金矿石*5"},{"label":"竹制烛台","name":"80px-FtrBambooCandle","category":"","how":"","space":"","materials":"竹子材料*3+黏土*2"},{"label":"冰块柱子","name":"80px-FtrIcePillar","category":"","how":"","space":"","materials":"大雪花*1+雪花*3"},{"label":"雨伞架","name":"80px-FtrUmbrellastand","category":"家具","how":"气球","space":"1.0×1.0","materials":"铁矿石*3"},{"label":"冰块吧台","name":"80px-FtrIceCounter","category":"","how":"","space":"","materials":"大雪花*1+雪花*5"},{"label":"木制废纸篓","name":"80px-FtrTrashboxWood","category":"","how":"","space":"","materials":"木材*4"},{"label":"竹制惊吓箱","name":"80px-FtrBambooSurprisedbox","category":"家具/季节手册","how":"气球","space":"1.0×1.0","materials":"春笋*6"},{"label":"冰块艺术品","name":"80px-FtrIceArt","category":"","how":"","space":"","materials":"大雪花*1+雪花*4"},{"label":"洋风墓碑","name":"80px-FtrGravestoneEuropean","category":"","how":"","space":"","materials":"石头*30"},{"label":"花园长椅","name":"80px-FtrParkbenche","category":"","how":"","space":"","materials":"木材*12+铁矿石*4"},{"label":"冰块桌","name":"80px-FtrIceTableL","category":"","how":"","space":"","materials":"大雪花*1+雪花*8"},{"label":"竹制挡车墩","name":"80px-FtrBambooCarstop","category":"家具","how":"气球","space":"1.0×0.5","materials":"竹子材料*3"},{"label":"冰块床铺","name":"80px-FtrIceBedW","category":"","how":"","space":"","materials":"大雪花*1+雪花*10"},{"label":"椰子水","name":"80px-FtrCoconutjuice","category":"","how":"","space":"","materials":"椰子*1"},{"label":"铸铁衣帽立架","name":"80px-FtrIronHanger","category":"","how":"","space":"","materials":"铁矿石*3"},{"label":"垂吊玻璃盆栽","name":"80px-FtrTerrariumWall","category":"","how":"","space":"","materials":"杂草*12+铁矿石*4"},{"label":"路边摊","name":"80px-FtrFloat","category":"","how":"狸端机兑换","space":"","materials":"木材*12"},{"label":"三温暖电暖炉","name":"80px-FtrStoveSauna","category":"","how":"","space":"","materials":"石头*6+铁矿石*3+木材*3"},{"label":"铸铁壁架","name":"80px-FtrIronShelfW","category":"","how":"","space":"","materials":"铁矿石*3+黏土*1"},{"label":"砖块水井","name":"80px-FtrWellBrick","category":"","how":"","space":"","materials":"黏土*8+木材*5+简陋铲子*1"},{"label":"切菜板","name":"80px-FtrCuttingboard","category":"家具","how":"气球","space":"1.0x1.0","materials":"硬木材*2+铁矿石*1"},{"label":"黄金烛台","name":"80px-FtrGoldCandlestand","category":"小物件","how":"","space":"1.0×1.0","materials":"金矿石*2"},{"label":"铸铁柜","name":"80px-FtrIronShelf","category":"家具","how":"商店","space":"1.0x2.0","materials":"铁矿石*14"},{"label":"壁挂式盆栽","name":"80px-FtrLeafWall","category":"壁挂物","how":"","space":"1.0×1.0","materials":"杂草*5+黏土*5"},{"label":"竹篮","name":"80px-FtrBambooBasket","category":"","how":"","space":"","materials":"竹子材料*7"},{"label":"铸铁壁灯","name":"80px-FtrIronLampW","category":"壁挂物","how":"","space":"1.0×1.0","materials":"铁矿石*4+黏土*2"},{"label":"玻璃盆栽","name":"80px-FtrTerrarium","category":"小物件","how":"漂流瓶","space":"1*1","materials":"杂草*12+铁矿石*2"},{"label":"盆栽架","name":"80px-FtrBonsaiShelf","category":"","how":"","space":"","materials":"樱花盆栽*1+松树盆栽*1+木材*8"},{"label":"松树盆栽","name":"80px-FtrBonsaiPine","category":"","how":"","space":"","materials":"松果*8+黏土*5"},{"label":"朴素洗脸台","name":"80px-FtrWashstandBowl","category":"家具","how":"","space":"1.0×1.0","materials":"木材*6+黏土*4+铁矿石*1"},{"label":"铸铁工作桌","name":"80px-FtrIronTableM","category":"","how":"","space":"","materials":"铁矿石*10"},{"label":"天秤","name":"80px-FtrZodiacLibra","category":"","how":"","space":"","materials":"星星碎片*3+天秤座碎片*2+金矿石*2"},{"label":"路标","name":"80px-FtrSignpost","category":"家具","how":"村民赠送","space":"1.0×1.0","materials":"硬木材*2+软木材*3"},{"label":"蘑菇阳伞","name":"80px-FtrMushroomParasol","category":"","how":"","space":"","materials":"扁平蘑菇*3"},{"label":"贝壳灯","name":"80px-FtrShellLamp","category":"","how":"村民赠送","space":"","materials":"扇贝壳*2+黏土*3"},{"label":"铸铁木DIY桌","name":"80px-FtrWorkbenchIronwood","category":"","how":"","space":"","materials":"木材*12+铁矿石*6+迷你DIY作业台*1"},{"label":"素烧碗盘","name":"80px-FtrDishesUnglazed","category":"小物件","how":"漂流瓶","space":"1.0×1.0","materials":"黏土*3"},{"label":"贝壳屏风","name":"80px-FtrShellScreen","category":"","how":"","space":"","materials":"骨螺壳*4+海螺壳*4"},{"label":"蘑菇屏风","name":"80px-FtrMushroomScreen","category":"","how":"","space":"","materials":"瘦小蘑菇*3"},{"label":"可爱圣诞树","name":"80px-FtrTreeXmasS","category":"","how":"","space":"","materials":"红色装饰品*3+蓝色装饰品*3+金色装饰品*2+木材*5"},{"label":"大型圣诞树","name":"80px-FtrTreeXmasL","category":"","how":"","space":"","materials":"红色装饰品*6+蓝色装饰品*6+金色装饰品*4+木材*5+黏土*5"},{"label":"倒挂干燥花","name":"80px-FtrFlowerSwag","category":"","how":"","space":"","materials":"杂草*10"},{"label":"贝壳凳子","name":"80px-FtrShellStoolS","category":"家具","how":"村民赠送/漂流瓶","space":"1.0×1.0","materials":"宝螺壳*5"},{"label":"蘑菇树干","name":"80px-FtrMushroomPulpwood","category":"","how":"","space":"","materials":"瘦小蘑菇*2+圆木凳子*1"},{"label":"五右卫门泡澡桶","name":"80px-FtrGoemonburo","category":"家具","how":"气球/漂流瓶","space":"1.5×1.5","materials":"铁矿石*8+木材*2+炊火*1"},{"label":"橘子边桌","name":"80px-FtrFruitsTableS","category":"家具","how":"橘子岛自带/村民赠送","space":"1.0×1.0","materials":"橘子*10+木材*4"},{"label":"贝壳喷泉","name":"80px-FtrShellFountain","category":"","how":"","space":"","materials":"扇贝壳*5+石头*3"},{"label":"黄金餐具","name":"80px-FtrGoldDishes","category":"","how":"","space":"","materials":"金矿石*1"},{"label":"樱桃广播喇叭","name":"80px-FtrFruitsMusic","category":"","how":"","space":"","materials":"樱桃*10+铁矿石*2"},{"label":"橘子壁挂钟","name":"80px-FtrFruitsClockW","category":"壁挂物","how":"橘子岛自带/村民赠送","space":"1.0×1.0","materials":"橘子*10+木材*2"},{"label":"贝壳床铺","name":"80px-FtrShellBedW","category":"家具","how":"村民赠送","space":"","materials":"扇贝壳*5+黏土*3+石头*4"},{"label":"泡澡汽油桶","name":"80px-FtrDrumcanbath","category":"家具","how":"村民赠送","space":"1.0×1.0","materials":"汽油桶*1+炊火*1+石头*2"},{"label":"樱桃灯","name":"80px-FtrFruitsLampW","category":"","how":"","space":"","materials":"樱桃*10+黏土*2"},{"label":"贝壳拱门","name":"80px-FtrShellArch","category":"","how":"气球","space":"","materials":"钟螺壳*3+骨螺壳*3+沙钱*3+珊瑚*3+扇贝壳*3+宝螺壳*3"},{"label":"圆木装饰架","name":"80px-FtrLogShelf","category":"","how":"","space":"","materials":"圆木长凳*2+硬木材*3"},{"label":"礼物灯饰","name":"80px-FtrIllumiPresent","category":"","how":"","space":"","materials":"红色装饰品*3+金色装饰品*4+铁矿石*3"},{"label":"圆木圆桌","name":"80px-FtrLogTableLRound","category":"","how":"","space":"","materials":"硬木材*15"},{"label":"驯鹿灯饰","name":"80px-FtrIllumiReindeer","category":"","how":"","space":"","materials":"金色装饰品*6+铁矿石*5"},{"label":"圆木壁挂钟","name":"80px-FtrLogClockWall","category":"壁挂物","how":"","space":"1.0×1.0","materials":"硬木材*2+铁矿石*1"},{"label":"木鱼","name":"80px-FtrMokugyo","category":"小物件","how":"","space":"1.0×1.0","materials":"木材*3"},{"label":"圆木长沙发","name":"80px-FtrLogSofaL","category":"","how":"","space":"","materials":"圆木沙发*2"},{"label":"铜锣","name":"80px-FtrTamtam","category":"","how":"","space":"","materials":"铁矿石*6+木材*5"},{"label":"圆木凳子","name":"80px-FtrLogStoolS","category":"家具","how":"狸克赠送","space":"1.0×1.0","materials":"硬木材*4"},{"label":"木制书柜","name":"80px-FtrBookshelf","category":"","how":"","space":"","materials":"书*5+木材*10"},{"label":"树型灯饰","name":"80px-FtrIllumiTree","category":"","how":"","space":"","materials":"红色装饰品*8+蓝色装饰品*8+金色装饰品*6+铁矿石*6"},{"label":"散乱的纸张","name":"80px-FtrFloorpapers","category":"","how":"","space":"","materials":"文件堆*1"},{"label":"竹鼓","name":"80px-FtrBamboodrum","category":"","how":"村民赠送","space":"","materials":"竹子材料*3+软木材*2"},{"label":"圆木沙发","name":"80px-FtrLogSofaS","category":"","how":"","space":"","materials":"硬木材*8"},{"label":"桌上圣诞树","name":"80px-FtrTreeXmasMini","category":"","how":"","space":"","materials":"金色装饰品*5+树枝*3+黏土*2"},{"label":"圆木花园躺椅","name":"80px-FtrLogBedS","category":"","how":"","space":"","materials":"硬木材*12"},{"label":"水果桶装饮水机","name":"80px-FtrFruitswater","category":"小物件","how":"漂流瓶/气球礼物/村民赠送","space":"1.0×1.0","materials":"苹果*2+梨子*2+樱桃*2+橘子*2+桃子*2+椰子*2"},{"label":"圆木床铺","name":"80px-FtrLogBedW","category":"","how":"","space":"","materials":"硬木材*30"},{"label":"陶制牛奶壶","name":"80px-FtrPotteryjug","category":"小物件","how":"狸克赠送","space":"1.0×1.0","materials":"黏土*4"},{"label":"尖刺栅栏","name":"80px-ItemFenceSharply","category":"其他","how":"狸端机1000点兑换","space":"1.0×1.0","materials":"硬木材*8"},{"label":"波斯菊花环","name":"80px-FtrDoorOrnamentWreathCosmos","category":"壁挂物","how":"村民赠送","space":"1.0×1.0","materials":"黄色波斯菊*3+白色波斯菊*3+红色波斯菊*3"},{"label":"钉子与绳索","name":"80px-ItemFencePegRope","category":"","how":"","space":"","materials":"铁矿石*4"},{"label":"苹果椅","name":"80px-FtrFruitsChairApple","category":"","how":"","space":"","materials":"苹果*10+木材*4"},{"label":"雪花花环","name":"80px-FtrDoorOrnamentWreathIce","category":"","how":"","space":"","materials":"雪花*4"},{"label":"世界的路标","name":"80px-FtrSignpostWorld","category":"家具","how":"狸端机兑换","space":"1.5×1.5","materials":"硬木材*4+软木材*8"},{"label":"东方风栅栏","name":"80px-ItemFenceChinese","category":"其他","how":"狸端机 1000点兑换","space":"1.0x1.0","materials":"木材*6+软木材*4"},{"label":"黄色落叶","name":"80px-FtrFallenleavesYellow","category":"","how":"","space":"","materials":"橡栗*3+杂草*5"},{"label":"贝壳花环","name":"80px-FtrDoorOrnamentWreathShell","category":"","how":"","space":"","materials":"夏天贝壳*1+钟螺壳*1+沙钱*1+珊瑚*1+扇贝壳*1+宝螺壳*1"},{"label":"草裙","name":"80px-BottomsTexSkirtBoxGrass0","category":"装备","how":"","space":"1.0x1.0","materials":"杂草*7"},{"label":"干稻草栅栏","name":"80px-ItemFenceDriedStraw","category":"其他","how":"狸端机兑换","space":"1.0×1.0","materials":"杂草*10+木材*3"},{"label":"红色落叶","name":"80px-FtrFallenleavesRed","category":"","how":"","space":"","materials":"红叶*3+杂草*4"},{"label":"装饰花环","name":"80px-FtrDoorOrnamentWreathOrnament","category":"","how":"","space":"","materials":"蓝色装饰品*6+金色装饰品*2"},{"label":"横条木板栅栏","name":"80px-ItemFenceHorizontalWood","category":"其他","how":"狸端机兑换","space":"1.0×1.0","materials":"木材*6"},{"label":"椰子壁挂盆栽","name":"80px-FtrPlanterPalm","category":"","how":"","space":"","materials":"椰子*1+杂草*5"},{"label":"铁栅栏","name":"80px-ItemFenceSteel","category":"其他","how":"狸端机1000点兑换","space":"1.0×1.0","materials":"铁矿石*6"},{"label":"冰棒","name":"80px-FtrIceCandy","category":"","how":"","space":"","materials":"大雪花*1+雪花*1"},{"label":"水果花环","name":"80px-FtrDoorOrnamentWreathFruit","category":"","how":"","space":"","materials":"苹果*2+梨子*1+樱桃*3+橘子*3+桃子*1"},{"label":"圆木栅栏","name":"80px-ItemFenceLog","category":"其他","how":"狸端机 1000点兑换","space":"1.0x1.0","materials":"硬木材*6"},{"label":"雪花灯饰","name":"80px-FtrIllumiSnow","category":"","how":"","space":"","materials":"蓝色装饰品*9+铁矿石*3"},{"label":"铸铁门牌","name":"80px-FtrDoorOrnamentIron","category":"","how":"","space":"","materials":"铁矿石*2"},{"label":"梨子床铺","name":"80px-FtrFruitsBedS","category":"家具","how":"","space":"2.0×1.0","materials":"梨子*10+软木材*6"},{"label":"不规则石头墙","name":"80px-RoomTexWallStone00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"石头*5+黏土*5"},{"label":"蘑菇凳子","name":"80px-FtrMushroomChairS","category":"","how":"","space":"","materials":"圆形蘑菇*2"},{"label":"地下室地板","name":"80px-RoomTexFloorBasement00","category":"","how":"","space":"","materials":"石头*10"},{"label":"鱼饲料","name":"80px-FishBait","category":"其他","how":"挖到蛤蜊时觉悟","space":"1.0×1.0","materials":"蛤蜊*1"},{"label":"金箔日式拉门","name":"80px-RoomTexWallFusumaGorgeous00","category":"","how":"","space":"","materials":"金矿石*2+日式拉门*1"},{"label":"蘑菇花环","name":"80px-FtrDoorOrnamentWreathMushroom","category":"","how":"","space":"","materials":"树枝*10+圆形蘑菇*1+瘦小蘑菇*1+扁平蘑菇*1"},{"label":"钢架墙","name":"80px-RoomTexWallSteel00","category":"","how":"","space":"","materials":"铁矿石*8"},{"label":"铁盔甲","name":"80px-TopsTexOnepieceOverallLPlatearmorIron","category":"装备","how":"","space":"1.0×1.0","materials":"铁矿石*8"},{"label":"图书馆墙","name":"80px-RoomTexWallLibrary00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"书*10"},{"label":"树枝花环","name":"80px-FtrDoorOrnamentWreathBranch","category":"","how":"","space":"","materials":"树枝*10"},{"label":"茶色人字斜纹墙","name":"80px-RoomTexWallHerringbone00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"软木材*15"},{"label":"金盔甲","name":"80px-TopsTexOnepieceOverallLPlatearmorGold","category":"装备","how":"与岛民对话","space":"1.0*1.0","materials":"金矿石*8"},{"label":"漫画图书馆墙","name":"80px-RoomTexWallLibrary01","category":"墙壁·地板·地垫","how":"村民赠送","space":"一个房间","materials":"杂志*10"},{"label":"骨头门牌","name":"80px-FtrDoorPlateBone","category":"壁挂物","how":"漂流瓶/气球礼物/村民赠送","space":"1.0×1.0","materials":"软木材*3"},{"label":"深棕色人字斜纹墙","name":"80px-RoomTexWallHerringbone01","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"软木材*15"},{"label":"叶子","name":"80px-AccessoryMouthLeafGreen","category":"装备","how":"动物赠送","space":"1.0x1.0","materials":"杂草*5"},{"label":"枫叶墙","name":"80px-RoomSpWallAutumun00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"红叶*10+木材*5+杂草*5"},{"label":"木屋墙","name":"80px-RoomTexWallLog00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"硬木材*15"},{"label":"桃子壁纸","name":"80px-RoomTexWallPeach00","category":"墙壁·地板·地垫","how":"村民赠送","space":"一个房间","materials":"桃子*20"},{"label":"嵌木墙","name":"80px-RoomTexWallMixPlankWood00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"木材*15"},{"label":"木节墙","name":"80px-RoomTexWallCedar00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"硬木材*15"},{"label":"木质墙","name":"80px-RoomTexWallFireWood00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"硬木材*15"},{"label":"樱桃壁纸","name":"80px-RoomTexWallCherry00","category":"墙壁·地板·地垫","how":"村民赠送","space":"一个房间","materials":"樱桃*20"},{"label":"深色嵌木墙","name":"80px-RoomTexWallMixPlankWood01","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"木材*15"},{"label":"橘子壁纸","name":"80px-RoomTexWallOrange00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"橘子*20"},{"label":"竹林墙","name":"80px-RoomTexWallChikurin00","category":"墙壁·地板·地垫","how":"漂流瓶","space":"一个房间","materials":"春笋*7+竹笋*3"},{"label":"樱花木墙","name":"80px-RoomTexWallSolidWood00","category":"季节手册","how":"气球","space":"一个房间","materials":"樱花花瓣*5+木材*10"},{"label":"蜂巢墙","name":"80px-RoomTexWallHoney00","category":"墙壁·地板·地垫","how":"村民赠送","space":"一个房间","materials":"蜂巢*6"},{"label":"苹果壁纸","name":"80px-RoomTexWallApple00","category":"墙壁·地板·地垫","how":"村民赠送","space":"一个房间","materials":"苹果*20"},{"label":"雪花壁纸","name":"80px-RoomTexWallSnowCrystal00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"雪花*12"},{"label":"竹子地板","name":"80px-RoomTexFloorBamboo00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"竹子材料*15"},{"label":"黄金墙","name":"80px-RoomTexWallGold00","category":"墙壁·地板·地垫","how":"村民赠送","space":"一个房间","materials":"金矿石*4"},{"label":"梨子壁纸","name":"80px-RoomTexWallPear00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"梨子*20"},{"label":"原木墙","name":"80px-RoomTexWallWildWood00","category":"墙壁·地板·地垫","how":"","space":"一个房间","materials":"木材*15"},{"label":"月球表面地板","name":"80px-RoomTexFloorLunar00","category":"墙壁·地板·地垫","how":"流星雨当天晚上与岛上的傅珂对话","space":"一个房间","materials":"星星碎片*5+大星星碎片*1"},{"label":"紫色风信子花冠","name":"80px-CapOrnamentHyacinth3","category":"","how":"","space":"","materials":"紫色风信子*6"},{"label":"水面地板","name":"80px-RoomSpFloorWater00","category":"","how":"","space":"","materials":"夏天贝壳*6"},{"label":"百合棒","name":"80px-ToolStickYuri","category":"","how":"","space":"","materials":"白色百合*1+星星碎片*3"},{"label":"三色堇棒","name":"80px-ToolStickPansy","category":"工具","how":"流星当天晚上与岛上的傅珂对话","space":"1.0×1.0","materials":"黄色三色堇*1+星星碎片*3"},{"label":"金钱地板","name":"80px-RoomTexFloorBill00","category":"","how":"","space":"","materials":"50000铃钱*1"},{"label":"银莲花花冠","name":"80px-CapOrnamentAnemone1","category":"","how":"","space":"","materials":"红色银莲花*2+橘色银莲花*2+白色银莲花*2"},{"label":"粉红色木地板","name":"80px-RoomTexFloorSolidWood00","category":"季节手册","how":"气球","space":"一个房间","materials":"樱花花瓣*5+木材*10"},{"label":"菊花棒","name":"80px-ToolStickChrysanthemum","category":"","how":"","space":"","materials":"黄色菊花*1+星星碎片*3"},{"label":"波斯菊棒","name":"80px-ToolStickCosmos","category":"","how":"","space":"","materials":"白色波斯菊*1+星星碎片*3"},{"label":"滑雪场地板","name":"80px-RoomTexFloorGelande00","category":"","how":"","space":"","materials":"雪花*8"},{"label":"清新银莲花花冠","name":"80px-CapOrnamentAnemone2","category":"","how":"","space":"","materials":"蓝色银莲花*3+粉红银莲花*3"},{"label":"风信子棒","name":"80px-ToolStickHyacinth","category":"","how":"","space":"","materials":"粉红风信子*1+星星碎片*3"},{"label":"风信子花冠","name":"80px-CapOrnamentHyacinth1","category":"","how":"","space":"","materials":"红色风信子*4+黄色风信子*2+白色风信子*2"},{"label":"玫瑰棒","name":"80px-ToolStickRose","category":"工具","how":"与傅珂对话有概率获得","space":"1.0×1.0","materials":"红色玫瑰*1+星星碎片*3"},{"label":"枫叶地板","name":"80px-RoomTexFloorAutumun00","category":"","how":"","space":"","materials":"红叶*10+杂草*15"},{"label":"紫色银莲花花冠","name":"80px-CapOrnamentAnemone3","category":"","how":"","space":"","materials":"紫色银莲花*6"},{"label":"银莲花棒","name":"80px-ToolStickAnemones","category":"","how":"","space":"","materials":"橘色银莲花*1+星星碎片*3"},{"label":"清新风信子花冠","name":"80px-CapOrnamentHyacinth2","category":"","how":"","space":"","materials":"蓝色风信子*4+粉红风信子*2+橘色风信子*2"},{"label":"黄金地板","name":"80px-RoomTexFloorGold00","category":"","how":"","space":"","materials":"金矿石*4"},{"label":"郁金香棒","name":"80px-ToolStickTulip","category":"","how":"","space":"","materials":"红色郁金香*1+星星碎片*3"},{"label":"贝壳广播喇叭","name":"80px-FtrShellMusic","category":"小物件","how":"村民赠送","space":"1.0×1.0","materials":"海螺壳*3+铁矿石*2"},{"label":"可爱玫瑰花冠","name":"80px-CapOrnamentRose2","category":"","how":"","space":"","materials":"粉红玫瑰*3+橘色玫瑰*3"},{"label":"典雅郁金香花冠","name":"80px-CapOrnamentTulip2","category":"","how":"","space":"","materials":"紫色郁金香*2+粉红郁金香*2+橘色郁金香*1"},{"label":"菊花花冠","name":"80px-CapOrnamentMum1","category":"","how":"","space":"","materials":"红色菊花*2+黄色菊花*2+白色菊花*2"},{"label":"波斯菊花冠","name":"80px-CapOrnamentCosmos1","category":"","how":"","space":"","materials":"红色波斯菊*2+黄色波斯菊*2+白色波斯菊*3"},{"label":"蘑菇壁纸","name":"80px-RoomTexWallMush00","category":"","how":"","space":"","materials":"出色蘑菇*1+圆形蘑菇*1+瘦小蘑菇*1+扁平蘑菇*1"},{"label":"典雅玫瑰花冠","name":"80px-CapOrnamentRose3","category":"","how":"","space":"","materials":"紫色玫瑰*3+黑色玫瑰*3"},{"label":"深色郁金香花冠","name":"80px-CapOrnamentTulip3","category":"","how":"","space":"","materials":"黑色郁金香*5"},{"label":"典雅菊花花冠","name":"80px-CapOrnamentMum2","category":"","how":"","space":"","materials":"紫色菊花*3+粉红菊花*3"},{"label":"甜美波斯菊花冠","name":"80px-CapOrnamentCosmos2","category":"","how":"","space":"","materials":"粉红波斯菊*4+橘色波斯菊*3"},{"label":"百合花冠","name":"80px-CapOrnamentYuri1","category":"","how":"","space":"","materials":"红色百合*2+黄色百合*2+白色百合*2"},{"label":"三色堇花冠","name":"80px-CapOrnamentPansy1","category":"帽子","how":"村民赠送","space":"1.0x1.0","materials":"红色三色堇*2+黄色三色堇*2+白色三色堇*2"},{"label":"简约菊花花冠","name":"80px-CapOrnamentMum3","category":"","how":"","space":"","materials":"绿色菊花*6"},{"label":"深色波斯菊花冠","name":"80px-CapOrnamentCosmos3","category":"","how":"","space":"","materials":"黑色波斯菊*7"},{"label":"可爱百合花冠","name":"80px-CapOrnamentYuri2","category":"","how":"","space":"","materials":"粉红百合*2+橘色百合*2+白色百合*2"},{"label":"清新三色堇花冠","name":"80px-CapOrnamentPansy2","category":"装备","how":"村民赠送","space":"1.0×1.0","materials":"红黄三色堇*3+蓝色三色堇*3"},{"label":"斗笠","name":"80px-CapHatAjiroBeige","category":"","how":"","space":"","materials":"杂草*10"},{"label":"玫瑰花冠","name":"80px-CapOrnamentRose1","category":"","how":"","space":"","materials":"红色玫瑰*2+黄色玫瑰*2+白色玫瑰*2"},{"label":"郁金香花冠","name":"80px-CapOrnamentTulip1","category":"装备","how":"","space":"1.0x1.0","materials":"红色郁金香*2+黄色郁金香*2+白色郁金香*1"},{"label":"深色百合花冠","name":"80px-CapOrnamentYuri3","category":"","how":"","space":"","materials":"黑色百合*6"},{"label":"紫色三色堇花冠","name":"80px-CapOrnamentPansy3","category":"","how":"","space":"","materials":"紫色三色堇*6"},{"label":"复活节壁纸","name":"80px-RoomTexWallEaster00","category":"壁纸","how":"漂流瓶/气球","space":"一个房间","materials":"地面蛋*2+岩石蛋*2+叶子蛋*2+森林蛋*2+飞天蛋*2+鱼儿蛋*2"},{"label":"橘子帽子","name":"80px-CapHatOrange","category":"装备","how":"","space":"1.0x1.0","materials":"橘子*5"},{"label":"石栅栏","name":"80px-ItemFenceStone","category":"","how":"","space":"","materials":"石头*4"},{"label":"流冰地板","name":"80px-RoomSpFloorIceFloe00","category":"","how":"","space":"","materials":"雪花*10"},{"label":"铁甲头盔","name":"80px-CapFullfaceKnightIron","category":"","how":"","space":"","materials":"铁矿石*5"},{"label":"有刺铁丝网","name":"80px-ItemFenceBarbedWire","category":"其他","how":"狸端机兑换","space":"1.0×1.0","materials":"硬木材*4+铁矿石*2"},{"label":"海底地板","name":"80px-RoomSpFloorFishTank00","category":"","how":"","space":"","materials":"夏天贝壳*3+珊瑚*3"},{"label":"露营地施工工具组","name":"80px-TentWhite","category":"其他","how":"狸克赠送","space":"4*5","materials":"木材*15+软木材*15+硬木材*15+铁矿石*15"},{"label":"3层雪人","name":"80px-FtrSnowman","category":"","how":"","space":"","materials":"大雪花*1+雪花*6+树枝*2"},{"label":"石板墙","name":"80px-RoomTexWallBasement00","category":"","how":"","space":"","materials":"石头*10"},{"label":"银河系地板","name":"80px-RoomSpFloorGalaxy00","category":"","how":"","space":"","materials":"星星碎片*5+大星星碎片*1"},{"label":"石砌铁艺栅栏","name":"80px-ItemFenceIronAndStone","category":"其他","how":"狸端机兑换","space":"1.0×1.0","materials":"石头*6+铁矿石*3"},{"label":"金甲头盔","name":"80px-CapFullfaceKnightGold","category":"","how":"","space":"","materials":"金矿石*5"},{"label":"圣诞墙","name":"80px-RoomSpWallXmas00","category":"","how":"","space":"","materials":"红色装饰品*5+蓝色装饰品*5+金色装饰品*5+黏土*5"},{"label":"太空船地板","name":"80px-RoomSpFloorSF00","category":"","how":"","space":"","materials":"星星碎片*5+大星星碎片*1"},{"label":"和风栅栏","name":"80px-ItemFenceJapanese","category":"其他","how":"狸端机兑换","space":"1.0×1.0","materials":"铁矿石*3+黏土*3+石头*3"},{"label":"银莲花花环","name":"80px-FtrDoorOrnamentWreathAnemone","category":"","how":"","space":"","materials":"红色银莲花*3+白色银莲花*3+橘色银莲花*3"},{"label":"郁金香花环","name":"80px-FtrDoorOrnamentWreathTulip","category":"壁挂物","how":"小动物赠送","space":"1.0x1.0","materials":"红色郁金香*3+黄色郁金香*3+白色郁金香*3"},{"label":"排笛","name":"80px-ToolPanpipe","category":"其他/季节手册","how":"漂流瓶/气球礼物","space":"1.0×1.0","materials":"春笋*7"},{"label":"风信子花环","name":"80px-FtrDoorOrnamentWreathHyacinth","category":"","how":"","space":"","materials":"白色风信子*3+红色风信子*3+黄色风信子*3"},{"label":"木匾额","name":"80px-FtrSignboardWood","category":"","how":"","space":"","materials":"硬木材*5"},{"label":"水中壁纸","name":"80px-RoomSpWallFishTank00","category":"","how":"","space":"","materials":"夏天贝壳*3+珊瑚*5"},{"label":"玫瑰花环","name":"80px-FtrDoorOrnamentWreathRose","category":"壁挂物","how":"狸克赠送","space":"1.0x1.0","materials":"红色玫瑰*3+白色玫瑰*3+黄色玫瑰*3"},{"label":"金甲靴","name":"80px-ShoesKneeKnightGold","category":"","how":"","space":"","materials":"金矿石*4"},{"label":"铁甲靴","name":"80px-ShoesKneeKnightIron","category":"","how":"","space":"","materials":"铁矿石*4"},{"label":"百合花环","name":"80px-FtrDoorOrnamentWreathYuri","category":"","how":"","space":"","materials":"白色百合*3+红色百合*3+黄色百合*3"},{"label":"太空船墙","name":"80px-RoomSpWallSF00","category":"","how":"","space":"","materials":"星星碎片*5+大星星碎片*1"},{"label":"丛林壁纸","name":"80px-RoomTexWallJungle00","category":"","how":"","space":"","materials":"杂草*15+木材*3+硬木材*3+软木材*3"},{"label":"星星墙","name":"80px-RoomSpWallStarPrint00","category":"","how":"","space":"","materials":"星星碎片*5+大星星碎片*1"},{"label":"滑雪场壁纸","name":"80px-RoomSpWallGelande00","category":"","how":"","space":"","materials":"雪花*8"},{"label":"南方海洋墙","name":"80px-RoomSpWallTropical00","category":"","how":"","space":"","materials":"夏天贝壳*5"},{"label":"丛林地板","name":"80px-RoomTexFloorJungle00","category":"墙壁·地板·地垫","how":"动物赠送","space":"一个房间","materials":"杂草*10+黏土*10"},{"label":"三色堇花环","name":"80px-FtrDoorOrnamentWreathPansy","category":"壁挂物","how":"","space":"1.0×1.0","materials":"黄色三色堇*3+白色三色堇*3+红色三色堇*3"},{"label":"积木凳子","name":"80px-FtrBlockStoolS","category":"","how":"","space":"","materials":"积木玩具*1+软木材*2"},{"label":"星空墙","name":"80px-RoomSpWallStarSky00","category":"","how":"","space":"","materials":"星星碎片*5+大星星碎片*1"},{"label":"冰山墙","name":"80px-RoomTexWallIceFloe00","category":"","how":"","space":"","materials":"雪花*10"},{"label":"冰雪地板","name":"80px-RoomSpFloorIce00","category":"","how":"","space":"","materials":"大雪花*1+雪花*8"},{"label":"菊花花环","name":"80px-FtrDoorOrnamentWreathMum","category":"","how":"","space":"","materials":"白色菊花*3+黄色菊花*3+红色菊花*3"},{"label":"微型图书馆","name":"80px-FtrMicrolibrary","category":"","how":"","space":"","materials":"书*3+木材*5"},{"label":"冰雪壁纸","name":"80px-RoomSpWallIce00","category":"","how":"","space":"","materials":"大雪花*1+雪花*8"},{"label":"典雅波斯菊花环","name":"80px-FtrDoorOrnamentWreathCosmosRare","category":"","how":"","space":"","materials":"黑色波斯菊*10"},{"label":"原木门牌","name":"80px-FtrDoorOrnamentLog","category":"门牌","how":"漂流瓶","space":"1.0x1.0","materials":"木材*2+粉红玫瑰*1"},{"label":"紫色风信子花环","name":"80px-FtrDoorOrnamentWreathHyacinthRare","category":"","how":"","space":"","materials":"紫色风信子*10"},{"label":"华丽三色堇花环","name":"80px-FtrDoorOrnamentWreathPansyMix","category":"","how":"","space":"","materials":"红黄三色堇*3+蓝色三色堇*3+黄色三色堇*3"},{"label":"载人太空船","name":"80px-FtrSpacecraft","category":"","how":"","space":"","materials":"星星碎片*10+铁矿石*20"},{"label":"典雅银莲花花环","name":"80px-FtrDoorOrnamentWreathAnemoneRare","category":"","how":"","space":"","materials":"紫色银莲花*10"},{"label":"化石门牌","name":"80px-FtrDoorOrnamentFossil","category":"壁挂物","how":"村民赠送","space":"1.0×1.0","materials":"化石*1+石头*2"},{"label":"深色百合花环","name":"80px-FtrDoorOrnamentWreathYuriRare","category":"","how":"","space":"","materials":"黑色百合*10"},{"label":"精美菊花花环","name":"80px-FtrDoorOrnamentWreathMumMix","category":"","how":"","space":"","materials":"粉红菊花*3+紫色菊花*3+红色菊花*3"},{"label":"精美百合花环","name":"80px-FtrDoorOrnamentWreathYuriMix","category":"","how":"","space":"","materials":"橘色百合*3+粉红百合*3+黄色百合*3"},{"label":"深色玫瑰花环","name":"80px-FtrDoorOrnamentWreathRoseRare","category":"","how":"","space":"","materials":"黑色玫瑰*3+紫色玫瑰*6"},{"label":"可爱波斯菊花环","name":"80px-FtrDoorOrnamentWreathCosmosMix","category":"","how":"","space":"","materials":"橘色波斯菊*3+粉红波斯菊*3+红色波斯菊*3"},{"label":"深色郁金香花环","name":"80px-FtrDoorOrnamentWreathTulipRare","category":"","how":"","space":"","materials":"黑色郁金香*10"},{"label":"清新风信子花环","name":"80px-FtrDoorOrnamentWreathHyacinthMix","category":"","how":"","space":"","materials":"橘色风信子*3+蓝色风信子*3+粉红风信子*3"},{"label":"肉球门牌","name":"80px-FtrDoorOrnamentPaw","category":"","how":"","space":"","materials":"木材*3"},{"label":"清新三色堇花环","name":"80px-FtrDoorOrnamentWreathPansyRare","category":"","how":"","space":"","materials":"紫色三色堇*10"},{"label":"清新银莲花花环","name":"80px-FtrDoorOrnamentWreathAnemoneMix","category":"","how":"","space":"","materials":"蓝色银莲花*3+粉红银莲花*3+白色银莲花*3"},{"label":"蓝色玫瑰花环","name":"80px-FtrDoorOrnamentWreathRoseUrtraRare","category":"","how":"","space":"","materials":"蓝色玫瑰*10"},{"label":"可爱郁金香花环","name":"80px-FtrDoorOrnamentWreathTulipMix","category":"","how":"","space":"","materials":"橘色郁金香*3+粉红郁金香*3+紫色郁金香*3"},{"label":"纹章门牌","name":"80px-FtrDoorOrnamentCrest","category":"壁挂物","how":"村民赠送","space":"1.0×1.0","materials":"铁矿石*4"},{"label":"自然风菊花花环","name":"80px-FtrDoorOrnamentWreathMumRare","category":"","how":"","space":"","materials":"绿色菊花*10"},{"label":"精美玫瑰花环","name":"80px-FtrDoorOrnamentWreathRoseMix","category":"","how":"","space":"","materials":"橘色玫瑰*3+粉红玫瑰*3+黄色玫瑰*3"},{"label":"双子座衣柜","name":"80px-FtrZodiacGemini","category":"","how":"","space":"","materials":"星星碎片*3+双子座碎片*2+金矿石*2+石头*6"},{"label":"金色玫瑰花环","name":"80px-FtrDoorOrnamentWreathRoseGold","category":"","how":"","space":"","materials":"金色玫瑰*10"},{"label":"柴火","name":"80px-FtrFirewood","category":"","how":"","space":"","materials":"木材*8"},{"label":"水瓶座水瓶","name":"80px-FtrZodiacAquarius","category":"","how":"","space":"","materials":"星星碎片*3+水瓶座碎片*2+金矿石*2+石头*5"},{"label":"金牛座浴缸","name":"80px-FtrZodiacTaurus","category":"","how":"","space":"","materials":"星星碎片*3+金牛座碎片*2+金矿石*1+石头*8"},{"label":"牢笼","name":"80px-FtrScreenCage","category":"","how":"","space":"","materials":"铁矿石*5"},{"label":"野外圆木长凳","name":"80px-FtrWoodBench","category":"","how":"","space":"","materials":"硬木材*8"},{"label":"摩羯座摆饰","name":"80px-FtrZodiacCapricornus","category":"","how":"","space":"","materials":"星星碎片*3+摩羯座碎片*2+金矿石*2+石头*12"},{"label":"天蝎座灯","name":"80px-FtrZodiacScorpio","category":"","how":"","space":"","materials":"星星碎片*3+天蝎座碎片*2+金矿石*2+石头*5"},{"label":"金色蜣螂","name":"80px-FtrInsectKabutomushiGold","category":"","how":"","space":"","materials":"金矿石*3"},{"label":"平衡玩具","name":"80px-FtrBalancingtoy","category":"","how":"","space":"","materials":"橡栗*4+硬木材*2"},{"label":"射手座箭矢","name":"80px-FtrZodiacSagittarius","category":"","how":"","space":"","materials":"星星碎片*3+射手座碎片*2+金矿石*2"},{"label":"双鱼座灯","name":"80px-FtrZodiacPisces","category":"","how":"","space":"","materials":"星星碎片*3+双鱼座碎片*2+金矿石*2+石头*4"},{"label":"白羊座木马","name":"80px-FtrZodiacAries","category":"家具","how":"流星雨当天晚上与岛上的傅珂对话","space":"1.0×1.0","materials":"星星碎片*3+白羊座碎片*2+金矿石*1+石头*5"},{"label":"竹编球","name":"80px-FtrBambooBall","category":"","how":"","space":"","materials":"竹子材料*3"},{"label":"巨蟹座桌子","name":"80px-FtrZodiacCancer","category":"","how":"","space":"","materials":"星星碎片*3+巨蟹座碎片*2+金矿石*2+石头*3"},{"label":"狮子座雕塑","name":"80px-FtrZodiacLeo","category":"","how":"","space":"","materials":"星星碎片*3+狮子座碎片*2+金矿石*2+石头*3"},{"label":"处女座竖琴","name":"80px-FtrZodiacVirgo","category":"","how":"","space":"","materials":"星星碎片*3+处女座碎片*2+金矿石*2+石头*4"},{"label":"竹笋灯","name":"80px-FtrBambooshootLamp","category":"季节手册","how":"气球/漂流瓶","space":"1.0×1.0","materials":"春笋*4+竹笋*5+黏土*4"},{"label":"新月椅","name":"80px-FtrStarMoonChairL","category":"","how":"","space":"","materials":"星星碎片*7+大星星碎片*1"},{"label":"赏花组合","name":"80px-FtrSakuraPicnicset","category":"季节手册","how":"气球","space":"","materials":"樱花花瓣*10"},{"label":"树果拱门","name":"80px-FtrNutArch","category":"","how":"","space":"","materials":"松果*4+橡栗*5+红叶*5+树枝*15"},{"label":"竹制便当盒","name":"80px-FtrBambooLunch","category":"小物件","how":"漂流瓶/气球礼物","space":"1.0×1.0","materials":"竹子材料*4"},{"label":"赏花提灯","name":"80px-FtrSakuraLantern","category":"家具/季节手册","how":"气球礼物","space":"1.0×1.0","materials":"樱花花瓣*6+硬木材*4"},{"label":"树果挂饰","name":"80px-FtrNutMobile","category":"","how":"","space":"","materials":"松果*2+橡栗*3+树枝*3"},{"label":"挂饰","name":"80px-FtrOrnamentMobile","category":"","how":"","space":"","materials":"红色装饰品*1+蓝色装饰品*1+金色装饰品*1+树枝*4"},{"label":"樱花盆栽","name":"80px-FtrBonsaiSakura","category":"季节手册","how":"气球","space":"1.0×1.0","materials":"樱花花瓣*6+硬木材*2+杂草*3+黏土*3"},{"label":"樱花时钟","name":"80px-FtrSakuraClockW","category":"","how":"","space":"","materials":"樱花花瓣*5+铁矿石*1"},{"label":"树果灯","name":"80px-FtrNutLamp","category":"","how":"","space":"","materials":"橡栗*6+黏土*4"},{"label":"星光","name":"80px-FtrStarLamp","category":"","how":"","space":"","materials":"星星碎片*5"},{"label":"樱花树枝","name":"80px-FtrSakuraBranch","category":"季节手册","how":"气球","space":"1.0x2.0","materials":"樱花花瓣*8+树枝*4+黏土*5"},{"label":"橘子雨伞","name":"80px-UmbrellaOrange0","category":"","how":"","space":"","materials":"橘子*7"},{"label":"小树果树","name":"80px-FtrNutTreeS","category":"","how":"","space":"","materials":"松果*6+橡栗*4+硬木材*1"},{"label":"星星挂饰","name":"80px-FtrStarDecorationWall","category":"","how":"","space":"","materials":"星星碎片*10"},{"label":"樱花花瓣堆","name":"80px-FtrSakuraPetal","category":"","how":"","space":"","materials":"樱花花瓣*5"},{"label":"大树果树","name":"80px-FtrNutTreeL","category":"","how":"","space":"","materials":"松果*5+橡栗*4+红叶*4+树枝*8+黏土*4"},{"label":"朴素DIY作业台","name":"80px-FtrWorkbenchStump","category":"","how":"","space":"","materials":"硬木材*5+铁矿石*1"},{"label":"菊花抱枕","name":"80px-FtrFlowerStoolS","category":"","how":"","space":"","materials":"黄色菊花*3+杂草*10"},{"label":"枫叶雨伞","name":"80px-UmbrellaAutumn0","category":"","how":"","space":"","materials":"红叶*7"},{"label":"木制双人床","name":"80px-FtrWoodenBedW","category":"","how":"","space":"","materials":"木材*30"},{"label":"樱花树墙","name":"80px-RoomSpWallSakura00","category":"墙壁·地板·地垫","how":"气球","space":"一个房间","materials":"樱花花瓣*10+硬木材*5"},{"label":"纸箱沙发","name":"80px-FtrCardboardSofaL","category":"","how":"","space":"","materials":"纸箱*2"},{"label":"银莲花风扇","name":"80px-FtrFlowerFan","category":"","how":"","space":"","materials":"红色银莲花*3+铁矿石*2"},{"label":"蘑菇雨伞","name":"80px-UmbrellaMushroom0","category":"","how":"","space":"","materials":"扁平蘑菇*3"},{"label":"木制小桌","name":"80px-FtrWoodenTableMini","category":"","how":"","space":"","materials":"木材*6"},{"label":"桥梁施工工具组","name":"80px-TentWhite","category":"桥梁","how":"狸克赠送","space":"2.0*5.0","materials":"圆木桩*4+黏土*4+石头*4"},{"label":"纸箱桌","name":"80px-FtrCardboardTableL","category":"","how":"","space":"","materials":"纸箱*4"},{"label":"风信子灯","name":"80px-FtrFlowerLamp","category":"","how":"","space":"","materials":"紫色风信子*5+黏土*3"},{"label":"蘑菇森林地板","name":"80px-RoomTexFloorMushForest00","category":"","how":"","space":"","materials":"珍贵蘑菇*1+圆形蘑菇*2+瘦小蘑菇*2+扁平蘑菇*2+杂草*10"},{"label":"木制矮桌","name":"80px-FtrWoodenTableM","category":"","how":"","space":"","materials":"木材*10"},{"label":"波斯菊花洒","name":"80px-FtrFlowerShower","category":"","how":"","space":"","materials":"粉红波斯菊*5+铁矿石*3"},{"label":"纸箱床铺","name":"80px-FtrCardboardBedS","category":"","how":"","space":"","materials":"纸箱*4"},{"label":"玫瑰床铺","name":"80px-FtrFlowerBedW","category":"家具","how":"","space":"","materials":"红色玫瑰*10+木材*5"},{"label":"蘑菇森林墙","name":"80px-RoomTexWallMushForest00","category":"","how":"","space":"","materials":"出色蘑菇*2+圆形蘑菇*2+瘦小蘑菇*2+扁平蘑菇*2+木材*10"},{"label":"木制穿衣镜","name":"80px-FtrWoodenMirror","category":"","how":"","space":"","materials":"木材*5+铁矿石*1"},{"label":"郁金香惊吓箱","name":"80px-FtrFlowerSurprisedbox","category":"","how":"","space":"","materials":"红色郁金香*5+软木材*3"},{"label":"纸箱椅","name":"80px-FtrCardboardChairS","category":"","how":"","space":"","materials":"纸箱*1"},{"label":"座垫堆","name":"80px-FtrCushionJapanPile","category":"","how":"","space":"","materials":"座垫*3"},{"label":"樱花地毯","name":"80px-RoomTexFloorSakura00","category":"季节手册","how":"气球","space":"","materials":"樱花花瓣*10+杂草*20"},{"label":"橘子地毯","name":"80px-RugOtherOrangeM00","category":"","how":"","space":"","materials":"橘子*6"},{"label":"三度笠","name":"80px-CapHatSandogasa0","category":"","how":"","space":"","materials":"杂草*10"},{"label":"金色玫瑰花冠","name":"80px-CapOrnamentRose5","category":"","how":"","space":"","materials":"金色玫瑰*6"},{"label":"叶子面具","name":"80px-CapMaskLeaf0","category":"","how":"","space":"","materials":"杂草*10"},{"label":"三色堇桌","name":"80px-FtrFlowerTableS","category":"","how":"","space":"","materials":"黄色三色堇*5+硬木材*3"},{"label":"桃子地毯","name":"80px-RugOtherPeachM00","category":"","how":"","space":"","materials":"桃子*6"},{"label":"黏土玩具","name":"80px-FtrClaytoy","category":"","how":"","space":"","materials":"黏土*2"},{"label":"落叶凳子","name":"80px-FtrFallenleavesChairS","category":"","how":"","space":"","materials":"红叶*3+木材*3"},{"label":"和风墓碑","name":"80px-FtrGravestoneJapan","category":"","how":"","space":"","materials":"石头*30"},{"label":"星星沙滩地板","name":"80px-RoomTexFloorSandStar00","category":"","how":"","space":"","materials":"夏天贝壳*3+沙滩地板*1"},{"label":"梨子地毯","name":"80px-RugOtherPearM00","category":"","how":"","space":"","materials":"梨子*6"},{"label":"棕榈树灯","name":"80px-FtrPalmtreelamp","category":"家具","how":"气球/漂流瓶","space":"1.0x1.0","materials":"椰子*4+木材*4+黏土*4"},{"label":"苹果地毯","name":"80px-RugOtherAppleM00","category":"","how":"","space":"","materials":"苹果*6"},{"label":"筒仓","name":"80px-FtrSilo","category":"其他","how":"狸端机兑换","space":"2.0x2.0","materials":"铁矿石*12+硬木材*6+黏土*12+石头*12"},{"label":"贝壳地毯","name":"80px-RugOtherShellM00","category":"","how":"","space":"","materials":"扇贝壳*3"},{"label":"奖杯柜","name":"80px-FtrTrophycase","category":"","how":"","space":"","materials":"硬木材*24+金矿石*3+铁矿石*6"},{"label":"樱桃地毯","name":"80px-RugOtherCherryM00","category":"","how":"","space":"","materials":"樱桃*6"},{"label":"星星时钟","name":"80px-FtrStarClock","category":"壁挂物","how":"傅珂赠送","space":"1.0x1.0","materials":"星星碎片*3+铁矿石*1"},{"label":"蓝色玫瑰花冠","name":"80px-CapOrnamentRose4","category":"","how":"","space":"","materials":"蓝色玫瑰*6"},{"label":"雪橇","name":"80px-FtrSled","category":"","how":"","space":"","materials":"木材*8"},{"label":"百合唱片播放器","name":"80px-FtrFlowerRecordplayer","category":"","how":"","space":"","materials":"白色百合*5+铁矿石*3+木材*3"},{"label":"冰之棒","name":"80px-ToolStickSnow","category":"","how":"","space":"","materials":"大雪花*1+星星碎片*3"},{"label":"橡栗斜挎包","name":"80px-BagShoulderAcorn0","category":"","how":"","space":"","materials":"橡栗*6"},{"label":"立花篮","name":"80px-FtrStandflower","category":"","how":"","space":"","materials":"红色玫瑰*1+粉红玫瑰*2+橘色玫瑰*2+白色百合*2+黄色百合*1+紫色银莲花*4"},{"label":"木制工具箱","name":"80px-FtrToolboxWood","category":"","how":"","space":"","materials":"软木材*4+铁矿石*2"},{"label":"贝壳棒","name":"80px-ToolStickShell","category":"","how":"","space":"","materials":"夏天贝壳*3+星星碎片*3"},{"label":"雪花斜挎包","name":"80px-BagShoulderSnow0","category":"","how":"","space":"","materials":"雪花*6"},{"label":"壶铃","name":"80px-FtrKettlebell","category":"","how":"","space":"","materials":"铁矿石*5"},{"label":"星星斜挎包","name":"80px-BagShoulderStar0","category":"背包","how":"傅珂赠送","space":"1.0x1.0","materials":"星星碎片*6"},{"label":"树枝棒","name":"80px-ToolStickTree","category":"","how":"","space":"","materials":"树枝*5+星星碎片*3"},{"label":"贝壳斜挎包","name":"80px-BagShoulderShell0","category":"","how":"","space":"","materials":"扇贝壳*2+夏天贝壳*6"},{"label":"石水盆～枫叶～","name":"80px-FtrStonewaterbowlAutumun","category":"","how":"","space":"","materials":"石头*10+红叶*3"},{"label":"复活节地毯","name":"80px-RugOtherEasterM00","category":"地毯","how":"漂流瓶/气球","space":"3.0x3.0","materials":"地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"},{"label":"樱花斜挎包","name":"80px-BagShoulderCherryblossoms0","category":"背包","how":"气球","space":"","materials":"樱花花瓣*6"},{"label":"蘑菇棒","name":"80px-ToolStickMushroom","category":"","how":"","space":"","materials":"瘦小蘑菇*3+星星碎片*3"},{"label":"背架","name":"80px-BagBackpackWood0","category":"装备","how":"村民赠送","space":"1.0x1.0","materials":"木材*3+硬木材*5"},{"label":"石水盆～樱花～","name":"80px-FtrStonewaterbowlSakura","category":"","how":"","space":"","materials":"石头*10+樱花花瓣*3"},{"label":"棒子","name":"80px-ToolStickWood","category":"","how":"","space":"","materials":"星星碎片*2"},{"label":"枫叶斜挎包","name":"80px-BagShoulderMaple0","category":"","how":"","space":"","materials":"红叶*6"},{"label":"背篓","name":"80px-BagBackpackBasket0","category":"","how":"","space":"","materials":"春笋*6"},{"label":"狸猫摆饰","name":"80px-FtrOrnamentTanuki","category":"","how":"","space":"","materials":"黏土*6"},{"label":"石狮子","name":"80px-FtrSekishishi","category":"","how":"","space":"","materials":"石头*24"},{"label":"金色斧头","name":"80px-ToolAxeGold","category":"工具","how":"灵感（简陋斧头用坏100个）","space":"1.0×1.0","materials":"金矿石*1+斧头*1"},{"label":"园艺推车","name":"80px-FtrGardenwagon","category":"","how":"","space":"","materials":"白色风信子*3+红色波斯菊*3+黄色玫瑰*3+木材*8+铁矿石*2"},{"label":"竹棒","name":"80px-ToolStickBamboo","category":"工具","how":"漂流瓶/气球","space":"1.0×1.0","materials":"春笋*6+星星碎片*3"},{"label":"金色钓竿","name":"80px-ToolFishingrodGold","category":"","how":"","space":"","materials":"金矿石*1+钓竿*1"},{"label":"奶油搅拌器","name":"80px-FtrButtermixer","category":"","how":"","space":"","materials":"木材*4+铁矿石*2"},{"label":"铸铁衣柜","name":"80px-FtrIronClosetLR","category":"","how":"","space":"","materials":"铁矿石*12"},{"label":"金色浇花壶","name":"80px-ToolWateringGold","category":"","how":"","space":"","materials":"金矿石*1+浇花壶*1"},{"label":"黄金棒","name":"80px-ToolStickGolden","category":"","how":"","space":"","materials":"金矿石*2+星星碎片*3"},{"label":"黄金棺材","name":"80px-FtrGoldCoffin","category":"","how":"","space":"","materials":"金矿石*8"},{"label":"倾斜路标","name":"80px-FtrSignpostTilt","category":"家具","how":"村民赠送","space":"1.0×1.0","materials":"硬木材*2+软木材*3"},{"label":"金色招财猫","name":"80px-FtrManekinekoGold","category":"","how":"村民赠送","space":"","materials":"金矿石*2+招财猫*1"},{"label":"金色铲子","name":"80px-ToolScoopGold","category":"","how":"","space":"","materials":"金矿石*1+铲子*1"},{"label":"铁棒","name":"80px-ToolStickIron","category":"","how":"","space":"","materials":"铁矿石*3+星星碎片*3"},{"label":"木制桌面镜","name":"80px-FtrWoodenMirrorS","category":"","how":"","space":"","materials":"木材*3+铁矿石*1"},{"label":"喷泉","name":"80px-FtrFountain","category":"家具","how":"狸端机兑换","space":"3.0×3.0","materials":"饮水处*1+石头*20+铁矿石*8"},{"label":"金色弹弓","name":"80px-ToolSlingshotGold","category":"","how":"","space":"","materials":"金矿石*1+弹弓*1"},{"label":"落叶炊火","name":"80px-FtrFallenleavesfire","category":"","how":"","space":"","materials":"松果*3+杂草*5+树枝*3"},{"label":"绿色的草裙","name":"80px-BottomsTexSkirtBoxGrass1","category":"","how":"","space":"","materials":"杂草*7"},{"label":"金色捕虫网","name":"80px-ToolNetGold","category":"","how":"","space":"","materials":"金矿石*1+捕虫网*1"},{"label":"樱花棒","name":"80px-ToolStickCherryblossom","category":"工具","how":"气球礼物","space":"1.0×1.0","materials":"樱花花瓣*3+星星碎片*3"},{"label":"雪人头套","name":"80px-CapCostumeSnowball0","category":"","how":"","space":"","materials":"大雪花*1+雪花*5"},{"label":"竹制扬声器","name":"80px-FtrBambooMusic","category":"","how":"","space":"","materials":"竹子材料*3+铁矿石*1"},{"label":"梨子帽子","name":"80px-CapHatPear0","category":"","how":"","space":"","materials":"梨子*5"},{"label":"交叉格栅","name":"80px-ItemFenceLatiiceNatural","category":"其他","how":"狸端机兑换","space":"1.0×1.0","materials":"软木材*8"},{"label":"苹果雨伞","name":"80px-UmbrellaApple0","category":"","how":"","space":"","materials":"苹果*7"},{"label":"樱桃服","name":"80px-TopsTexOnepieceAlineNCherry0","category":"","how":"","space":"","materials":"樱桃*8"},{"label":"深色竹子地垫","name":"80px-RugRectBambooM01","category":"墙壁·地板·地垫","how":"漂流瓶","space":"3.0×2.0","materials":"竹子材料*6"},{"label":"樱桃帽子","name":"80px-CapHatCherry0","category":"","how":"","space":"","materials":"樱桃*5"},{"label":"樱桃雨伞","name":"80px-UmbrellaCherry0","category":"","how":"","space":"","materials":"樱桃*7"},{"label":"桃子服","name":"80px-TopsTexOnepieceAlineNPeach0","category":"","how":"","space":"","materials":"桃子*8"},{"label":"金色骨舌鱼","name":"80px-FtrFishArowanaGold","category":"","how":"","space":"","materials":"金矿石*3"},{"label":"桃子帽子","name":"80px-CapHatPeach0","category":"","how":"","space":"","materials":"桃子*5"},{"label":"梨子雨伞","name":"80px-UmbrellaPear0","category":"","how":"","space":"","materials":"梨子*7"},{"label":"星星头套","name":"80px-CapCostumeStar0","category":"","how":"","space":"","materials":"星星碎片*5"},{"label":"黄金齿轮","name":"80px-FtrGearWallGold","category":"壁挂物","how":"","space":"2.0×1.0","materials":"金矿石*1+铁矿石*3"},{"label":"樱花雨伞","name":"80px-UmbrellaCherryblossom0","category":"季节手册","how":"气球","space":"1.0×1.0","materials":"樱花花瓣*7"},{"label":"苹果服","name":"80px-TopsTexOnepieceAlineNApple0","category":"","how":"","space":"","materials":"苹果*8"},{"label":"竹凳子","name":"80px-FtrBambooStool","category":"","how":"","space":"","materials":"竹子材料*5"},{"label":"苹果帽子","name":"80px-CapHatApple0","category":"","how":"","space":"","materials":"苹果*5"},{"label":"朴素木制栅栏","name":"80px-ItemFenceNatural","category":"其他","how":"狸端机兑换","space":"1.0x1.0","materials":"软木材*6"},{"label":"桃子雨伞","name":"80px-UmbrellaPeach0","category":"","how":"","space":"","materials":"桃子*7"},{"label":"梨子服","name":"80px-TopsTexOnepieceAlineNPear0","category":"","how":"","space":"","materials":"梨子*8"},{"label":"复活节桌","name":"80px-FtrEggTableS","category":"家具","how":"漂流瓶/气球","space":"1.0x1.0","materials":"地面蛋*4"},{"label":"复活节灯","name":"80px-FtrEggLamp","category":"小物件/季节手册","how":"漂流瓶/气球","space":"1.0x1.0","materials":"森林蛋*4"},{"label":"复活节气球A","name":"80px-FtrEggBalloonA","category":"家具/季节手册","how":"漂流瓶/气球","space":"1.0×1.0","materials":"地面蛋*1+叶子蛋*1+飞天蛋*1"},{"label":"节日陀螺","name":"80px-FtrFestivaltop","category":"","how":"","space":"","materials":"金色装饰品*2+硬木材*1"},{"label":"复活节衣柜","name":"80px-FtrEggClosetLR","category":"家具","how":"漂流瓶/气球","space":"1.0x1.0","materials":"岩石蛋*4"},{"label":"复活节床铺","name":"80px-FtrEggBedW","category":"家具","how":"在活动期间与蹦蹦对话获得","space":"2.0x2.0","materials":"地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"},{"label":"石拱门","name":"80px-FtrRockArch","category":"家具","how":"狸端机兑换","space":"1.0x3.0","materials":"石头*90"},{"label":"复活节梳妆台","name":"80px-FtrEggDresser","category":"家具","how":"漂流瓶/气球","space":"1.0x1.0","materials":"叶子蛋*4"},{"label":"自然风方桌","name":"80px-FtrGardenTableSNatural","category":"","how":"","space":"","materials":"硬木材*4+铁矿石*2"},{"label":"地面蛋壳","name":"80px-CapHatEggground0","category":"装备","how":"地面蛋获得时随机顿悟","space":"1*1","materials":"地面蛋*2"},{"label":"复活节凳子","name":"80px-FtrEggStool","category":"家具","how":"漂流瓶/气球","space":"1.0×1.0","materials":"鱼儿蛋*3"},{"label":"街头钢琴","name":"80px-FtrPianoStreet","category":"家具","how":"村民赠送","space":"2.0×1.0","materials":"直立式钢琴*1+水彩用具组合*1"},{"label":"复活节气球B","name":"80px-FtrEggBalloonB","category":"家具/季节手册","how":"漂流瓶/气球","space":"1.0x1.0","materials":"岩石蛋*1+森林蛋*1+鱼儿蛋*1"},{"label":"复活节拱门","name":"80px-FtrEggArch","category":"家具","how":"在4月12日与蹦蹦对话获得","space":"3.0x1.0","materials":"地面蛋*2+岩石蛋*2+叶子蛋*2+森林蛋*2+飞天蛋*2+鱼儿蛋*2"},{"label":"岩石蛋壳","name":"80px-CapHatEggrock0","category":"装备","how":"岩石蛋获得时随机顿悟","space":"1*1","materials":"岩石蛋*2"},{"label":"复活节灯串","name":"80px-FtrEggLampWall","category":"壁挂物","how":"漂流瓶/气球","space":"2.0x1.0","materials":"地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"},{"label":"石碑","name":"80px-FtrRockMonument","category":"","how":"","space":"","materials":"石头*12"},{"label":"复活节地板","name":"80px-RoomTexFloorEaster00","category":"地板","how":"漂流瓶/气球","space":"一个房间","materials":"地面蛋*2+岩石蛋*2+叶子蛋*2+森林蛋*2+飞天蛋*2+鱼儿蛋*2"},{"label":"蹦蹦不倒娃娃","name":"80px-FtrDollPyn","category":"小物件","how":"集齐所有复活节家具后可获得配方","space":"1.0x1.0","materials":"地面蛋*4+岩石蛋*4+叶子蛋*4+森林蛋*4+飞天蛋*4+鱼儿蛋*4"},{"label":"复活节壁钟","name":"80px-FtrEggClock","category":"壁挂物","how":"漂流瓶/气球","space":"1.0x1.5","materials":"飞天蛋*3"},{"label":"低矮庭院石","name":"80px-FtrGardenrockLow","category":"","how":"","space":"","materials":"石头*20"},{"label":"蛋派对帽","name":"80px-CapHatEggparty0","category":"装备","how":"习得全部六种服装配方后获得","space":"1*1","materials":"地面蛋*2+岩石蛋*2+叶子蛋*2+森林蛋*2+飞天蛋*2+鱼儿蛋*2"},{"label":"鱼儿蛋鞋子","name":"80px-ShoesLowcutEggfish0","category":"装备","how":"鱼儿蛋获得时随机顿悟","space":"1*1","materials":"鱼儿蛋*2"},{"label":"叶子蛋衣服","name":"80px-TopsTexOnepieceRibNEggleaf0","category":"装备","how":"叶子蛋获得时随机顿悟","space":"1x1","materials":"叶子蛋*3"},{"label":"森林蛋壳","name":"80px-CapHatEggforest0","category":"装备","how":"森林蛋获得时随机顿悟","space":"1*1","materials":"森林蛋*2"},{"label":"岩石蛋鞋子","name":"80px-ShoesLowcutEggrock0","category":"装备","how":"岩石蛋获得时随机顿悟","space":"1*1","materials":"岩石蛋*2"},{"label":"复活节包包","name":"80px-BagBackpackEgg0","category":"装备","how":"与岛民对话获得","space":"1*1","materials":"地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"},{"label":"复活节花环","name":"80px-FtrDoorOrnamentWreathEaster","category":"壁挂物/季节手册","how":"与岛民对话获得","space":"1.0×1.0","materials":"地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"},{"label":"森林蛋衣服","name":"80px-TopsTexOnepieceRibNEggforest0","category":"装备","how":"森林蛋获得时随机顿悟","space":"1*1","materials":"森林蛋*3"},{"label":"飞天蛋壳","name":"80px-CapHatEggsky0","category":"装备","how":"飞天蛋获得时随机顿悟","space":"1*1","materials":"飞天蛋*2"},{"label":"叶子蛋鞋子","name":"80px-ShoesLowcutEggleaf0","category":"装备","how":"叶子蛋获得时随机顿悟","space":"1*1","materials":"叶子蛋*2"},{"label":"蛋派对连身裙","name":"80px-TopsTexOnepieceBalloonLEgg0","category":"装备","how":"习得全部六种服装配方后获得","space":"1*1","materials":"地面蛋*3+岩石蛋*3+叶子蛋*3+森林蛋*3+飞天蛋*3+鱼儿蛋*3"},{"label":"复活节棒","name":"80px-ToolStickEgg","category":"工具","how":"做出蹦蹦不倒娃娃之后获得","space":"1.0x1.0","materials":"蹦蹦不倒娃娃*1+星星碎片*3"},{"label":"飞天蛋衣服","name":"80px-TopsTexOnepieceRibNEggsky0","category":"装备","how":"飞天蛋获得时随机顿悟","space":"1*1","materials":"飞天蛋*3"},{"label":"鱼儿蛋壳","name":"80px-CapHatEggfish0","category":"装备","how":"鱼儿蛋获得时随机顿悟","space":"1x1","materials":"鱼儿蛋*2"},{"label":"森林蛋鞋子","name":"80px-ShoesLowcutEggforest0","category":"装备","how":"森林蛋获得时随机顿悟","space":"1x1","materials":"森林蛋*2"},{"label":"地面蛋衣服","name":"80px-TopsTexOnepieceRibNEggground0","category":"装备","how":"地面蛋获得时随机顿悟","space":"1x1","materials":"地面蛋*3"},{"label":"鱼儿蛋衣服","name":"80px-TopsTexOnepieceRibNEggfish0","category":"装备","how":"鱼儿蛋获得时随机顿悟","space":"1x1","materials":"鱼儿蛋*3"},{"label":"复活节花冠","name":"80px-CapOrnamentCEgg0","category":"装备","how":"与岛民对话获得","space":"1*1","materials":"地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"},{"label":"飞天蛋鞋子","name":"80px-ShoesLowcutEggsky0","category":"装备","how":"飞天蛋获得时随机顿悟","space":"1x1","materials":"飞天蛋*2"},{"label":"岩石蛋衣服","name":"80px-TopsTexOnepieceRibNEggrock0","category":"装备","how":"岩石蛋获得时随机顿悟","space":"1x1","materials":"岩石蛋*3"},{"label":"叶子蛋壳","name":"80px-CapHatEggleaf0","category":"装备","how":"叶子蛋获得时随机顿悟","space":"1x1","materials":"叶子蛋*2"},{"label":"地面蛋鞋子","name":"80px-ShoesLowcutEggground0","category":"装备","how":"地面蛋获得时随机顿悟","space":"1x1","materials":"地面蛋*2"},{"label":"复活节栅栏","name":"80px-ItemFenceEgg","category":"其他","how":"漂流瓶/气球","space":"1.0x1.0","materials":"地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"},{"label":"婚礼栅栏","name":"80px-ItemFenceJuneBride","category":"","how":"","space":"","materials":"铁矿石*5+软木材*3"},{"label":"婚礼棒","name":"80px-ToolStickJune","category":"","how":"","space":"","materials":"婚礼花架*1+星星碎片*3"},{"label":"树篱","name":"80px-ItemFenceIkegaki","category":"","how":"","space":"","materials":"杂草*10+树枝*5+石头*2"}]
+[
+  {
+    "label": "叶子",
+    "name": "AccessoryMouthLeafGreen",
+    "category": "装备",
+    "how": "动物赠送",
+    "space": "1.0x1.0",
+    "materials": "杂草*5"
+  },
+  {
+    "label": "背篓",
+    "name": "BagBackpackBasket0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "春笋*6"
+  },
+  {
+    "label": "复活节包包",
+    "name": "BagBackpackEgg0",
+    "category": "装备",
+    "how": "与岛民对话获得",
+    "space": "1*1",
+    "materials": "地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"
+  },
+  {
+    "label": "草编双肩包",
+    "name": "BagBackpackGrass0",
+    "category": "装备",
+    "how": "漂流瓶",
+    "space": "1.0*1.0",
+    "materials": "杂草*20"
+  },
+  {
+    "label": "背架",
+    "name": "BagBackpackWood0",
+    "category": "装备",
+    "how": "村民赠送",
+    "space": "1.0x1.0",
+    "materials": "木材*3+硬木材*5"
+  },
+  {
+    "label": "橡栗斜挎包",
+    "name": "BagShoulderAcorn0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橡栗*6"
+  },
+  {
+    "label": "樱花斜挎包",
+    "name": "BagShoulderCherryblossoms0",
+    "category": "背包",
+    "how": "气球",
+    "space": "",
+    "materials": "樱花花瓣*6"
+  },
+  {
+    "label": "枫叶斜挎包",
+    "name": "BagShoulderMaple0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红叶*6"
+  },
+  {
+    "label": "贝壳斜挎包",
+    "name": "BagShoulderShell0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "扇贝壳*2+夏天贝壳*6"
+  },
+  {
+    "label": "雪花斜挎包",
+    "name": "BagShoulderSnow0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "雪花*6"
+  },
+  {
+    "label": "星星斜挎包",
+    "name": "BagShoulderStar0",
+    "category": "背包",
+    "how": "傅珂赠送",
+    "space": "1.0x1.0",
+    "materials": "星星碎片*6"
+  },
+  {
+    "label": "草裙",
+    "name": "BottomsTexSkirtBoxGrass0",
+    "category": "装备",
+    "how": "",
+    "space": "1.0x1.0",
+    "materials": "杂草*7"
+  },
+  {
+    "label": "绿色的草裙",
+    "name": "BottomsTexSkirtBoxGrass1",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂草*7"
+  },
+  {
+    "label": "桥梁施工工具组",
+    "name": "TentWhite",
+    "category": "桥梁",
+    "how": "狸克赠送",
+    "space": "2.0*5.0",
+    "materials": "圆木桩*4+黏土*4+石头*4"
+  },
+  {
+    "label": "露营地施工工具组",
+    "name": "TentWhite",
+    "category": "其他",
+    "how": "狸克赠送",
+    "space": "4*5",
+    "materials": "木材*15+软木材*15+硬木材*15+铁矿石*15"
+  },
+  {
+    "label": "雪人头套",
+    "name": "CapCostumeSnowball0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*5"
+  },
+  {
+    "label": "星星头套",
+    "name": "CapCostumeStar0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5"
+  },
+  {
+    "label": "金甲头盔",
+    "name": "CapFullfaceKnightGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*5"
+  },
+  {
+    "label": "铁甲头盔",
+    "name": "CapFullfaceKnightIron",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*5"
+  },
+  {
+    "label": "斗笠",
+    "name": "CapHatAjiroBeige",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂草*10"
+  },
+  {
+    "label": "苹果帽子",
+    "name": "CapHatApple0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "苹果*5"
+  },
+  {
+    "label": "樱桃帽子",
+    "name": "CapHatCherry0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱桃*5"
+  },
+  {
+    "label": "鱼儿蛋壳",
+    "name": "CapHatEggfish0",
+    "category": "装备",
+    "how": "鱼儿蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "鱼儿蛋*2"
+  },
+  {
+    "label": "森林蛋壳",
+    "name": "CapHatEggforest0",
+    "category": "装备",
+    "how": "森林蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "森林蛋*2"
+  },
+  {
+    "label": "地面蛋壳",
+    "name": "CapHatEggground0",
+    "category": "装备",
+    "how": "地面蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "地面蛋*2"
+  },
+  {
+    "label": "叶子蛋壳",
+    "name": "CapHatEggleaf0",
+    "category": "装备",
+    "how": "叶子蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "叶子蛋*2"
+  },
+  {
+    "label": "蛋派对帽",
+    "name": "CapHatEggparty0",
+    "category": "装备",
+    "how": "习得全部六种服装配方后获得",
+    "space": "1*1",
+    "materials": "地面蛋*2+岩石蛋*2+叶子蛋*2+森林蛋*2+飞天蛋*2+鱼儿蛋*2"
+  },
+  {
+    "label": "岩石蛋壳",
+    "name": "CapHatEggrock0",
+    "category": "装备",
+    "how": "岩石蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "岩石蛋*2"
+  },
+  {
+    "label": "飞天蛋壳",
+    "name": "CapHatEggsky0",
+    "category": "装备",
+    "how": "飞天蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "飞天蛋*2"
+  },
+  {
+    "label": "橘子帽子",
+    "name": "CapHatOrange",
+    "category": "装备",
+    "how": "",
+    "space": "1.0x1.0",
+    "materials": "橘子*5"
+  },
+  {
+    "label": "桃子帽子",
+    "name": "CapHatPeach0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "桃子*5"
+  },
+  {
+    "label": "梨子帽子",
+    "name": "CapHatPear0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "梨子*5"
+  },
+  {
+    "label": "三度笠",
+    "name": "CapHatSandogasa0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂草*10"
+  },
+  {
+    "label": "叶子面具",
+    "name": "CapMaskLeaf0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂草*10"
+  },
+  {
+    "label": "银莲花花冠",
+    "name": "CapOrnamentAnemone1",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色银莲花*2+橘色银莲花*2+白色银莲花*2"
+  },
+  {
+    "label": "清新银莲花花冠",
+    "name": "CapOrnamentAnemone2",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "蓝色银莲花*3+粉红银莲花*3"
+  },
+  {
+    "label": "紫色银莲花花冠",
+    "name": "CapOrnamentAnemone3",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色银莲花*6"
+  },
+  {
+    "label": "复活节花冠",
+    "name": "CapOrnamentCEgg0",
+    "category": "装备",
+    "how": "与岛民对话获得",
+    "space": "1*1",
+    "materials": "地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"
+  },
+  {
+    "label": "波斯菊花冠",
+    "name": "CapOrnamentCosmos1",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色波斯菊*2+黄色波斯菊*2+白色波斯菊*3"
+  },
+  {
+    "label": "甜美波斯菊花冠",
+    "name": "CapOrnamentCosmos2",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "粉红波斯菊*4+橘色波斯菊*3"
+  },
+  {
+    "label": "深色波斯菊花冠",
+    "name": "CapOrnamentCosmos3",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黑色波斯菊*7"
+  },
+  {
+    "label": "风信子花冠",
+    "name": "CapOrnamentHyacinth1",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色风信子*4+黄色风信子*2+白色风信子*2"
+  },
+  {
+    "label": "清新风信子花冠",
+    "name": "CapOrnamentHyacinth2",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "蓝色风信子*4+粉红风信子*2+橘色风信子*2"
+  },
+  {
+    "label": "紫色风信子花冠",
+    "name": "CapOrnamentHyacinth3",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色风信子*6"
+  },
+  {
+    "label": "菊花花冠",
+    "name": "CapOrnamentMum1",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色菊花*2+黄色菊花*2+白色菊花*2"
+  },
+  {
+    "label": "典雅菊花花冠",
+    "name": "CapOrnamentMum2",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色菊花*3+粉红菊花*3"
+  },
+  {
+    "label": "简约菊花花冠",
+    "name": "CapOrnamentMum3",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "绿色菊花*6"
+  },
+  {
+    "label": "三色堇花冠",
+    "name": "CapOrnamentPansy1",
+    "category": "帽子",
+    "how": "村民赠送",
+    "space": "1.0x1.0",
+    "materials": "红色三色堇*2+黄色三色堇*2+白色三色堇*2"
+  },
+  {
+    "label": "清新三色堇花冠",
+    "name": "CapOrnamentPansy2",
+    "category": "装备",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "红黄三色堇*3+蓝色三色堇*3"
+  },
+  {
+    "label": "紫色三色堇花冠",
+    "name": "CapOrnamentPansy3",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色三色堇*6"
+  },
+  {
+    "label": "玫瑰花冠",
+    "name": "CapOrnamentRose1",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色玫瑰*2+黄色玫瑰*2+白色玫瑰*2"
+  },
+  {
+    "label": "可爱玫瑰花冠",
+    "name": "CapOrnamentRose2",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "粉红玫瑰*3+橘色玫瑰*3"
+  },
+  {
+    "label": "典雅玫瑰花冠",
+    "name": "CapOrnamentRose3",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色玫瑰*3+黑色玫瑰*3"
+  },
+  {
+    "label": "蓝色玫瑰花冠",
+    "name": "CapOrnamentRose4",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "蓝色玫瑰*6"
+  },
+  {
+    "label": "金色玫瑰花冠",
+    "name": "CapOrnamentRose5",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金色玫瑰*6"
+  },
+  {
+    "label": "郁金香花冠",
+    "name": "CapOrnamentTulip1",
+    "category": "装备",
+    "how": "",
+    "space": "1.0x1.0",
+    "materials": "红色郁金香*2+黄色郁金香*2+白色郁金香*1"
+  },
+  {
+    "label": "典雅郁金香花冠",
+    "name": "CapOrnamentTulip2",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色郁金香*2+粉红郁金香*2+橘色郁金香*1"
+  },
+  {
+    "label": "深色郁金香花冠",
+    "name": "CapOrnamentTulip3",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黑色郁金香*5"
+  },
+  {
+    "label": "百合花冠",
+    "name": "CapOrnamentYuri1",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色百合*2+黄色百合*2+白色百合*2"
+  },
+  {
+    "label": "可爱百合花冠",
+    "name": "CapOrnamentYuri2",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "粉红百合*2+橘色百合*2+白色百合*2"
+  },
+  {
+    "label": "深色百合花冠",
+    "name": "CapOrnamentYuri3",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黑色百合*6"
+  },
+  {
+    "label": "鱼饲料",
+    "name": "FishBait",
+    "category": "其他",
+    "how": "挖到蛤蜊时觉悟",
+    "space": "1.0×1.0",
+    "materials": "蛤蜊*1"
+  },
+  {
+    "label": "木吉他",
+    "name": "FtrAcorsticguitar",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "软木材*8+铁矿石*3"
+  },
+  {
+    "label": "熏香台",
+    "name": "FtrAlomapot",
+    "category": "小物件",
+    "how": "漂流瓶/气球礼物/村民赠送",
+    "space": "1.0×1.0",
+    "materials": "黏土*3"
+  },
+  {
+    "label": "平衡玩具",
+    "name": "FtrBalancingtoy",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橡栗*4+硬木材*2"
+  },
+  {
+    "label": "竹编球",
+    "name": "FtrBambooBall",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*3"
+  },
+  {
+    "label": "竹篮",
+    "name": "FtrBambooBasket",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*7"
+  },
+  {
+    "label": "竹制烛台",
+    "name": "FtrBambooCandle",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*3+黏土*2"
+  },
+  {
+    "label": "竹制挡车墩",
+    "name": "FtrBambooCarstop",
+    "category": "家具",
+    "how": "气球",
+    "space": "1.0×0.5",
+    "materials": "竹子材料*3"
+  },
+  {
+    "label": "竹长凳",
+    "name": "FtrBambooChairL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*8"
+  },
+  {
+    "label": "竹花瓶",
+    "name": "FtrBambooFlowerwall",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*1"
+  },
+  {
+    "label": "竹制落地灯",
+    "name": "FtrBambooLamp",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*8"
+  },
+  {
+    "label": "竹制便当盒",
+    "name": "FtrBambooLunch",
+    "category": "小物件",
+    "how": "漂流瓶/气球礼物",
+    "space": "1.0×1.0",
+    "materials": "竹子材料*4"
+  },
+  {
+    "label": "竹制扬声器",
+    "name": "FtrBambooMusic",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*3+铁矿石*1"
+  },
+  {
+    "label": "竹屏风",
+    "name": "FtrBambooScreen",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*7+石头*6"
+  },
+  {
+    "label": "竹制博古架",
+    "name": "FtrBambooShelf",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*15"
+  },
+  {
+    "label": "流水素面",
+    "name": "FtrBambooSomen",
+    "category": "季节手册",
+    "how": "漂流瓶/气球礼物",
+    "space": "3.0×1.0",
+    "materials": "春笋*7+木材*3"
+  },
+  {
+    "label": "竹凳子",
+    "name": "FtrBambooStool",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "竹子材料*5"
+  },
+  {
+    "label": "竹制惊吓箱",
+    "name": "FtrBambooSurprisedbox",
+    "category": "家具/季节手册",
+    "how": "气球",
+    "space": "1.0×1.0",
+    "materials": "春笋*6"
+  },
+  {
+    "label": "竹鼓",
+    "name": "FtrBamboodrum",
+    "category": "",
+    "how": "村民赠送",
+    "space": "",
+    "materials": "竹子材料*3+软木材*2"
+  },
+  {
+    "label": "竹笋灯",
+    "name": "FtrBambooshootLamp",
+    "category": "季节手册",
+    "how": "气球/漂流瓶",
+    "space": "1.0×1.0",
+    "materials": "春笋*4+竹笋*5+黏土*4"
+  },
+  {
+    "label": "杠铃",
+    "name": "FtrBarbell",
+    "category": "家具",
+    "how": "蓬蓬赠送",
+    "space": "2.0*1.0",
+    "materials": "铁矿石*10"
+  },
+  {
+    "label": "蒸笼",
+    "name": "FtrBasketsteamer",
+    "category": "小物件/季节手册",
+    "how": "漂流瓶/气球",
+    "space": "1.0×1.0",
+    "materials": "春笋*6"
+  },
+  {
+    "label": "特大熊熊",
+    "name": "FtrBearXL",
+    "category": "家具",
+    "how": "",
+    "space": "3.0×3.0",
+    "materials": "大熊熊*1+中熊熊*1+小熊熊*1"
+  },
+  {
+    "label": "养蜂箱",
+    "name": "FtrBeekeepingbox",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "蜂巢*3+木材*5"
+  },
+  {
+    "label": "小鸟水盆",
+    "name": "FtrBirdbus",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "石头*6"
+  },
+  {
+    "label": "鸟笼",
+    "name": "FtrBirdcage",
+    "category": "",
+    "how": "村民",
+    "space": "",
+    "materials": "木材*8"
+  },
+  {
+    "label": "鸟巢屋",
+    "name": "FtrBirdhouse",
+    "category": "家具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "木材*2+软木材*5"
+  },
+  {
+    "label": "积木床铺",
+    "name": "FtrBlockBedS",
+    "category": "家具",
+    "how": "漂流瓶/气球礼物/村民赠送",
+    "space": "2.0×1.0",
+    "materials": "积木玩具*1+软木材*17"
+  },
+  {
+    "label": "积木玩具",
+    "name": "FtrBlockBrick",
+    "category": "小物件",
+    "how": "商店购买（新手DIY手册）",
+    "space": "1.0×1.0",
+    "materials": "软木材*3"
+  },
+  {
+    "label": "积木长凳",
+    "name": "FtrBlockChairL",
+    "category": "家具",
+    "how": "漂流瓶/气球礼物/村民赠送",
+    "space": "2.0×1.0",
+    "materials": "积木玩具*1+软木材*4"
+  },
+  {
+    "label": "积木椅",
+    "name": "FtrBlockChairS",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "积木玩具*1+软木材*3"
+  },
+  {
+    "label": "积木矮柜",
+    "name": "FtrBlockChest",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "积木玩具*1+软木材*12"
+  },
+  {
+    "label": "积木挂钟",
+    "name": "FtrBlockClock",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "积木玩具*1+软木材*2+铁矿石*1"
+  },
+  {
+    "label": "积木音响",
+    "name": "FtrBlockCompo",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "积木玩具*1+软木材*5+铁矿石*2"
+  },
+  {
+    "label": "积木书柜",
+    "name": "FtrBlockShelf",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "积木玩具*1+软木材*3"
+  },
+  {
+    "label": "积木凳子",
+    "name": "FtrBlockStoolS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "积木玩具*1+软木材*2"
+  },
+  {
+    "label": "积木桌",
+    "name": "FtrBlockTableL",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "2.0×2.0",
+    "materials": "积木玩具*1+软木材*8"
+  },
+  {
+    "label": "炊火",
+    "name": "FtrBonfire",
+    "category": "家具",
+    "how": "开场自带",
+    "space": "1.0×1.0",
+    "materials": "树枝*3"
+  },
+  {
+    "label": "松树盆栽",
+    "name": "FtrBonsaiPine",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "松果*8+黏土*5"
+  },
+  {
+    "label": "樱花盆栽",
+    "name": "FtrBonsaiSakura",
+    "category": "季节手册",
+    "how": "气球",
+    "space": "1.0×1.0",
+    "materials": "樱花花瓣*6+硬木材*2+杂草*3+黏土*3"
+  },
+  {
+    "label": "盆栽架",
+    "name": "FtrBonsaiShelf",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱花盆栽*1+松树盆栽*1+木材*8"
+  },
+  {
+    "label": "书堆",
+    "name": "FtrBooks",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "书*5"
+  },
+  {
+    "label": "木制书柜",
+    "name": "FtrBookshelf",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "书*5+木材*10"
+  },
+  {
+    "label": "飞旋镖",
+    "name": "FtrBoomerang",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*3"
+  },
+  {
+    "label": "木制水桶",
+    "name": "FtrBucketWood",
+    "category": "家具",
+    "how": "狸克赠送/商店购买/向岛民学习配方",
+    "space": "1.0×1.0",
+    "materials": "木材*3+铁矿石*1"
+  },
+  {
+    "label": "奶油搅拌器",
+    "name": "FtrButtermixer",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*4+铁矿石*2"
+  },
+  {
+    "label": "篝火",
+    "name": "FtrCampfire",
+    "category": "家具",
+    "how": "商店购买（新手DIY手册）",
+    "space": "2.0×2.0",
+    "materials": "炊火*1+木材*10"
+  },
+  {
+    "label": "圣诞蜡烛",
+    "name": "FtrCandleXmas",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色装饰品*5+杂草*5"
+  },
+  {
+    "label": "纸箱床铺",
+    "name": "FtrCardboardBedS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "纸箱*4"
+  },
+  {
+    "label": "纸箱椅",
+    "name": "FtrCardboardChairS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "纸箱*1"
+  },
+  {
+    "label": "纸箱沙发",
+    "name": "FtrCardboardSofaL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "纸箱*2"
+  },
+  {
+    "label": "纸箱桌",
+    "name": "FtrCardboardTableL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "纸箱*4"
+  },
+  {
+    "label": "黏土玩具",
+    "name": "FtrClaytoy",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黏土*2"
+  },
+  {
+    "label": "晒衣绳",
+    "name": "FtrClothesline",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "2.0×0.5",
+    "materials": "树枝*10"
+  },
+  {
+    "label": "椰子水",
+    "name": "FtrCoconutjuice",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "椰子*1"
+  },
+  {
+    "label": "座垫堆",
+    "name": "FtrCushionJapanPile",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "座垫*3"
+  },
+  {
+    "label": "切菜板",
+    "name": "FtrCuttingboard",
+    "category": "家具",
+    "how": "气球",
+    "space": "1.0x1.0",
+    "materials": "硬木材*2+铁矿石*1"
+  },
+  {
+    "label": "木雕鸭",
+    "name": "FtrDecoy",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "软木材*4"
+  },
+  {
+    "label": "茶几",
+    "name": "FtrDiningtableJapan",
+    "category": "家具",
+    "how": "商店购买",
+    "space": "2.0×2.0",
+    "materials": "硬木材*12"
+  },
+  {
+    "label": "素烧碗盘",
+    "name": "FtrDishesUnglazed",
+    "category": "小物件",
+    "how": "漂流瓶",
+    "space": "1.0×1.0",
+    "materials": "黏土*3"
+  },
+  {
+    "label": "狗屋",
+    "name": "FtrDoghouse",
+    "category": "家具",
+    "how": "皮蛋赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "木材*10+硬木材*7"
+  },
+  {
+    "label": "蹦蹦不倒娃娃",
+    "name": "FtrDollPyn",
+    "category": "小物件",
+    "how": "集齐所有复活节家具后可获得配方",
+    "space": "1.0x1.0",
+    "materials": "地面蛋*4+岩石蛋*4+叶子蛋*4+森林蛋*4+飞天蛋*4+鱼儿蛋*4"
+  },
+  {
+    "label": "纹章门牌",
+    "name": "FtrDoorOrnamentCrest",
+    "category": "壁挂物",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*4"
+  },
+  {
+    "label": "化石门牌",
+    "name": "FtrDoorOrnamentFossil",
+    "category": "壁挂物",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "化石*1+石头*2"
+  },
+  {
+    "label": "铸铁门牌",
+    "name": "FtrDoorOrnamentIron",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*2"
+  },
+  {
+    "label": "原木门牌",
+    "name": "FtrDoorOrnamentLog",
+    "category": "门牌",
+    "how": "漂流瓶",
+    "space": "1.0x1.0",
+    "materials": "木材*2+粉红玫瑰*1"
+  },
+  {
+    "label": "肉球门牌",
+    "name": "FtrDoorOrnamentPaw",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*3"
+  },
+  {
+    "label": "银莲花花环",
+    "name": "FtrDoorOrnamentWreathAnemone",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色银莲花*3+白色银莲花*3+橘色银莲花*3"
+  },
+  {
+    "label": "清新银莲花花环",
+    "name": "FtrDoorOrnamentWreathAnemoneMix",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "蓝色银莲花*3+粉红银莲花*3+白色银莲花*3"
+  },
+  {
+    "label": "典雅银莲花花环",
+    "name": "FtrDoorOrnamentWreathAnemoneRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色银莲花*10"
+  },
+  {
+    "label": "树枝花环",
+    "name": "FtrDoorOrnamentWreathBranch",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "树枝*10"
+  },
+  {
+    "label": "波斯菊花环",
+    "name": "FtrDoorOrnamentWreathCosmos",
+    "category": "壁挂物",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "黄色波斯菊*3+白色波斯菊*3+红色波斯菊*3"
+  },
+  {
+    "label": "可爱波斯菊花环",
+    "name": "FtrDoorOrnamentWreathCosmosMix",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘色波斯菊*3+粉红波斯菊*3+红色波斯菊*3"
+  },
+  {
+    "label": "典雅波斯菊花环",
+    "name": "FtrDoorOrnamentWreathCosmosRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黑色波斯菊*10"
+  },
+  {
+    "label": "复活节花环",
+    "name": "FtrDoorOrnamentWreathEaster",
+    "category": "壁挂物/季节手册",
+    "how": "与岛民对话获得",
+    "space": "1.0×1.0",
+    "materials": "地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"
+  },
+  {
+    "label": "水果花环",
+    "name": "FtrDoorOrnamentWreathFruit",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "苹果*2+梨子*1+樱桃*3+橘子*3+桃子*1"
+  },
+  {
+    "label": "风信子花环",
+    "name": "FtrDoorOrnamentWreathHyacinth",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "白色风信子*3+红色风信子*3+黄色风信子*3"
+  },
+  {
+    "label": "清新风信子花环",
+    "name": "FtrDoorOrnamentWreathHyacinthMix",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘色风信子*3+蓝色风信子*3+粉红风信子*3"
+  },
+  {
+    "label": "紫色风信子花环",
+    "name": "FtrDoorOrnamentWreathHyacinthRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色风信子*10"
+  },
+  {
+    "label": "雪花花环",
+    "name": "FtrDoorOrnamentWreathIce",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "雪花*4"
+  },
+  {
+    "label": "菊花花环",
+    "name": "FtrDoorOrnamentWreathMum",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "白色菊花*3+黄色菊花*3+红色菊花*3"
+  },
+  {
+    "label": "精美菊花花环",
+    "name": "FtrDoorOrnamentWreathMumMix",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "粉红菊花*3+紫色菊花*3+红色菊花*3"
+  },
+  {
+    "label": "自然风菊花花环",
+    "name": "FtrDoorOrnamentWreathMumRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "绿色菊花*10"
+  },
+  {
+    "label": "蘑菇花环",
+    "name": "FtrDoorOrnamentWreathMushroom",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "树枝*10+圆形蘑菇*1+瘦小蘑菇*1+扁平蘑菇*1"
+  },
+  {
+    "label": "装饰花环",
+    "name": "FtrDoorOrnamentWreathOrnament",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "蓝色装饰品*6+金色装饰品*2"
+  },
+  {
+    "label": "三色堇花环",
+    "name": "FtrDoorOrnamentWreathPansy",
+    "category": "壁挂物",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "黄色三色堇*3+白色三色堇*3+红色三色堇*3"
+  },
+  {
+    "label": "华丽三色堇花环",
+    "name": "FtrDoorOrnamentWreathPansyMix",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红黄三色堇*3+蓝色三色堇*3+黄色三色堇*3"
+  },
+  {
+    "label": "清新三色堇花环",
+    "name": "FtrDoorOrnamentWreathPansyRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色三色堇*10"
+  },
+  {
+    "label": "玫瑰花环",
+    "name": "FtrDoorOrnamentWreathRose",
+    "category": "壁挂物",
+    "how": "狸克赠送",
+    "space": "1.0x1.0",
+    "materials": "红色玫瑰*3+白色玫瑰*3+黄色玫瑰*3"
+  },
+  {
+    "label": "金色玫瑰花环",
+    "name": "FtrDoorOrnamentWreathRoseGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金色玫瑰*10"
+  },
+  {
+    "label": "精美玫瑰花环",
+    "name": "FtrDoorOrnamentWreathRoseMix",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘色玫瑰*3+粉红玫瑰*3+黄色玫瑰*3"
+  },
+  {
+    "label": "深色玫瑰花环",
+    "name": "FtrDoorOrnamentWreathRoseRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黑色玫瑰*3+紫色玫瑰*6"
+  },
+  {
+    "label": "蓝色玫瑰花环",
+    "name": "FtrDoorOrnamentWreathRoseUrtraRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "蓝色玫瑰*10"
+  },
+  {
+    "label": "贝壳花环",
+    "name": "FtrDoorOrnamentWreathShell",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "夏天贝壳*1+钟螺壳*1+沙钱*1+珊瑚*1+扇贝壳*1+宝螺壳*1"
+  },
+  {
+    "label": "郁金香花环",
+    "name": "FtrDoorOrnamentWreathTulip",
+    "category": "壁挂物",
+    "how": "小动物赠送",
+    "space": "1.0x1.0",
+    "materials": "红色郁金香*3+黄色郁金香*3+白色郁金香*3"
+  },
+  {
+    "label": "可爱郁金香花环",
+    "name": "FtrDoorOrnamentWreathTulipMix",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘色郁金香*3+粉红郁金香*3+紫色郁金香*3"
+  },
+  {
+    "label": "深色郁金香花环",
+    "name": "FtrDoorOrnamentWreathTulipRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黑色郁金香*10"
+  },
+  {
+    "label": "百合花环",
+    "name": "FtrDoorOrnamentWreathYuri",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "白色百合*3+红色百合*3+黄色百合*3"
+  },
+  {
+    "label": "精美百合花环",
+    "name": "FtrDoorOrnamentWreathYuriMix",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘色百合*3+粉红百合*3+黄色百合*3"
+  },
+  {
+    "label": "深色百合花环",
+    "name": "FtrDoorOrnamentWreathYuriRare",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黑色百合*10"
+  },
+  {
+    "label": "骨头门牌",
+    "name": "FtrDoorPlateBone",
+    "category": "壁挂物",
+    "how": "漂流瓶/气球礼物/村民赠送",
+    "space": "1.0×1.0",
+    "materials": "软木材*3"
+  },
+  {
+    "label": "饮水处",
+    "name": "FtrDrinkingfountain",
+    "category": "家具",
+    "how": "狸端机兑换",
+    "space": "1.0×1.0",
+    "materials": "石头*8+铁矿石*2"
+  },
+  {
+    "label": "泡澡汽油桶",
+    "name": "FtrDrumcanbath",
+    "category": "家具",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "汽油桶*1+炊火*1+石头*2"
+  },
+  {
+    "label": "复活节拱门",
+    "name": "FtrEggArch",
+    "category": "家具",
+    "how": "在4月12日与蹦蹦对话获得",
+    "space": "3.0x1.0",
+    "materials": "地面蛋*2+岩石蛋*2+叶子蛋*2+森林蛋*2+飞天蛋*2+鱼儿蛋*2"
+  },
+  {
+    "label": "复活节气球A",
+    "name": "FtrEggBalloonA",
+    "category": "家具/季节手册",
+    "how": "漂流瓶/气球",
+    "space": "1.0×1.0",
+    "materials": "地面蛋*1+叶子蛋*1+飞天蛋*1"
+  },
+  {
+    "label": "复活节气球B",
+    "name": "FtrEggBalloonB",
+    "category": "家具/季节手册",
+    "how": "漂流瓶/气球",
+    "space": "1.0x1.0",
+    "materials": "岩石蛋*1+森林蛋*1+鱼儿蛋*1"
+  },
+  {
+    "label": "复活节床铺",
+    "name": "FtrEggBedW",
+    "category": "家具",
+    "how": "在活动期间与蹦蹦对话获得",
+    "space": "2.0x2.0",
+    "materials": "地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"
+  },
+  {
+    "label": "复活节壁钟",
+    "name": "FtrEggClock",
+    "category": "壁挂物",
+    "how": "漂流瓶/气球",
+    "space": "1.0x1.5",
+    "materials": "飞天蛋*3"
+  },
+  {
+    "label": "复活节衣柜",
+    "name": "FtrEggClosetLR",
+    "category": "家具",
+    "how": "漂流瓶/气球",
+    "space": "1.0x1.0",
+    "materials": "岩石蛋*4"
+  },
+  {
+    "label": "复活节梳妆台",
+    "name": "FtrEggDresser",
+    "category": "家具",
+    "how": "漂流瓶/气球",
+    "space": "1.0x1.0",
+    "materials": "叶子蛋*4"
+  },
+  {
+    "label": "复活节灯",
+    "name": "FtrEggLamp",
+    "category": "小物件/季节手册",
+    "how": "漂流瓶/气球",
+    "space": "1.0x1.0",
+    "materials": "森林蛋*4"
+  },
+  {
+    "label": "复活节灯串",
+    "name": "FtrEggLampWall",
+    "category": "壁挂物",
+    "how": "漂流瓶/气球",
+    "space": "2.0x1.0",
+    "materials": "地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"
+  },
+  {
+    "label": "复活节凳子",
+    "name": "FtrEggStool",
+    "category": "家具",
+    "how": "漂流瓶/气球",
+    "space": "1.0×1.0",
+    "materials": "鱼儿蛋*3"
+  },
+  {
+    "label": "复活节桌",
+    "name": "FtrEggTableS",
+    "category": "家具",
+    "how": "漂流瓶/气球",
+    "space": "1.0x1.0",
+    "materials": "地面蛋*4"
+  },
+  {
+    "label": "落叶",
+    "name": "FtrFallenleaves",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "松果*3+杂草*5"
+  },
+  {
+    "label": "落叶凳子",
+    "name": "FtrFallenleavesChairS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红叶*3+木材*3"
+  },
+  {
+    "label": "绿色落叶",
+    "name": "FtrFallenleavesGreen",
+    "category": "季节手册",
+    "how": "漂流瓶/气球礼物",
+    "space": "1.5×1.5",
+    "materials": "春笋*1+杂草*10"
+  },
+  {
+    "label": "红色落叶",
+    "name": "FtrFallenleavesRed",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红叶*3+杂草*4"
+  },
+  {
+    "label": "黄色落叶",
+    "name": "FtrFallenleavesYellow",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橡栗*3+杂草*5"
+  },
+  {
+    "label": "落叶炊火",
+    "name": "FtrFallenleavesfire",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "松果*3+杂草*5+树枝*3"
+  },
+  {
+    "label": "节日陀螺",
+    "name": "FtrFestivaltop",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金色装饰品*2+硬木材*1"
+  },
+  {
+    "label": "柴火",
+    "name": "FtrFirewood",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*8"
+  },
+  {
+    "label": "金色骨舌鱼",
+    "name": "FtrFishArowanaGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*3"
+  },
+  {
+    "label": "路边摊",
+    "name": "FtrFloat",
+    "category": "",
+    "how": "狸端机兑换",
+    "space": "",
+    "materials": "木材*12"
+  },
+  {
+    "label": "散乱的纸张",
+    "name": "FtrFloorpapers",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "文件堆*1"
+  },
+  {
+    "label": "玫瑰床铺",
+    "name": "FtrFlowerBedW",
+    "category": "家具",
+    "how": "",
+    "space": "",
+    "materials": "红色玫瑰*10+木材*5"
+  },
+  {
+    "label": "银莲花风扇",
+    "name": "FtrFlowerFan",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色银莲花*3+铁矿石*2"
+  },
+  {
+    "label": "风信子灯",
+    "name": "FtrFlowerLamp",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "紫色风信子*5+黏土*3"
+  },
+  {
+    "label": "百合唱片播放器",
+    "name": "FtrFlowerRecordplayer",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "白色百合*5+铁矿石*3+木材*3"
+  },
+  {
+    "label": "波斯菊花洒",
+    "name": "FtrFlowerShower",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "粉红波斯菊*5+铁矿石*3"
+  },
+  {
+    "label": "菊花抱枕",
+    "name": "FtrFlowerStoolS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黄色菊花*3+杂草*10"
+  },
+  {
+    "label": "郁金香惊吓箱",
+    "name": "FtrFlowerSurprisedbox",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色郁金香*5+软木材*3"
+  },
+  {
+    "label": "倒挂干燥花",
+    "name": "FtrFlowerSwag",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂草*10"
+  },
+  {
+    "label": "三色堇桌",
+    "name": "FtrFlowerTableS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黄色三色堇*5+硬木材*3"
+  },
+  {
+    "label": "喷泉",
+    "name": "FtrFountain",
+    "category": "家具",
+    "how": "狸端机兑换",
+    "space": "3.0×3.0",
+    "materials": "饮水处*1+石头*20+铁矿石*8"
+  },
+  {
+    "label": "水果篮",
+    "name": "FtrFruitbasket",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "苹果*1+梨子*1+樱桃*1+橘子*1+桃子*1"
+  },
+  {
+    "label": "梨子床铺",
+    "name": "FtrFruitsBedS",
+    "category": "家具",
+    "how": "",
+    "space": "2.0×1.0",
+    "materials": "梨子*10+软木材*6"
+  },
+  {
+    "label": "桃子惊吓箱",
+    "name": "FtrFruitsBox",
+    "category": "小物件",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "桃子*10+软木材*4"
+  },
+  {
+    "label": "苹果椅",
+    "name": "FtrFruitsChairApple",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "苹果*10+木材*4"
+  },
+  {
+    "label": "桃子椅",
+    "name": "FtrFruitsChairPeach",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "桃子*10+木材*5"
+  },
+  {
+    "label": "橘子壁挂钟",
+    "name": "FtrFruitsClockW",
+    "category": "壁挂物",
+    "how": "橘子岛自带/村民赠送",
+    "space": "1.0×1.0",
+    "materials": "橘子*10+木材*2"
+  },
+  {
+    "label": "梨子衣柜",
+    "name": "FtrFruitsClosetLR",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "梨子*10+木材*5"
+  },
+  {
+    "label": "樱桃灯",
+    "name": "FtrFruitsLampW",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱桃*10+黏土*2"
+  },
+  {
+    "label": "樱桃广播喇叭",
+    "name": "FtrFruitsMusic",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱桃*10+铁矿石*2"
+  },
+  {
+    "label": "苹果电视",
+    "name": "FtrFruitsTV",
+    "category": "家具",
+    "how": "狸克赠送",
+    "space": "1.0x1.0",
+    "materials": "苹果*10+铁矿石*2"
+  },
+  {
+    "label": "橘子边桌",
+    "name": "FtrFruitsTableS",
+    "category": "家具",
+    "how": "橘子岛自带/村民赠送",
+    "space": "1.0×1.0",
+    "materials": "橘子*10+木材*4"
+  },
+  {
+    "label": "水果桶装饮水机",
+    "name": "FtrFruitswater",
+    "category": "小物件",
+    "how": "漂流瓶/气球礼物/村民赠送",
+    "space": "1.0×1.0",
+    "materials": "苹果*2+梨子*2+樱桃*2+橘子*2+桃子*2+椰子*2"
+  },
+  {
+    "label": "垃圾袋",
+    "name": "FtrGarbagebag",
+    "category": "小物件",
+    "how": "灵感/商店购买",
+    "space": "1.0×1.0",
+    "materials": "空罐*1+长靴*1+轮胎*1"
+  },
+  {
+    "label": "自然风花园椅",
+    "name": "FtrGardenChairNatural",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "硬木材*6+铁矿石*2"
+  },
+  {
+    "label": "常见庭院石",
+    "name": "FtrGardenrock",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*15"
+  },
+  {
+    "label": "低矮庭院石",
+    "name": "FtrGardenrockLow",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*20"
+  },
+  {
+    "label": "青苔庭院石",
+    "name": "FtrGardenrockMoss",
+    "category": "家具",
+    "how": "罗迪欧赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "石头*15+杂草*15"
+  },
+  {
+    "label": "高耸庭院石",
+    "name": "FtrGardenrockTall",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*60"
+  },
+  {
+    "label": "自然风花园桌",
+    "name": "FtrGardenTableNatural",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "2.0×2.0",
+    "materials": "硬木材*9+铁矿石*3"
+  },
+  {
+    "label": "自然风方桌",
+    "name": "FtrGardenTableSNatural",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*4+铁矿石*2"
+  },
+  {
+    "label": "园艺推车",
+    "name": "FtrGardenwagon",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "白色风信子*3+红色波斯菊*3+黄色玫瑰*3+木材*8+铁矿石*2"
+  },
+  {
+    "label": "黄金齿轮",
+    "name": "FtrGearWallGold",
+    "category": "壁挂物",
+    "how": "",
+    "space": "2.0×1.0",
+    "materials": "金矿石*1+铁矿石*3"
+  },
+  {
+    "label": "五右卫门泡澡桶",
+    "name": "FtrGoemonburo",
+    "category": "家具",
+    "how": "气球/漂流瓶",
+    "space": "1.5×1.5",
+    "materials": "铁矿石*8+木材*2+炊火*1"
+  },
+  {
+    "label": "金条",
+    "name": "FtrGoldbar",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*3"
+  },
+  {
+    "label": "黄金长椅",
+    "name": "FtrGoldbench",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*5"
+  },
+  {
+    "label": "黄金烛台",
+    "name": "FtrGoldCandlestand",
+    "category": "小物件",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "金矿石*2"
+  },
+  {
+    "label": "黄金棺材",
+    "name": "FtrGoldCoffin",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*8"
+  },
+  {
+    "label": "黄金餐具",
+    "name": "FtrGoldDishes",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*1"
+  },
+  {
+    "label": "黄金马桶",
+    "name": "FtrGoldWC",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*6"
+  },
+  {
+    "label": "洋风墓碑",
+    "name": "FtrGravestoneEuropean",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*30"
+  },
+  {
+    "label": "和风墓碑",
+    "name": "FtrGravestoneJapan",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*30"
+  },
+  {
+    "label": "手压式汲水器",
+    "name": "FtrHandpump",
+    "category": "家具",
+    "how": "漂流瓶/气球礼物/村民赠送",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*2+黏土*6"
+  },
+  {
+    "label": "草丛道具",
+    "name": "FtrHariboteGrass",
+    "category": "家具",
+    "how": "漂流瓶",
+    "space": "1.0×0.5",
+    "materials": "木材*2+软木材*2"
+  },
+  {
+    "label": "树丛道具",
+    "name": "FtrHariboteHedge",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*2+软木材*3"
+  },
+  {
+    "label": "假山道具",
+    "name": "FtrHariboteMountain",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*4+软木材*5"
+  },
+  {
+    "label": "假树道具",
+    "name": "FtrHariboteTree",
+    "category": "家具",
+    "how": "漂流瓶/气球礼物/村民赠送",
+    "space": "2.0×1.0",
+    "materials": "木材*5+软木材*8"
+  },
+  {
+    "label": "干草床铺",
+    "name": "FtrHaybed",
+    "category": "家具",
+    "how": "商店购买（新手DIY手册）",
+    "space": "2.0×1.0",
+    "materials": "杂草*20"
+  },
+  {
+    "label": "英雄机器人",
+    "name": "FtrHerorobot",
+    "category": "家具",
+    "how": "狸端机兑换",
+    "space": "3.0×3.0",
+    "materials": "火箭*1+金盔甲*1+生锈零件*30+铁矿石*90+金矿石*10"
+  },
+  {
+    "label": "小鹿装饰品",
+    "name": "FtrHuntingtrophy",
+    "category": "壁挂物",
+    "how": "",
+    "space": "1.0×1.5",
+    "materials": "软木材*8"
+  },
+  {
+    "label": "冰块艺术品",
+    "name": "FtrIceArt",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*4"
+  },
+  {
+    "label": "冰块床铺",
+    "name": "FtrIceBedW",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*10"
+  },
+  {
+    "label": "冰棒",
+    "name": "FtrIceCandy",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*1"
+  },
+  {
+    "label": "冰块椅子",
+    "name": "FtrIceChairS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*3"
+  },
+  {
+    "label": "冰块吧台",
+    "name": "FtrIceCounter",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*5"
+  },
+  {
+    "label": "冰块拱门",
+    "name": "FtrIceGate",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*10"
+  },
+  {
+    "label": "冰块柱子",
+    "name": "FtrIcePillar",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*3"
+  },
+  {
+    "label": "冰块隔板",
+    "name": "FtrIceScreen",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*6"
+  },
+  {
+    "label": "冰块桌",
+    "name": "FtrIceTableL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*8"
+  },
+  {
+    "label": "冰块树木",
+    "name": "FtrIceTree",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*8"
+  },
+  {
+    "label": "礼物灯饰",
+    "name": "FtrIllumiPresent",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色装饰品*3+金色装饰品*4+铁矿石*3"
+  },
+  {
+    "label": "驯鹿灯饰",
+    "name": "FtrIllumiReindeer",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金色装饰品*6+铁矿石*5"
+  },
+  {
+    "label": "雪花灯饰",
+    "name": "FtrIllumiSnow",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "蓝色装饰品*9+铁矿石*3"
+  },
+  {
+    "label": "树型灯饰",
+    "name": "FtrIllumiTree",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色装饰品*8+蓝色装饰品*8+金色装饰品*6+铁矿石*6"
+  },
+  {
+    "label": "金色蜣螂",
+    "name": "FtrInsectKabutomushiGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*3"
+  },
+  {
+    "label": "铸铁衣柜",
+    "name": "FtrIronClosetLR",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*12"
+  },
+  {
+    "label": "钢架",
+    "name": "FtrIronframe",
+    "category": "家具",
+    "how": "漂流瓶/村民赠送",
+    "space": "2.0x3.0",
+    "materials": "铁矿石*20"
+  },
+  {
+    "label": "花园铸铁长椅",
+    "name": "FtrIrongardenBench",
+    "category": "",
+    "how": "村民",
+    "space": "",
+    "materials": "铁矿石*8"
+  },
+  {
+    "label": "花园铸铁椅",
+    "name": "FtrIrongardenChair",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*3"
+  },
+  {
+    "label": "花园铸铁桌",
+    "name": "FtrIrongardenTable",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*5"
+  },
+  {
+    "label": "铸铁衣帽立架",
+    "name": "FtrIronHanger",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*3"
+  },
+  {
+    "label": "铸铁壁灯",
+    "name": "FtrIronLampW",
+    "category": "壁挂物",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*4+黏土*2"
+  },
+  {
+    "label": "铸铁柜",
+    "name": "FtrIronShelf",
+    "category": "家具",
+    "how": "商店",
+    "space": "1.0x2.0",
+    "materials": "铁矿石*14"
+  },
+  {
+    "label": "铸铁壁架",
+    "name": "FtrIronShelfW",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*3+黏土*1"
+  },
+  {
+    "label": "铸铁工作桌",
+    "name": "FtrIronTableM",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*10"
+  },
+  {
+    "label": "铸铁木床铺",
+    "name": "FtrIronwoodBedS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*20+铁矿石*10"
+  },
+  {
+    "label": "铸铁木凳",
+    "name": "FtrIronwoodChairS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*3+铁矿石*2"
+  },
+  {
+    "label": "铸铁木矮柜",
+    "name": "FtrIronwoodChest",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*7+铁矿石*4"
+  },
+  {
+    "label": "铸铁木时钟",
+    "name": "FtrIronwoodClockW",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*2+铁矿石*2"
+  },
+  {
+    "label": "铸铁木橱柜",
+    "name": "FtrIronwoodCupboard",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*12+铁矿石*6+铸铁木矮柜*1"
+  },
+  {
+    "label": "铸铁木厨房",
+    "name": "FtrIronwoodKitchen",
+    "category": "家具",
+    "how": "",
+    "space": "2.0×1.0",
+    "materials": "木材*4+铁矿石*3+铸铁木矮柜*1+切菜板*1"
+  },
+  {
+    "label": "铸铁木收纳推车",
+    "name": "FtrIronwoodServingcart",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*6+铁矿石*4"
+  },
+  {
+    "label": "铸铁木桌",
+    "name": "FtrIronwoodTableL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*12+铁矿石*6"
+  },
+  {
+    "label": "铸铁木矮桌",
+    "name": "FtrIronwoodTableM",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*6+铁矿石*4"
+  },
+  {
+    "label": "地炉",
+    "name": "FtrIrori",
+    "category": "家具",
+    "how": "",
+    "space": "2.0×2.0",
+    "materials": "竹子材料*2+铁矿石*5+黏土*4+硬木材*5"
+  },
+  {
+    "label": "空罐卡林巴琴",
+    "name": "FtrKalimbaCan",
+    "category": "小物件",
+    "how": "灵感/商店购买",
+    "space": "1.0×1.0",
+    "materials": "空罐*1+木材*1+铁矿石*1"
+  },
+  {
+    "label": "瓦罐",
+    "name": "FtrKame",
+    "category": "小物件",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "黏土*5"
+  },
+  {
+    "label": "学步推车",
+    "name": "FtrKatakatatoy",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*2+软木材*6"
+  },
+  {
+    "label": "壶铃",
+    "name": "FtrKettlebell",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*5"
+  },
+  {
+    "label": "钥匙挂钩",
+    "name": "FtrKeyhanger",
+    "category": "壁挂物",
+    "how": "然姐赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "木材*3+铁矿石*1"
+  },
+  {
+    "label": "壁挂式盆栽",
+    "name": "FtrLeafWall",
+    "category": "壁挂物",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "杂草*5+黏土*5"
+  },
+  {
+    "label": "圆木花园躺椅",
+    "name": "FtrLogBedS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*12"
+  },
+  {
+    "label": "圆木床铺",
+    "name": "FtrLogBedW",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*30"
+  },
+  {
+    "label": "圆木壁挂钟",
+    "name": "FtrLogClockWall",
+    "category": "壁挂物",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "硬木材*2+铁矿石*1"
+  },
+  {
+    "label": "圆木装饰架",
+    "name": "FtrLogShelf",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "圆木长凳*2+硬木材*3"
+  },
+  {
+    "label": "圆木长沙发",
+    "name": "FtrLogSofaL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "圆木沙发*2"
+  },
+  {
+    "label": "圆木沙发",
+    "name": "FtrLogSofaS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*8"
+  },
+  {
+    "label": "圆木长凳",
+    "name": "FtrLogStoolL",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "2.0×1.0",
+    "materials": "硬木材*5"
+  },
+  {
+    "label": "圆木凳子",
+    "name": "FtrLogStoolS",
+    "category": "家具",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "硬木材*4"
+  },
+  {
+    "label": "圆木餐桌",
+    "name": "FtrLogTableL",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "2.0×2.0",
+    "materials": "硬木材*15"
+  },
+  {
+    "label": "圆木圆桌",
+    "name": "FtrLogTableLRound",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*15"
+  },
+  {
+    "label": "杂志堆",
+    "name": "FtrMagagine",
+    "category": "",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "杂志*6"
+  },
+  {
+    "label": "杂志架",
+    "name": "FtrMagazinerack",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂志*2+木材*4"
+  },
+  {
+    "label": "金色招财猫",
+    "name": "FtrManekinekoGold",
+    "category": "",
+    "how": "村民赠送",
+    "space": "",
+    "materials": "金矿石*2+招财猫*1"
+  },
+  {
+    "label": "人孔盖",
+    "name": "FtrManhole",
+    "category": "小物件",
+    "how": "里程兑换",
+    "space": "1*1",
+    "materials": "铁矿石*3"
+  },
+  {
+    "label": "俄罗斯套娃",
+    "name": "FtrMatryoshka",
+    "category": "小物件",
+    "how": "漂流瓶/村民教",
+    "space": "1*1",
+    "materials": "软木材*5"
+  },
+  {
+    "label": "陨石",
+    "name": "FtrMeteo",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5+石头*10"
+  },
+  {
+    "label": "微型图书馆",
+    "name": "FtrMicrolibrary",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "书*3+木材*5"
+  },
+  {
+    "label": "登月舱",
+    "name": "FtrModule",
+    "category": "",
+    "how": "流星雨当天晚上与岛上的傅珂对话",
+    "space": "",
+    "materials": "星星碎片*10+铁矿石*15"
+  },
+  {
+    "label": "木鱼",
+    "name": "FtrMokugyo",
+    "category": "小物件",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "木材*3"
+  },
+  {
+    "label": "月亮",
+    "name": "FtrMoon",
+    "category": "",
+    "how": "流星雨当天晚上与岛上的傅珂对话",
+    "space": "",
+    "materials": "星星碎片*15+大星星碎片*1"
+  },
+  {
+    "label": "月球车",
+    "name": "FtrMoonrover",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*10+铁矿石*10+轮胎*4"
+  },
+  {
+    "label": "搬家纸箱L",
+    "name": "FtrMovingboxL",
+    "category": "家具",
+    "how": "",
+    "space": "2.0×2.0",
+    "materials": "纸箱*5"
+  },
+  {
+    "label": "搬家纸箱M",
+    "name": "FtrMovingboxM",
+    "category": "家具",
+    "how": "",
+    "space": "2.0×1.0",
+    "materials": "纸箱*4"
+  },
+  {
+    "label": "搬家纸箱S",
+    "name": "FtrMovingboxS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "纸箱*2"
+  },
+  {
+    "label": "蘑菇凳子",
+    "name": "FtrMushroomChairS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "圆形蘑菇*2"
+  },
+  {
+    "label": "蘑菇灯",
+    "name": "FtrMushroomLamp",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "瘦小蘑菇*1+黏土*5"
+  },
+  {
+    "label": "蘑菇阳伞",
+    "name": "FtrMushroomParasol",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "扁平蘑菇*3"
+  },
+  {
+    "label": "蘑菇树干",
+    "name": "FtrMushroomPulpwood",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "瘦小蘑菇*2+圆木凳子*1"
+  },
+  {
+    "label": "蘑菇屏风",
+    "name": "FtrMushroomScreen",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "瘦小蘑菇*3"
+  },
+  {
+    "label": "蘑菇桌",
+    "name": "FtrMushroomTableL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "扁平蘑菇*2+木材*6"
+  },
+  {
+    "label": "乐谱架",
+    "name": "FtrMusicstand",
+    "category": "家具",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "硬木材*8"
+  },
+  {
+    "label": "树果拱门",
+    "name": "FtrNutArch",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "松果*4+橡栗*5+红叶*5+树枝*15"
+  },
+  {
+    "label": "树果灯",
+    "name": "FtrNutLamp",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橡栗*6+黏土*4"
+  },
+  {
+    "label": "树果挂饰",
+    "name": "FtrNutMobile",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "松果*2+橡栗*3+树枝*3"
+  },
+  {
+    "label": "大树果树",
+    "name": "FtrNutTreeL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "松果*5+橡栗*4+红叶*4+树枝*8+黏土*4"
+  },
+  {
+    "label": "小树果树",
+    "name": "FtrNutTreeS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "松果*6+橡栗*4+硬木材*1"
+  },
+  {
+    "label": "文件堆",
+    "name": "FtrOfficePapers",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "散乱的纸张*1"
+  },
+  {
+    "label": "露天池",
+    "name": "FtrOpenairbath",
+    "category": "家具",
+    "how": "狸端机兑换",
+    "space": "3.0×3.0",
+    "materials": "石头*20+铲子*1"
+  },
+  {
+    "label": "挂饰",
+    "name": "FtrOrnamentMobile",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色装饰品*1+蓝色装饰品*1+金色装饰品*1+树枝*4"
+  },
+  {
+    "label": "狸猫摆饰",
+    "name": "FtrOrnamentTanuki",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黏土*6"
+  },
+  {
+    "label": "棕榈树灯",
+    "name": "FtrPalmtreelamp",
+    "category": "家具",
+    "how": "气球/漂流瓶",
+    "space": "1.0x1.0",
+    "materials": "椰子*4+木材*4+黏土*4"
+  },
+  {
+    "label": "平底锅",
+    "name": "FtrPan",
+    "category": "小物件",
+    "how": "商店购买（新手DIY手册）",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*2"
+  },
+  {
+    "label": "花园长椅",
+    "name": "FtrParkbenche",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*12+铁矿石*4"
+  },
+  {
+    "label": "街头钢琴",
+    "name": "FtrPianoStreet",
+    "category": "家具",
+    "how": "村民赠送",
+    "space": "2.0×1.0",
+    "materials": "直立式钢琴*1+水彩用具组合*1"
+  },
+  {
+    "label": "木桶",
+    "name": "FtrPirateBarrel",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*5+铁矿石*2"
+  },
+  {
+    "label": "多肉植物",
+    "name": "FtrPlantSucculents",
+    "category": "小物件",
+    "how": "灵感/商店购买",
+    "space": "1.0×1.0",
+    "materials": "杂草*10+空罐*1"
+  },
+  {
+    "label": "椰子壁挂盆栽",
+    "name": "FtrPlanterPalm",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "椰子*1+杂草*5"
+  },
+  {
+    "label": "轮胎玩具",
+    "name": "FtrPlayingtire",
+    "category": "家具",
+    "how": "灵感/商店购买",
+    "space": "1.0×1.0",
+    "materials": "轮胎*1"
+  },
+  {
+    "label": "陶制牛奶壶",
+    "name": "FtrPotteryjug",
+    "category": "小物件",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "黏土*4"
+  },
+  {
+    "label": "套圈圈",
+    "name": "FtrQuoits",
+    "category": "小物件",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "木材*2+软木材*2"
+  },
+  {
+    "label": "石拱门",
+    "name": "FtrRockArch",
+    "category": "家具",
+    "how": "狸端机兑换",
+    "space": "1.0x3.0",
+    "materials": "石头*90"
+  },
+  {
+    "label": "石碑",
+    "name": "FtrRockMonument",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*12"
+  },
+  {
+    "label": "火箭",
+    "name": "FtrRocket",
+    "category": "家具",
+    "how": "流星雨当天晚上与岛上的傅珂对话",
+    "space": "2.0×1.0",
+    "materials": "星星碎片*10+铁矿石*20"
+  },
+  {
+    "label": "摇椅",
+    "name": "FtrRockingchair",
+    "category": "家具",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "木材*3+软木材*5"
+  },
+  {
+    "label": "木马",
+    "name": "FtrRockinghorse",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "软木材*5"
+  },
+  {
+    "label": "樱花树枝",
+    "name": "FtrSakuraBranch",
+    "category": "季节手册",
+    "how": "气球",
+    "space": "1.0x2.0",
+    "materials": "樱花花瓣*8+树枝*4+黏土*5"
+  },
+  {
+    "label": "樱花时钟",
+    "name": "FtrSakuraClockW",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱花花瓣*5+铁矿石*1"
+  },
+  {
+    "label": "赏花提灯",
+    "name": "FtrSakuraLantern",
+    "category": "家具/季节手册",
+    "how": "气球礼物",
+    "space": "1.0×1.0",
+    "materials": "樱花花瓣*6+硬木材*4"
+  },
+  {
+    "label": "樱花花瓣堆",
+    "name": "FtrSakuraPetal",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱花花瓣*5"
+  },
+  {
+    "label": "赏花组合",
+    "name": "FtrSakuraPicnicset",
+    "category": "季节手册",
+    "how": "气球",
+    "space": "",
+    "materials": "樱花花瓣*10"
+  },
+  {
+    "label": "人工卫星",
+    "name": "FtrSatellite",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*10+铁矿石*15"
+  },
+  {
+    "label": "稻草人",
+    "name": "FtrScarecrow",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "树枝*3+杂草*5"
+  },
+  {
+    "label": "牢笼",
+    "name": "FtrScreenCage",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*5"
+  },
+  {
+    "label": "石狮子",
+    "name": "FtrSekishishi",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*24"
+  },
+  {
+    "label": "贝壳拱门",
+    "name": "FtrShellArch",
+    "category": "",
+    "how": "气球",
+    "space": "",
+    "materials": "钟螺壳*3+骨螺壳*3+沙钱*3+珊瑚*3+扇贝壳*3+宝螺壳*3"
+  },
+  {
+    "label": "贝壳床铺",
+    "name": "FtrShellBedW",
+    "category": "家具",
+    "how": "村民赠送",
+    "space": "",
+    "materials": "扇贝壳*5+黏土*3+石头*4"
+  },
+  {
+    "label": "贝壳喷泉",
+    "name": "FtrShellFountain",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "扇贝壳*5+石头*3"
+  },
+  {
+    "label": "贝壳灯",
+    "name": "FtrShellLamp",
+    "category": "",
+    "how": "村民赠送",
+    "space": "",
+    "materials": "扇贝壳*2+黏土*3"
+  },
+  {
+    "label": "贝壳广播喇叭",
+    "name": "FtrShellMusic",
+    "category": "小物件",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "海螺壳*3+铁矿石*2"
+  },
+  {
+    "label": "贝壳屏风",
+    "name": "FtrShellScreen",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "骨螺壳*4+海螺壳*4"
+  },
+  {
+    "label": "贝壳凳子",
+    "name": "FtrShellStoolS",
+    "category": "家具",
+    "how": "村民赠送/漂流瓶",
+    "space": "1.0×1.0",
+    "materials": "宝螺壳*5"
+  },
+  {
+    "label": "贝壳桌",
+    "name": "FtrShellTableL",
+    "category": "家具",
+    "how": "小动物赠送",
+    "space": "2.0*2.0",
+    "materials": "沙钱*7+黏土*3"
+  },
+  {
+    "label": "竹流水造景",
+    "name": "FtrShishiodoshi",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "竹子材料*3+石头*8+杂草*3"
+  },
+  {
+    "label": "太空梭",
+    "name": "FtrShuttle",
+    "category": "家具",
+    "how": "傅珂赠送",
+    "space": "1.0x3.0",
+    "materials": "星星碎片*5+铁矿石*10"
+  },
+  {
+    "label": "朴素木制招牌",
+    "name": "FtrSignWood",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "木材*6"
+  },
+  {
+    "label": "木匾额",
+    "name": "FtrSignboardWood",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*5"
+  },
+  {
+    "label": "路标",
+    "name": "FtrSignpost",
+    "category": "家具",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "硬木材*2+软木材*3"
+  },
+  {
+    "label": "倾斜路标",
+    "name": "FtrSignpostTilt",
+    "category": "家具",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "硬木材*2+软木材*3"
+  },
+  {
+    "label": "世界的路标",
+    "name": "FtrSignpostWorld",
+    "category": "家具",
+    "how": "狸端机兑换",
+    "space": "1.5×1.5",
+    "materials": "硬木材*4+软木材*8"
+  },
+  {
+    "label": "筒仓",
+    "name": "FtrSilo",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "2.0x2.0",
+    "materials": "铁矿石*12+硬木材*6+黏土*12+石头*12"
+  },
+  {
+    "label": "雪橇",
+    "name": "FtrSled",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*8"
+  },
+  {
+    "label": "3层雪人",
+    "name": "FtrSnowman",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*6+树枝*2"
+  },
+  {
+    "label": "载人太空船",
+    "name": "FtrSpacecraft",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*10+铁矿石*20"
+  },
+  {
+    "label": "太空人",
+    "name": "FtrSpacesuit",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5+铁矿石*5"
+  },
+  {
+    "label": "立花篮",
+    "name": "FtrStandflower",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色玫瑰*1+粉红玫瑰*2+橘色玫瑰*2+白色百合*2+黄色百合*1+紫色银莲花*4"
+  },
+  {
+    "label": "星星时钟",
+    "name": "FtrStarClock",
+    "category": "壁挂物",
+    "how": "傅珂赠送",
+    "space": "1.0x1.0",
+    "materials": "星星碎片*3+铁矿石*1"
+  },
+  {
+    "label": "星星挂饰",
+    "name": "FtrStarDecorationWall",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*10"
+  },
+  {
+    "label": "星光",
+    "name": "FtrStarLamp",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5"
+  },
+  {
+    "label": "新月椅",
+    "name": "FtrStarMoonChairL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*7+大星星碎片*1"
+  },
+  {
+    "label": "石头凳子",
+    "name": "FtrStoneChair",
+    "category": "家具",
+    "how": "商店购买（新手DIY手册）",
+    "space": "1.0×1.0",
+    "materials": "石头*3"
+  },
+  {
+    "label": "石灯笼",
+    "name": "FtrStonelantern",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*18"
+  },
+  {
+    "label": "窑烤炉",
+    "name": "FtrStoneoven",
+    "category": "家具",
+    "how": "",
+    "space": "1.5×1.5",
+    "materials": "黏土*8+铁矿石*2+木材*6"
+  },
+  {
+    "label": "石头桌",
+    "name": "FtrStoneTable",
+    "category": "家具",
+    "how": "狸克赠送",
+    "space": "2.0×2.0",
+    "materials": "石头*8"
+  },
+  {
+    "label": "石水盆",
+    "name": "FtrStonewaterbowl",
+    "category": "家具",
+    "how": "",
+    "space": "",
+    "materials": "石头*10"
+  },
+  {
+    "label": "石水盆～枫叶～",
+    "name": "FtrStonewaterbowlAutumun",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*10+红叶*3"
+  },
+  {
+    "label": "石水盆～樱花～",
+    "name": "FtrStonewaterbowlSakura",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*10+樱花花瓣*3"
+  },
+  {
+    "label": "三温暖电暖炉",
+    "name": "FtrStoveSauna",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*6+铁矿石*3+木材*3"
+  },
+  {
+    "label": "秋千椅",
+    "name": "FtrSwingWood",
+    "category": "家具",
+    "how": "狸克赠送",
+    "space": "2.0×1.0",
+    "materials": "木材*5+软木材*7"
+  },
+  {
+    "label": "铜锣",
+    "name": "FtrTamtam",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*6+木材*5"
+  },
+  {
+    "label": "玻璃盆栽",
+    "name": "FtrTerrarium",
+    "category": "小物件",
+    "how": "漂流瓶",
+    "space": "1*1",
+    "materials": "杂草*12+铁矿石*2"
+  },
+  {
+    "label": "垂吊玻璃盆栽",
+    "name": "FtrTerrariumWall",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂草*12+铁矿石*4"
+  },
+  {
+    "label": "消波块",
+    "name": "FtrTetrapod",
+    "category": "",
+    "how": "里程兑换",
+    "space": "",
+    "materials": "石头*10+黏土*10"
+  },
+  {
+    "label": "木制工具箱",
+    "name": "FtrToolboxWood",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "软木材*4+铁矿石*2"
+  },
+  {
+    "label": "火把",
+    "name": "FtrTorch",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "树枝*5+木材*5"
+  },
+  {
+    "label": "木制废纸篓",
+    "name": "FtrTrashboxWood",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*4"
+  },
+  {
+    "label": "大型圣诞树",
+    "name": "FtrTreeXmasL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色装饰品*6+蓝色装饰品*6+金色装饰品*4+木材*5+黏土*5"
+  },
+  {
+    "label": "桌上圣诞树",
+    "name": "FtrTreeXmasMini",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金色装饰品*5+树枝*3+黏土*2"
+  },
+  {
+    "label": "可爱圣诞树",
+    "name": "FtrTreeXmasS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色装饰品*3+蓝色装饰品*3+金色装饰品*2+木材*5"
+  },
+  {
+    "label": "奖杯柜",
+    "name": "FtrTrophycase",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*24+金矿石*3+铁矿石*6"
+  },
+  {
+    "label": "轮胎堆",
+    "name": "FtrTyres",
+    "category": "家具",
+    "how": "灵感/商店购买",
+    "space": "1.0×1.0",
+    "materials": "轮胎*3"
+  },
+  {
+    "label": "飞碟",
+    "name": "FtrUFO",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*15+铁矿石*10"
+  },
+  {
+    "label": "乌克丽丽",
+    "name": "FtrUkulele",
+    "category": "小物件",
+    "how": "漂流瓶/气球礼物",
+    "space": "1.0×1.0",
+    "materials": "硬木材*5"
+  },
+  {
+    "label": "雨伞架",
+    "name": "FtrUmbrellastand",
+    "category": "家具",
+    "how": "气球",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*3"
+  },
+  {
+    "label": "朴素洗脸台",
+    "name": "FtrWashstandBowl",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "木材*6+黏土*4+铁矿石*1"
+  },
+  {
+    "label": "洗衣盆",
+    "name": "FtrWashtub",
+    "category": "小物件",
+    "how": "商店购买（新手DIY手册）",
+    "space": "1.0×1.0",
+    "materials": "软木材*3"
+  },
+  {
+    "label": "简约水井",
+    "name": "FtrWell",
+    "category": "家具",
+    "how": "狸端机兑换",
+    "space": "1.0x1.0",
+    "materials": "石头*15+简陋铲子*1"
+  },
+  {
+    "label": "砖块水井",
+    "name": "FtrWellBrick",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黏土*8+木材*5+简陋铲子*1"
+  },
+  {
+    "label": "野外圆木长凳",
+    "name": "FtrWoodBench",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*8"
+  },
+  {
+    "label": "圆木桩",
+    "name": "FtrWoodPile",
+    "category": "家具",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "木材*3"
+  },
+  {
+    "label": "木制单人床",
+    "name": "FtrWoodenBedS",
+    "category": "家具",
+    "how": "",
+    "space": "2.0×1.0",
+    "materials": "木材*18"
+  },
+  {
+    "label": "木制双人床",
+    "name": "FtrWoodenBedW",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*30"
+  },
+  {
+    "label": "木制椅",
+    "name": "FtrWoodenChairS",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "木材*6"
+  },
+  {
+    "label": "木制矮柜",
+    "name": "FtrWoodenChest",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*16"
+  },
+  {
+    "label": "木制衣柜",
+    "name": "FtrWoodenCloset",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "木材*12"
+  },
+  {
+    "label": "木制穿衣镜",
+    "name": "FtrWoodenMirror",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*5+铁矿石*1"
+  },
+  {
+    "label": "木制桌面镜",
+    "name": "FtrWoodenMirrorS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*3+铁矿石*1"
+  },
+  {
+    "label": "木制凳子",
+    "name": "FtrWoodenStoolS",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*4"
+  },
+  {
+    "label": "木制桌",
+    "name": "FtrWoodenTableL",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*15"
+  },
+  {
+    "label": "木制矮桌",
+    "name": "FtrWoodenTableM",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*10"
+  },
+  {
+    "label": "木制小桌",
+    "name": "FtrWoodenTableMini",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*6"
+  },
+  {
+    "label": "木制边桌",
+    "name": "FtrWoodenTableS",
+    "category": "家具",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "木材*8"
+  },
+  {
+    "label": "DIY作业台",
+    "name": "FtrWorkbench",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*5+硬木材*5+软木材*5+铁矿石*3+迷你DIY作业台*1"
+  },
+  {
+    "label": "铸铁木DIY桌",
+    "name": "FtrWorkbenchIronwood",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "木材*12+铁矿石*6+迷你DIY作业台*1"
+  },
+  {
+    "label": "迷你DIY作业台",
+    "name": "FtrWorkbenchS",
+    "category": "家具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "木材*3+硬木材*3+软木材*3+铁矿石*2"
+  },
+  {
+    "label": "朴素DIY作业台",
+    "name": "FtrWorkbenchStump",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "硬木材*5+铁矿石*1"
+  },
+  {
+    "label": "水瓶座水瓶",
+    "name": "FtrZodiacAquarius",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+水瓶座碎片*2+金矿石*2+石头*5"
+  },
+  {
+    "label": "白羊座木马",
+    "name": "FtrZodiacAries",
+    "category": "家具",
+    "how": "流星雨当天晚上与岛上的傅珂对话",
+    "space": "1.0×1.0",
+    "materials": "星星碎片*3+白羊座碎片*2+金矿石*1+石头*5"
+  },
+  {
+    "label": "巨蟹座桌子",
+    "name": "FtrZodiacCancer",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+巨蟹座碎片*2+金矿石*2+石头*3"
+  },
+  {
+    "label": "摩羯座摆饰",
+    "name": "FtrZodiacCapricornus",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+摩羯座碎片*2+金矿石*2+石头*12"
+  },
+  {
+    "label": "双子座衣柜",
+    "name": "FtrZodiacGemini",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+双子座碎片*2+金矿石*2+石头*6"
+  },
+  {
+    "label": "狮子座雕塑",
+    "name": "FtrZodiacLeo",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+狮子座碎片*2+金矿石*2+石头*3"
+  },
+  {
+    "label": "天秤",
+    "name": "FtrZodiacLibra",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+天秤座碎片*2+金矿石*2"
+  },
+  {
+    "label": "双鱼座灯",
+    "name": "FtrZodiacPisces",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+双鱼座碎片*2+金矿石*2+石头*4"
+  },
+  {
+    "label": "射手座箭矢",
+    "name": "FtrZodiacSagittarius",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+射手座碎片*2+金矿石*2"
+  },
+  {
+    "label": "天蝎座灯",
+    "name": "FtrZodiacScorpio",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+天蝎座碎片*2+金矿石*2+石头*5"
+  },
+  {
+    "label": "金牛座浴缸",
+    "name": "FtrZodiacTaurus",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+金牛座碎片*2+金矿石*1+石头*8"
+  },
+  {
+    "label": "处女座竖琴",
+    "name": "FtrZodiacVirgo",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*3+处女座碎片*2+金矿石*2+石头*4"
+  },
+  {
+    "label": "竹栅栏",
+    "name": "ItemFenceBamboo",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0x1.0",
+    "materials": "竹子材料*6"
+  },
+  {
+    "label": "有刺铁丝网",
+    "name": "ItemFenceBarbedWire",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0×1.0",
+    "materials": "硬木材*4+铁矿石*2"
+  },
+  {
+    "label": "东方风栅栏",
+    "name": "ItemFenceChinese",
+    "category": "其他",
+    "how": "狸端机 1000点兑换",
+    "space": "1.0x1.0",
+    "materials": "木材*6+软木材*4"
+  },
+  {
+    "label": "干稻草栅栏",
+    "name": "ItemFenceDriedStraw",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0×1.0",
+    "materials": "杂草*10+木材*3"
+  },
+  {
+    "label": "复活节栅栏",
+    "name": "ItemFenceEgg",
+    "category": "其他",
+    "how": "漂流瓶/气球",
+    "space": "1.0x1.0",
+    "materials": "地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"
+  },
+  {
+    "label": "横条木板栅栏",
+    "name": "ItemFenceHorizontalWood",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0×1.0",
+    "materials": "木材*6"
+  },
+  {
+    "label": "树篱",
+    "name": "ItemFenceIkegaki",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂草*10+树枝*5+石头*2"
+  },
+  {
+    "label": "石砌铁艺栅栏",
+    "name": "ItemFenceIronAndStone",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0×1.0",
+    "materials": "石头*6+铁矿石*3"
+  },
+  {
+    "label": "和风栅栏",
+    "name": "ItemFenceJapanese",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*3+黏土*3+石头*3"
+  },
+  {
+    "label": "婚礼栅栏",
+    "name": "ItemFenceJuneBride",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*5+软木材*3"
+  },
+  {
+    "label": "交叉格栅",
+    "name": "ItemFenceLatiiceNatural",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0×1.0",
+    "materials": "软木材*8"
+  },
+  {
+    "label": "圆木栅栏",
+    "name": "ItemFenceLog",
+    "category": "其他",
+    "how": "狸端机 1000点兑换",
+    "space": "1.0x1.0",
+    "materials": "硬木材*6"
+  },
+  {
+    "label": "朴素木制栅栏",
+    "name": "ItemFenceNatural",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0x1.0",
+    "materials": "软木材*6"
+  },
+  {
+    "label": "钉子与绳索",
+    "name": "ItemFencePegRope",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*4"
+  },
+  {
+    "label": "尖刺栅栏",
+    "name": "ItemFenceSharply",
+    "category": "其他",
+    "how": "狸端机1000点兑换",
+    "space": "1.0×1.0",
+    "materials": "硬木材*8"
+  },
+  {
+    "label": "铁栅栏",
+    "name": "ItemFenceSteel",
+    "category": "其他",
+    "how": "狸端机1000点兑换",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*6"
+  },
+  {
+    "label": "石栅栏",
+    "name": "ItemFenceStone",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*4"
+  },
+  {
+    "label": "直条木板栅栏",
+    "name": "ItemFenceVerticalWood",
+    "category": "其他",
+    "how": "狸端机兑换",
+    "space": "1.0×1.0",
+    "materials": "木材*8"
+  },
+  {
+    "label": "砖块栅栏",
+    "name": "ItemFenceWallRenga",
+    "category": "",
+    "how": "里程兑换",
+    "space": "",
+    "materials": "黏土*6"
+  },
+  {
+    "label": "药",
+    "name": "ItemMedicine",
+    "category": "其他",
+    "how": "村民赠送",
+    "space": "1.0×1.0",
+    "materials": "蜂巢*1+杂草*3"
+  },
+  {
+    "label": "撑杆跳竿子",
+    "name": "LongWoodenStick",
+    "category": "工具",
+    "how": "博达赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "软木材*5"
+  },
+  {
+    "label": "陷阱种子",
+    "name": "PitfallSeed",
+    "category": "其他",
+    "how": "小动物赠送",
+    "space": "1*1",
+    "materials": "杂草*4+树枝*6"
+  },
+  {
+    "label": "海底地板",
+    "name": "RoomSpFloorFishTank00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "夏天贝壳*3+珊瑚*3"
+  },
+  {
+    "label": "银河系地板",
+    "name": "RoomSpFloorGalaxy00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5+大星星碎片*1"
+  },
+  {
+    "label": "冰雪地板",
+    "name": "RoomSpFloorIce00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*8"
+  },
+  {
+    "label": "流冰地板",
+    "name": "RoomSpFloorIceFloe00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "雪花*10"
+  },
+  {
+    "label": "太空船地板",
+    "name": "RoomSpFloorSF00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5+大星星碎片*1"
+  },
+  {
+    "label": "水面地板",
+    "name": "RoomSpFloorWater00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "夏天贝壳*6"
+  },
+  {
+    "label": "枫叶墙",
+    "name": "RoomSpWallAutumun00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "红叶*10+木材*5+杂草*5"
+  },
+  {
+    "label": "水中壁纸",
+    "name": "RoomSpWallFishTank00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "夏天贝壳*3+珊瑚*5"
+  },
+  {
+    "label": "滑雪场壁纸",
+    "name": "RoomSpWallGelande00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "雪花*8"
+  },
+  {
+    "label": "冰雪壁纸",
+    "name": "RoomSpWallIce00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+雪花*8"
+  },
+  {
+    "label": "太空船墙",
+    "name": "RoomSpWallSF00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5+大星星碎片*1"
+  },
+  {
+    "label": "樱花树墙",
+    "name": "RoomSpWallSakura00",
+    "category": "墙壁·地板·地垫",
+    "how": "气球",
+    "space": "一个房间",
+    "materials": "樱花花瓣*10+硬木材*5"
+  },
+  {
+    "label": "星星墙",
+    "name": "RoomSpWallStarPrint00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5+大星星碎片*1"
+  },
+  {
+    "label": "星空墙",
+    "name": "RoomSpWallStarSky00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5+大星星碎片*1"
+  },
+  {
+    "label": "南方海洋墙",
+    "name": "RoomSpWallTropical00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "夏天贝壳*5"
+  },
+  {
+    "label": "圣诞墙",
+    "name": "RoomSpWallXmas00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色装饰品*5+蓝色装饰品*5+金色装饰品*5+黏土*5"
+  },
+  {
+    "label": "枫叶地板",
+    "name": "RoomTexFloorAutumun00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红叶*10+杂草*15"
+  },
+  {
+    "label": "竹子地板",
+    "name": "RoomTexFloorBamboo00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "竹子材料*15"
+  },
+  {
+    "label": "地下室地板",
+    "name": "RoomTexFloorBasement00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*10"
+  },
+  {
+    "label": "金钱地板",
+    "name": "RoomTexFloorBill00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "50000铃钱*1"
+  },
+  {
+    "label": "复活节地板",
+    "name": "RoomTexFloorEaster00",
+    "category": "地板",
+    "how": "漂流瓶/气球",
+    "space": "一个房间",
+    "materials": "地面蛋*2+岩石蛋*2+叶子蛋*2+森林蛋*2+飞天蛋*2+鱼儿蛋*2"
+  },
+  {
+    "label": "房间地板",
+    "name": "RoomTexFloorGarbage00",
+    "category": "墙壁·地板·地垫",
+    "how": "灵感/商店购买",
+    "space": "一个房间",
+    "materials": "空罐*2+长靴*2+轮胎*2"
+  },
+  {
+    "label": "滑雪场地板",
+    "name": "RoomTexFloorGelande00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "雪花*8"
+  },
+  {
+    "label": "黄金地板",
+    "name": "RoomTexFloorGold00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*4"
+  },
+  {
+    "label": "蜂蜜地板",
+    "name": "RoomTexFloorHoney00",
+    "category": "墙壁·地板·地垫",
+    "how": "村民赠送",
+    "space": "一个房间",
+    "materials": "蜂巢*5"
+  },
+  {
+    "label": "丛林地板",
+    "name": "RoomTexFloorJungle00",
+    "category": "墙壁·地板·地垫",
+    "how": "动物赠送",
+    "space": "一个房间",
+    "materials": "杂草*10+黏土*10"
+  },
+  {
+    "label": "草坪地板",
+    "name": "RoomTexFloorLawn00",
+    "category": "墙壁·地板·地垫",
+    "how": "漂流瓶",
+    "space": "一个房间",
+    "materials": "杂草*30"
+  },
+  {
+    "label": "月球表面地板",
+    "name": "RoomTexFloorLunar00",
+    "category": "墙壁·地板·地垫",
+    "how": "流星雨当天晚上与岛上的傅珂对话",
+    "space": "一个房间",
+    "materials": "星星碎片*5+大星星碎片*1"
+  },
+  {
+    "label": "蘑菇森林地板",
+    "name": "RoomTexFloorMushForest00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "珍贵蘑菇*1+圆形蘑菇*2+瘦小蘑菇*2+扁平蘑菇*2+杂草*10"
+  },
+  {
+    "label": "樱花地毯",
+    "name": "RoomTexFloorSakura00",
+    "category": "季节手册",
+    "how": "气球",
+    "space": "",
+    "materials": "樱花花瓣*10+杂草*20"
+  },
+  {
+    "label": "沙滩地板",
+    "name": "RoomTexFloorSand00",
+    "category": "地板",
+    "how": "漂流瓶",
+    "space": "一个房间",
+    "materials": "钟螺壳*1+骨螺壳*1+沙钱*1+珊瑚*1+扇贝壳*1+宝螺壳*1"
+  },
+  {
+    "label": "星星沙滩地板",
+    "name": "RoomTexFloorSandStar00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "夏天贝壳*3+沙滩地板*1"
+  },
+  {
+    "label": "粉红色木地板",
+    "name": "RoomTexFloorSolidWood00",
+    "category": "季节手册",
+    "how": "气球",
+    "space": "一个房间",
+    "materials": "樱花花瓣*5+木材*10"
+  },
+  {
+    "label": "铁板地板",
+    "name": "RoomTexFloorSteel00",
+    "category": "墙壁·地板·地垫",
+    "how": "漂流瓶",
+    "space": "一个房间",
+    "materials": "铁矿石*7"
+  },
+  {
+    "label": "苹果壁纸",
+    "name": "RoomTexWallApple00",
+    "category": "墙壁·地板·地垫",
+    "how": "村民赠送",
+    "space": "一个房间",
+    "materials": "苹果*20"
+  },
+  {
+    "label": "竹子墙",
+    "name": "RoomTexWallBamboo00",
+    "category": "墙壁·地板·地垫",
+    "how": "气球礼物/商店购买",
+    "space": "一个房间",
+    "materials": "竹子材料*15"
+  },
+  {
+    "label": "石板墙",
+    "name": "RoomTexWallBasement00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*10"
+  },
+  {
+    "label": "木节墙",
+    "name": "RoomTexWallCedar00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "硬木材*15"
+  },
+  {
+    "label": "樱桃壁纸",
+    "name": "RoomTexWallCherry00",
+    "category": "墙壁·地板·地垫",
+    "how": "村民赠送",
+    "space": "一个房间",
+    "materials": "樱桃*20"
+  },
+  {
+    "label": "竹林墙",
+    "name": "RoomTexWallChikurin00",
+    "category": "墙壁·地板·地垫",
+    "how": "漂流瓶",
+    "space": "一个房间",
+    "materials": "春笋*7+竹笋*3"
+  },
+  {
+    "label": "复活节壁纸",
+    "name": "RoomTexWallEaster00",
+    "category": "壁纸",
+    "how": "漂流瓶/气球",
+    "space": "一个房间",
+    "materials": "地面蛋*2+岩石蛋*2+叶子蛋*2+森林蛋*2+飞天蛋*2+鱼儿蛋*2"
+  },
+  {
+    "label": "木质墙",
+    "name": "RoomTexWallFireWood00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "硬木材*15"
+  },
+  {
+    "label": "金箔日式拉门",
+    "name": "RoomTexWallFusumaGorgeous00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*2+日式拉门*1"
+  },
+  {
+    "label": "垃圾堆墙",
+    "name": "RoomTexWallGarbage00",
+    "category": "墙壁·地板·地垫",
+    "how": "灵感/商店购买",
+    "space": "一个房间",
+    "materials": "空罐*2+长靴*2+轮胎*2"
+  },
+  {
+    "label": "黄金墙",
+    "name": "RoomTexWallGold00",
+    "category": "墙壁·地板·地垫",
+    "how": "村民赠送",
+    "space": "一个房间",
+    "materials": "金矿石*4"
+  },
+  {
+    "label": "茶色人字斜纹墙",
+    "name": "RoomTexWallHerringbone00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "软木材*15"
+  },
+  {
+    "label": "深棕色人字斜纹墙",
+    "name": "RoomTexWallHerringbone01",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "软木材*15"
+  },
+  {
+    "label": "蜂巢墙",
+    "name": "RoomTexWallHoney00",
+    "category": "墙壁·地板·地垫",
+    "how": "村民赠送",
+    "space": "一个房间",
+    "materials": "蜂巢*6"
+  },
+  {
+    "label": "冰山墙",
+    "name": "RoomTexWallIceFloe00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "雪花*10"
+  },
+  {
+    "label": "树海墙",
+    "name": "RoomTexWallJukai00",
+    "category": "墙壁·地板·地垫",
+    "how": "漂流瓶",
+    "space": "一个房间",
+    "materials": "杂草*15+软木材*9"
+  },
+  {
+    "label": "丛林壁纸",
+    "name": "RoomTexWallJungle00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "杂草*15+木材*3+硬木材*3+软木材*3"
+  },
+  {
+    "label": "图书馆墙",
+    "name": "RoomTexWallLibrary00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "书*10"
+  },
+  {
+    "label": "漫画图书馆墙",
+    "name": "RoomTexWallLibrary01",
+    "category": "墙壁·地板·地垫",
+    "how": "村民赠送",
+    "space": "一个房间",
+    "materials": "杂志*10"
+  },
+  {
+    "label": "木屋墙",
+    "name": "RoomTexWallLog00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "硬木材*15"
+  },
+  {
+    "label": "嵌木墙",
+    "name": "RoomTexWallMixPlankWood00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "木材*15"
+  },
+  {
+    "label": "深色嵌木墙",
+    "name": "RoomTexWallMixPlankWood01",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "木材*15"
+  },
+  {
+    "label": "拼木墙",
+    "name": "RoomTexWallMixwood00",
+    "category": "墙壁·地板·地垫",
+    "how": "漂流瓶",
+    "space": "一个房间",
+    "materials": "木材*5+软木材*5+硬木材*5"
+  },
+  {
+    "label": "蘑菇壁纸",
+    "name": "RoomTexWallMush00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "出色蘑菇*1+圆形蘑菇*1+瘦小蘑菇*1+扁平蘑菇*1"
+  },
+  {
+    "label": "蘑菇森林墙",
+    "name": "RoomTexWallMushForest00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "出色蘑菇*2+圆形蘑菇*2+瘦小蘑菇*2+扁平蘑菇*2+木材*10"
+  },
+  {
+    "label": "橘子壁纸",
+    "name": "RoomTexWallOrange00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "橘子*20"
+  },
+  {
+    "label": "桃子壁纸",
+    "name": "RoomTexWallPeach00",
+    "category": "墙壁·地板·地垫",
+    "how": "村民赠送",
+    "space": "一个房间",
+    "materials": "桃子*20"
+  },
+  {
+    "label": "梨子壁纸",
+    "name": "RoomTexWallPear00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "梨子*20"
+  },
+  {
+    "label": "雪花壁纸",
+    "name": "RoomTexWallSnowCrystal00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "雪花*12"
+  },
+  {
+    "label": "樱花木墙",
+    "name": "RoomTexWallSolidWood00",
+    "category": "季节手册",
+    "how": "气球",
+    "space": "一个房间",
+    "materials": "樱花花瓣*5+木材*10"
+  },
+  {
+    "label": "钢架墙",
+    "name": "RoomTexWallSteel00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*8"
+  },
+  {
+    "label": "不规则石头墙",
+    "name": "RoomTexWallStone00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "石头*5+黏土*5"
+  },
+  {
+    "label": "原木墙",
+    "name": "RoomTexWallWildWood00",
+    "category": "墙壁·地板·地垫",
+    "how": "",
+    "space": "一个房间",
+    "materials": "木材*15"
+  },
+  {
+    "label": "苹果地毯",
+    "name": "RugOtherAppleM00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "苹果*6"
+  },
+  {
+    "label": "樱桃地毯",
+    "name": "RugOtherCherryM00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱桃*6"
+  },
+  {
+    "label": "复活节地毯",
+    "name": "RugOtherEasterM00",
+    "category": "地毯",
+    "how": "漂流瓶/气球",
+    "space": "3.0x3.0",
+    "materials": "地面蛋*1+岩石蛋*1+叶子蛋*1+森林蛋*1+飞天蛋*1+鱼儿蛋*1"
+  },
+  {
+    "label": "橘子地毯",
+    "name": "RugOtherOrangeM00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘子*6"
+  },
+  {
+    "label": "桃子地毯",
+    "name": "RugOtherPeachM00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "桃子*6"
+  },
+  {
+    "label": "梨子地毯",
+    "name": "RugOtherPearM00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "梨子*6"
+  },
+  {
+    "label": "贝壳地毯",
+    "name": "RugOtherShellM00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "扇贝壳*3"
+  },
+  {
+    "label": "浅色竹子地垫",
+    "name": "RugRectBambooM00",
+    "category": "季节手册",
+    "how": "漂流瓶/气球礼物",
+    "space": "3.0×2.0",
+    "materials": "春笋*6"
+  },
+  {
+    "label": "深色竹子地垫",
+    "name": "RugRectBambooM01",
+    "category": "墙壁·地板·地垫",
+    "how": "漂流瓶",
+    "space": "3.0×2.0",
+    "materials": "竹子材料*6"
+  },
+  {
+    "label": "金甲靴",
+    "name": "ShoesKneeKnightGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*4"
+  },
+  {
+    "label": "铁甲靴",
+    "name": "ShoesKneeKnightIron",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*4"
+  },
+  {
+    "label": "回收长靴",
+    "name": "ShoesKneeRecyclingboots0",
+    "category": "装备",
+    "how": "灵感/商店购买",
+    "space": "1.0×1.0",
+    "materials": "长靴*2"
+  },
+  {
+    "label": "鱼儿蛋鞋子",
+    "name": "ShoesLowcutEggfish0",
+    "category": "装备",
+    "how": "鱼儿蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "鱼儿蛋*2"
+  },
+  {
+    "label": "森林蛋鞋子",
+    "name": "ShoesLowcutEggforest0",
+    "category": "装备",
+    "how": "森林蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "森林蛋*2"
+  },
+  {
+    "label": "地面蛋鞋子",
+    "name": "ShoesLowcutEggground0",
+    "category": "装备",
+    "how": "地面蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "地面蛋*2"
+  },
+  {
+    "label": "叶子蛋鞋子",
+    "name": "ShoesLowcutEggleaf0",
+    "category": "装备",
+    "how": "叶子蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "叶子蛋*2"
+  },
+  {
+    "label": "岩石蛋鞋子",
+    "name": "ShoesLowcutEggrock0",
+    "category": "装备",
+    "how": "岩石蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "岩石蛋*2"
+  },
+  {
+    "label": "飞天蛋鞋子",
+    "name": "ShoesLowcutEggsky0",
+    "category": "装备",
+    "how": "飞天蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "飞天蛋*2"
+  },
+  {
+    "label": "钓竿",
+    "name": "ToolAngling",
+    "category": "工具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "简陋钓竿*1+铁矿石*1"
+  },
+  {
+    "label": "斧头",
+    "name": "ToolAxe",
+    "category": "工具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "简陋斧头*1+木材*3+铁矿石*1"
+  },
+  {
+    "label": "金色斧头",
+    "name": "ToolAxeGold",
+    "category": "工具",
+    "how": "灵感（简陋斧头用坏100个）",
+    "space": "1.0×1.0",
+    "materials": "金矿石*1+斧头*1"
+  },
+  {
+    "label": "简陋斧头",
+    "name": "ToolAxeStone",
+    "category": "工具",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "树枝*5+石头*1"
+  },
+  {
+    "label": "石斧头",
+    "name": "ToolAxeStoneNormal",
+    "category": "工具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "简陋斧头*1+木材*3"
+  },
+  {
+    "label": "星星棒",
+    "name": "ToolChangeStick",
+    "category": "工具",
+    "how": "流星雨当天晚上与岛上的傅珂对话",
+    "space": "1",
+    "materials": "大星星碎片*1+星星碎片*3"
+  },
+  {
+    "label": "金色钓竿",
+    "name": "ToolFishingrodGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*1+钓竿*1"
+  },
+  {
+    "label": "简陋钓竿",
+    "name": "ToolFishingrodWood",
+    "category": "工具",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "树枝*5"
+  },
+  {
+    "label": "梯子",
+    "name": "ToolLadder",
+    "category": "工具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "木材*4+硬木材*4+软木材*4"
+  },
+  {
+    "label": "简陋捕虫网",
+    "name": "ToolNet",
+    "category": "工具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "树枝*5"
+  },
+  {
+    "label": "金色捕虫网",
+    "name": "ToolNetGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*1+捕虫网*1"
+  },
+  {
+    "label": "捕虫网",
+    "name": "ToolNetNormal",
+    "category": "工具",
+    "how": "狸端机兑换（平常就能用！道具手册）",
+    "space": "1.0×1.0",
+    "materials": "简陋捕虫网*1+铁矿石*1"
+  },
+  {
+    "label": "陶笛",
+    "name": "ToolOcarina",
+    "category": "小物件",
+    "how": "商店购买（新手DIY手册）",
+    "space": "1.0×1.0",
+    "materials": "黏土*5"
+  },
+  {
+    "label": "排笛",
+    "name": "ToolPanpipe",
+    "category": "其他/季节手册",
+    "how": "漂流瓶/气球礼物",
+    "space": "1.0×1.0",
+    "materials": "春笋*7"
+  },
+  {
+    "label": "铲子",
+    "name": "ToolScoop",
+    "category": "工具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "简陋铲子*1+铁矿石*1"
+  },
+  {
+    "label": "金色铲子",
+    "name": "ToolScoopGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*1+铲子*1"
+  },
+  {
+    "label": "简陋铲子",
+    "name": "ToolShovelWood",
+    "category": "工具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "硬木材*5"
+  },
+  {
+    "label": "弹弓",
+    "name": "ToolSlingshot",
+    "category": "工具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "硬木材*5"
+  },
+  {
+    "label": "金色弹弓",
+    "name": "ToolSlingshotGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*1+弹弓*1"
+  },
+  {
+    "label": "银莲花棒",
+    "name": "ToolStickAnemones",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘色银莲花*1+星星碎片*3"
+  },
+  {
+    "label": "竹棒",
+    "name": "ToolStickBamboo",
+    "category": "工具",
+    "how": "漂流瓶/气球",
+    "space": "1.0×1.0",
+    "materials": "春笋*6+星星碎片*3"
+  },
+  {
+    "label": "樱花棒",
+    "name": "ToolStickCherryblossom",
+    "category": "工具",
+    "how": "气球礼物",
+    "space": "1.0×1.0",
+    "materials": "樱花花瓣*3+星星碎片*3"
+  },
+  {
+    "label": "菊花棒",
+    "name": "ToolStickChrysanthemum",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "黄色菊花*1+星星碎片*3"
+  },
+  {
+    "label": "波斯菊棒",
+    "name": "ToolStickCosmos",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "白色波斯菊*1+星星碎片*3"
+  },
+  {
+    "label": "复活节棒",
+    "name": "ToolStickEgg",
+    "category": "工具",
+    "how": "做出蹦蹦不倒娃娃之后获得",
+    "space": "1.0x1.0",
+    "materials": "蹦蹦不倒娃娃*1+星星碎片*3"
+  },
+  {
+    "label": "黄金棒",
+    "name": "ToolStickGolden",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*2+星星碎片*3"
+  },
+  {
+    "label": "风信子棒",
+    "name": "ToolStickHyacinth",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "粉红风信子*1+星星碎片*3"
+  },
+  {
+    "label": "铁棒",
+    "name": "ToolStickIron",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "铁矿石*3+星星碎片*3"
+  },
+  {
+    "label": "婚礼棒",
+    "name": "ToolStickJune",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "婚礼花架*1+星星碎片*3"
+  },
+  {
+    "label": "蘑菇棒",
+    "name": "ToolStickMushroom",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "瘦小蘑菇*3+星星碎片*3"
+  },
+  {
+    "label": "三色堇棒",
+    "name": "ToolStickPansy",
+    "category": "工具",
+    "how": "流星当天晚上与岛上的傅珂对话",
+    "space": "1.0×1.0",
+    "materials": "黄色三色堇*1+星星碎片*3"
+  },
+  {
+    "label": "玫瑰棒",
+    "name": "ToolStickRose",
+    "category": "工具",
+    "how": "与傅珂对话有概率获得",
+    "space": "1.0×1.0",
+    "materials": "红色玫瑰*1+星星碎片*3"
+  },
+  {
+    "label": "贝壳棒",
+    "name": "ToolStickShell",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "夏天贝壳*3+星星碎片*3"
+  },
+  {
+    "label": "冰之棒",
+    "name": "ToolStickSnow",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "大雪花*1+星星碎片*3"
+  },
+  {
+    "label": "树枝棒",
+    "name": "ToolStickTree",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "树枝*5+星星碎片*3"
+  },
+  {
+    "label": "郁金香棒",
+    "name": "ToolStickTulip",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红色郁金香*1+星星碎片*3"
+  },
+  {
+    "label": "棒子",
+    "name": "ToolStickWood",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*2"
+  },
+  {
+    "label": "百合棒",
+    "name": "ToolStickYuri",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "白色百合*1+星星碎片*3"
+  },
+  {
+    "label": "浇花壶",
+    "name": "ToolWatering",
+    "category": "工具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "简陋浇花壶*1+铁矿石*1"
+  },
+  {
+    "label": "金色浇花壶",
+    "name": "ToolWateringGold",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "金矿石*1+浇花壶*1"
+  },
+  {
+    "label": "简陋浇花壶",
+    "name": "ToolWateringWood",
+    "category": "工具",
+    "how": "商店购买",
+    "space": "1.0×1.0",
+    "materials": "软木材*5"
+  },
+  {
+    "label": "苹果服",
+    "name": "TopsTexOnepieceAlineNApple0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "苹果*8"
+  },
+  {
+    "label": "樱桃服",
+    "name": "TopsTexOnepieceAlineNCherry0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱桃*8"
+  },
+  {
+    "label": "橘子服",
+    "name": "TopsTexOnepieceAlineNOrange",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘子*8"
+  },
+  {
+    "label": "桃子服",
+    "name": "TopsTexOnepieceAlineNPeach0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "桃子*8"
+  },
+  {
+    "label": "梨子服",
+    "name": "TopsTexOnepieceAlineNPear0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "梨子*8"
+  },
+  {
+    "label": "蛋派对连身裙",
+    "name": "TopsTexOnepieceBalloonLEgg0",
+    "category": "装备",
+    "how": "习得全部六种服装配方后获得",
+    "space": "1*1",
+    "materials": "地面蛋*3+岩石蛋*3+叶子蛋*3+森林蛋*3+飞天蛋*3+鱼儿蛋*3"
+  },
+  {
+    "label": "金盔甲",
+    "name": "TopsTexOnepieceOverallLPlatearmorGold",
+    "category": "装备",
+    "how": "与岛民对话",
+    "space": "1.0*1.0",
+    "materials": "金矿石*8"
+  },
+  {
+    "label": "铁盔甲",
+    "name": "TopsTexOnepieceOverallLPlatearmorIron",
+    "category": "装备",
+    "how": "",
+    "space": "1.0×1.0",
+    "materials": "铁矿石*8"
+  },
+  {
+    "label": "鱼儿蛋衣服",
+    "name": "TopsTexOnepieceRibNEggfish0",
+    "category": "装备",
+    "how": "鱼儿蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "鱼儿蛋*3"
+  },
+  {
+    "label": "森林蛋衣服",
+    "name": "TopsTexOnepieceRibNEggforest0",
+    "category": "装备",
+    "how": "森林蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "森林蛋*3"
+  },
+  {
+    "label": "地面蛋衣服",
+    "name": "TopsTexOnepieceRibNEggground0",
+    "category": "装备",
+    "how": "地面蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "地面蛋*3"
+  },
+  {
+    "label": "叶子蛋衣服",
+    "name": "TopsTexOnepieceRibNEggleaf0",
+    "category": "装备",
+    "how": "叶子蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "叶子蛋*3"
+  },
+  {
+    "label": "岩石蛋衣服",
+    "name": "TopsTexOnepieceRibNEggrock0",
+    "category": "装备",
+    "how": "岩石蛋获得时随机顿悟",
+    "space": "1x1",
+    "materials": "岩石蛋*3"
+  },
+  {
+    "label": "飞天蛋衣服",
+    "name": "TopsTexOnepieceRibNEggsky0",
+    "category": "装备",
+    "how": "飞天蛋获得时随机顿悟",
+    "space": "1*1",
+    "materials": "飞天蛋*3"
+  },
+  {
+    "label": "蓑衣",
+    "name": "TopsTexTopCoatLStrawBeige",
+    "category": "装备",
+    "how": "漂流瓶",
+    "space": "1.0*1.0",
+    "materials": "杂草*8"
+  },
+  {
+    "label": "苹果雨伞",
+    "name": "UmbrellaApple0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "苹果*7"
+  },
+  {
+    "label": "枫叶雨伞",
+    "name": "UmbrellaAutumn0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "红叶*7"
+  },
+  {
+    "label": "樱桃雨伞",
+    "name": "UmbrellaCherry0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "樱桃*7"
+  },
+  {
+    "label": "樱花雨伞",
+    "name": "UmbrellaCherryblossom0",
+    "category": "季节手册",
+    "how": "气球",
+    "space": "1.0×1.0",
+    "materials": "樱花花瓣*7"
+  },
+  {
+    "label": "叶子雨伞",
+    "name": "UmbrellaLeaf0",
+    "category": "装备",
+    "how": "动物赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "杂草*15"
+  },
+  {
+    "label": "蘑菇雨伞",
+    "name": "UmbrellaMushroom0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "扁平蘑菇*3"
+  },
+  {
+    "label": "橘子雨伞",
+    "name": "UmbrellaOrange0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "橘子*7"
+  },
+  {
+    "label": "桃子雨伞",
+    "name": "UmbrellaPeach0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "桃子*7"
+  },
+  {
+    "label": "梨子雨伞",
+    "name": "UmbrellaPear0",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "梨子*7"
+  }
+]

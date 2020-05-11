@@ -2,15 +2,19 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import {
   Card, CardActionArea, CardContent, CardMedia, Typography,
-  Dialog, DialogContent
+  Dialog, DialogContent, Grow
 } from '@material-ui/core';
 
 const useStyles = makeStyles({
   root: {
-    minWidth: 140,
+    minWidth: 160,
+    minHeight: 240,
     // minHeight: 180,
-    maxWidth: 240,
+    // maxWidth: 240,
     opacity: '90%',
+    background: 'rgb(255, 222, 156)',
+    border: 'white solid 6px',
+    borderRadius: 6,
     '&:hover': {
       zIndex: 1000,
       opacity: '100%',
@@ -19,19 +23,35 @@ const useStyles = makeStyles({
     }
   },
   media: {
-    width: 80,
-    height: 80,
+    width: 128,
+    height: 128,
     marginLeft: 'auto',
     marginRight: 'auto',
     marginTop: 10,
     marginBottom: 10
   },
   text: {
-    whiteSpace: 'pre'
+    fontFamily: '华文圆体',
+    fontWeight: 1000,
+    whiteSpace: 'pre',
+    fontSize: 16,
+    color: 'rgba(110,43,0,0.85)'
+  },
+  title: {
+    fontFamily: '华文圆体',
+    fontWeight: 1000,
+    fontSize: 18,
+    color: '#6e2b00'
+  },
+  hr: {
+    borderTop: '2px dashed #6e2b00',
+  },
+  dialog: {
+    backgroundColor: 'rgb(255, 246, 212)'
   }
 });
 
-export default function DiyCard({label, name, category, how, space, materials}) {
+export default function DiyCard({label, name, category, how, space, materials, idx}) {
   const classes = useStyles();
   const [open, setOpen] = React.useState(false);
 
@@ -42,6 +62,8 @@ export default function DiyCard({label, name, category, how, space, materials}) 
     setOpen(false);
   };
 
+  const imagePath = process.env.PUBLIC_URL + '/large/' + idx + '.png';
+
   return (
     <>
       <Card className={classes.root}>
@@ -49,10 +71,10 @@ export default function DiyCard({label, name, category, how, space, materials}) 
           <CardMedia
             component="img"
             className={classes.media}
-            image={process.env.PUBLIC_URL + '/images/' + name + '.png'}
+            image={imagePath}
           />
           <CardContent>
-            <Typography variant="body1">
+            <Typography variant="body1" className={classes.title}>
               {label}
             </Typography>
             <Typography gutterBottom variant="body2" color="textSecondary" className={classes.text}>
@@ -61,19 +83,25 @@ export default function DiyCard({label, name, category, how, space, materials}) 
           </CardContent>
         </CardActionArea>
       </Card>
-      <Dialog onClose={handleClose} open={open}>
-        <DialogContent>
-          <Typography variant="body1">
+      <Dialog onClose={handleClose} open={open} TransitionComponent={Grow}>
+        <DialogContent className={classes.dialog}>
+          <Typography variant="body1" className={classes.title}>
             {label}
           </Typography>
+          <hr className={classes.hr}/>
+          <Typography variant="body2" className={classes.title}>
+            {space}
+          </Typography>
           <CardMedia
-            style={{width: 160, height: 160, imageRendering: 'pixelated'}}
+            style={{width: 256, height: 256}}
             component="img"
             className={classes.media}
-            image={process.env.PUBLIC_URL + '/images/' + name + '.png'}
+            image={imagePath}
           />
           <Typography gutterBottom variant="body2" color="textSecondary" className={classes.text}>
-            {`占地面积：${space}\n种类：${category}\n获得途径：${how}\n材料：${materials}`}
+            {(category ? `种类：${category}\n` : '') +
+            (how ? `获得途径：${how}\n` : '') +
+            `材料：${materials}`}
           </Typography>
 
 

@@ -36,7 +36,7 @@ const useStyles = makeStyles({
 
 function Home() {
     const classes = useStyles();
-    return <div className="App">
+    return <div className="App" style={{height: '100%'}}>
         <ThemeSwitcher>
             <ParallaxBackground/>
             <Typography className={classes.name} variant="h3" gutterBottom>

@@ -12,15 +12,10 @@ const useStyles = makeStyles((theme) => ({
     position: 'fixed',
     borderRadius: theme.shape.borderRadius,
     backgroundColor: fade(theme.palette.common.white, 1),
-    marginRight: theme.spacing(2),
-    marginLeft: 0,
-    width: '100%',
-    [theme.breakpoints.up('sm')]: {
-      marginLeft: theme.spacing(3),
-      width: 'auto',
-    },
+    marginLeft: theme.spacing(3),
+    width: 'auto',
     marginBottom: 10,
-    zIndex: 10000,
+    zIndex: 1000,
     boxShadow: '0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12)'
   },
   searchIcon: {
@@ -48,13 +43,16 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export function Diy() {
+  document.title = "Animal Crossing"
   const classes = useStyles();
   const [searchValue, setSearchValue] = useState('');
 
   const cards = [];
+  console.log(items)
 
   for (let i = 0; i < items.length; i++) {
     const item = items[i];
+
     if (searchValue === '' || item.label.includes(searchValue))
       cards.push(
         <Grid item key={i}>
@@ -65,12 +63,13 @@ export function Diy() {
             name={item.name}
             space={item.space}
             materials={item.materials}
+            idx={i}
           />
         </Grid>)
   }
   return (
     <div style={{
-      backgroundColor: '#d68000',
+      backgroundColor: 'rgb(255, 246, 212)',
       backgroundImage: 'url("/dark-wood.png")',
       backgroundAttachment: 'fixed',
       paddingTop: 20,
@@ -78,7 +77,7 @@ export function Diy() {
     }}>
       <div className={classes.search}>
         <div className={classes.searchIcon}>
-          <SearchIcon />
+          <SearchIcon/>
         </div>
         <InputBase
           placeholder="Search…"
