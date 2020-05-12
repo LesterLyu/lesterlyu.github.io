@@ -3640,20 +3640,20 @@
     "materials": "大雪花*1+雪花*8"
   },
   {
-    "label": "太空船墙",
-    "name": "RoomSpWallSF00",
-    "category": "",
-    "how": "",
-    "space": "",
-    "materials": "星星碎片*5+大星星碎片*1"
-  },
-  {
     "label": "樱花树墙",
     "name": "RoomSpWallSakura00",
     "category": "墙壁·地板·地垫",
     "how": "气球",
     "space": "一个房间",
     "materials": "樱花花瓣*10+硬木材*5"
+  },
+  {
+    "label": "太空船墙",
+    "name": "RoomSpWallSF00",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "星星碎片*5+大星星碎片*1"
   },
   {
     "label": "星星墙",
