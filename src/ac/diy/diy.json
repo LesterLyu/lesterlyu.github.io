@@ -1416,6 +1416,14 @@
     "materials": "红叶*3+木材*3"
   },
   {
+    "label": "落叶炊火",
+    "name": "FtrFallenleavesfire",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "松果*3+杂草*5+树枝*3"
+  },
+  {
     "label": "绿色落叶",
     "name": "FtrFallenleavesGreen",
     "category": "季节手册",
@@ -1438,14 +1446,6 @@
     "how": "",
     "space": "",
     "materials": "橡栗*3+杂草*5"
-  },
-  {
-    "label": "落叶炊火",
-    "name": "FtrFallenleavesfire",
-    "category": "",
-    "how": "",
-    "space": "",
-    "materials": "松果*3+杂草*5+树枝*3"
   },
   {
     "label": "节日陀螺",
