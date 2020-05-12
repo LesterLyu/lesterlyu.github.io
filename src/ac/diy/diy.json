@@ -2616,14 +2616,6 @@
     "materials": "石头*90"
   },
   {
-    "label": "石碑",
-    "name": "FtrRockMonument",
-    "category": "",
-    "how": "",
-    "space": "",
-    "materials": "石头*12"
-  },
-  {
     "label": "火箭",
     "name": "FtrRocket",
     "category": "家具",
@@ -2646,6 +2638,14 @@
     "how": "",
     "space": "",
     "materials": "软木材*5"
+  },
+  {
+    "label": "石碑",
+    "name": "FtrRockMonument",
+    "category": "",
+    "how": "",
+    "space": "",
+    "materials": "石头*12"
   },
   {
     "label": "樱花树枝",
@@ -2800,14 +2800,6 @@
     "materials": "星星碎片*5+铁矿石*10"
   },
   {
-    "label": "朴素木制招牌",
-    "name": "FtrSignWood",
-    "category": "家具",
-    "how": "狸克赠送/商店购买",
-    "space": "1.0×1.0",
-    "materials": "木材*6"
-  },
-  {
     "label": "木匾额",
     "name": "FtrSignboardWood",
     "category": "",
@@ -2838,6 +2830,14 @@
     "how": "狸端机兑换",
     "space": "1.5×1.5",
     "materials": "硬木材*4+软木材*8"
+  },
+  {
+    "label": "朴素木制招牌",
+    "name": "FtrSignWood",
+    "category": "家具",
+    "how": "狸克赠送/商店购买",
+    "space": "1.0×1.0",
+    "materials": "木材*6"
   },
   {
     "label": "筒仓",
