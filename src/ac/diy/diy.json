@@ -105,7 +105,7 @@
   },
   {
     "label": "桥梁施工工具组",
-    "name": "TentWhite",
+    "name": "TentWhite1",
     "category": "桥梁",
     "how": "狸克赠送",
     "space": "2.0*5.0",
@@ -113,7 +113,7 @@
   },
   {
     "label": "露营地施工工具组",
-    "name": "TentWhite",
+    "name": "TentWhite2",
     "category": "其他",
     "how": "狸克赠送",
     "space": "4*5",

@@ -2,8 +2,9 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import {
   Card, CardActionArea, CardContent, CardMedia, Typography,
-  Dialog, DialogContent, Grow
+  Dialog, DialogContent, Grow, IconButton
 } from '@material-ui/core';
+import DoneIcon from '@material-ui/icons/DoneRounded';
 
 const useStyles = makeStyles({
   root: {
@@ -48,12 +49,25 @@ const useStyles = makeStyles({
   },
   dialog: {
     backgroundColor: 'rgb(255, 246, 212)'
+  },
+  iconButton: {
+    float: 'right'
+  },
+  iconNotDone: {
+    color: 'rgba(110,43,0,0.15)',
+    '&:hover': {
+      color: 'rgba(110,43,0,0.64)',
+    }
+  },
+  iconDone: {
+    color: '#6e2b00'
   }
 });
 
-export default function DiyCard({label, name, category, how, space, materials, idx}) {
+export default function DiyCard({label, name, category, how, space, materials, idx, handleClickDone, initialDone}) {
   const classes = useStyles();
   const [open, setOpen] = React.useState(false);
+  const [done, setDone] = React.useState(initialDone);
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -67,7 +81,7 @@ export default function DiyCard({label, name, category, how, space, materials, i
   return (
     <>
       <Card className={classes.root}>
-        <CardActionArea onClick={handleClickOpen}>
+        <CardActionArea onClick={handleClickOpen} component="div">
           <CardMedia
             component="img"
             className={classes.media}
@@ -79,6 +93,13 @@ export default function DiyCard({label, name, category, how, space, materials, i
             </Typography>
             <Typography gutterBottom variant="body2" color="textSecondary" className={classes.text}>
               {space || ' '}
+              <IconButton size="small" className={classes.iconButton} onClick={e => {
+                handleClickDone(e);
+                setDone(done => !done);
+              }}>
+                <DoneIcon color="inherit" className={done ? classes.iconDone : classes.iconNotDone}/>
+              </IconButton>
+
             </Typography>
           </CardContent>
         </CardActionArea>

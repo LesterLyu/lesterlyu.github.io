@@ -1,8 +1,11 @@
 import React, { useState } from "react";
-import { Grid, InputBase } from '@material-ui/core';
+import { Grid, InputBase, Checkbox, FormControlLabel } from '@material-ui/core';
 import { fade, makeStyles } from '@material-ui/core/styles';
 import SearchIcon from '@material-ui/icons/Search';
 
+/**
+ * @type Array
+ */
 import items from './diy.json';
 
 import DiyCard from './card';
@@ -44,14 +47,38 @@ const useStyles = makeStyles((theme) => ({
 
 export function Diy() {
   document.title = "Animal Crossing"
+  const doneStr = localStorage.getItem('done');
   const classes = useStyles();
   const [searchValue, setSearchValue] = useState('');
+  const [showAll, setShowAll] = useState((localStorage.getItem('showAll') || 'true') === 'true');
 
   const cards = [];
-  console.log(items)
+  const [doneItems, setDoneItems] = useState(doneStr ? JSON.parse(doneStr) : []);
+  console.log(doneItems)
+
+  const handleClickShowAll = () => {
+    localStorage.setItem('showAll', (!showAll).toString())
+    setShowAll(showAll => !showAll);
+  }
+
+  const handleClickDone = name => e => {
+    e.stopPropagation();
+    const doneItemIdx = items.findIndex(item => item.name === name);
+    if (doneItems.includes(doneItemIdx)) {
+      doneItems.splice(doneItems.indexOf(doneItemIdx));
+    } else {
+      doneItems.push(doneItemIdx);
+    }
+    localStorage.setItem('done', JSON.stringify(doneItems));
+    if (!showAll)
+      setDoneItems([...doneItems])
+    console.log(doneItems)
+  };
 
   for (let i = 0; i < items.length; i++) {
     const item = items[i];
+
+    if (!showAll && doneItems.includes(i)) continue;
 
     if (searchValue === '' || item.label.includes(searchValue))
       cards.push(
@@ -64,6 +91,8 @@ export function Diy() {
             space={item.space}
             materials={item.materials}
             idx={i}
+            handleClickDone={handleClickDone(item.name)}
+            initialDone={doneItems.includes(i)}
           />
         </Grid>)
   }
@@ -87,6 +116,11 @@ export function Diy() {
           }}
           value={searchValue}
           onChange={e => setSearchValue(e.target.value)}
+        />
+        <FormControlLabel
+          control={<Checkbox color="primary" checked={showAll} onChange={handleClickShowAll}/>}
+          label="All"
+          labelPlacement="end"
         />
       </div>
       <Grid container spacing={2} justify="center" style={{marginTop: 40}}>
