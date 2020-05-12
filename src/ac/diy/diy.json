@@ -3152,14 +3152,6 @@
     "materials": "硬木材*8"
   },
   {
-    "label": "圆木桩",
-    "name": "FtrWoodPile",
-    "category": "家具",
-    "how": "狸克赠送",
-    "space": "1.0×1.0",
-    "materials": "木材*3"
-  },
-  {
     "label": "木制单人床",
     "name": "FtrWoodenBedS",
     "category": "家具",
@@ -3254,6 +3246,14 @@
     "how": "",
     "space": "1.0×1.0",
     "materials": "木材*8"
+  },
+  {
+    "label": "圆木桩",
+    "name": "FtrWoodPile",
+    "category": "家具",
+    "how": "狸克赠送",
+    "space": "1.0×1.0",
+    "materials": "木材*3"
   },
   {
     "label": "DIY作业台",
