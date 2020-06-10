@@ -21,9 +21,8 @@
   "scripts": {
     "start": "cross-env PORT=3006 react-scripts start",
     "build": "react-scripts build",
-    "postbuild": "cpy build/index.html build --rename 404.html",
     "test": "react-scripts test",
-    "pub": "gh-pages -d build -b master"
+    "pub": "gh-pages -d build -b master -t"
   },
   "eslintConfig": {
     "extends": "react-app"

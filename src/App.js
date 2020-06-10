@@ -5,7 +5,7 @@ import ThemeSwitcher from './components/ThemeSwitcher';
 import {Typography, IconButton, Grid} from '@material-ui/core';
 import {makeStyles, ThemeProvider, createMuiTheme} from '@material-ui/core/styles';
 import {GitHub, LinkedIn, Email} from '@material-ui/icons';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import Intro from './pages/Intro';
 import FastFormulaParser from './pages/demo/formulaParser/fastFormulaParser';
 import ObjectDetection from './pages/demo/objectDetection'
