@@ -1,18 +1,19 @@
 import React from "react";
 import {Container, Divider} from '@material-ui/core/index';
-import {Title, Interest, Item, Education, Experience, Footer} from '../components/Intro'
+import {Resume, Title, Interest, Item, Education, Experience, Footer} from '../components/Intro'
 
 function Intro() {
     return (
         <Container style={{maxWidth: 800}}>
             <Divider/>
             {/*<hr className={classes.hr}/>*/}
+            <Resume/>
             <Title name="Public Projects"/>
             <Item name="Excel Formula Parser"
                   description="A JavaScript library to parse and evaluate MS Excel/Google Sheets formulas with near 300
                    formulas support and competitive performance."
                   demo="/demo/fast-formula-parser"
-                  link="https://github.com/LesterLyu/fast-formula-parser"/>
+                  link="https://www.npmjs.com/package/fast-formula-parser"/>
             <Item name="MOHLTC Data Project"
                   description="A web app designed for businesses to create data collection forms on the fly and collect
                    data in a short period of time."
@@ -41,15 +42,20 @@ function Intro() {
             <Divider/>
 
             <Title name="Interests"/>
-            <Interest name={"Computer Networks & Low Level Programming"}/>
+
             <Interest name={"Web Full Stack Programming"}/>
+            <Interest name={"Computer Networks & Low Level Programming"}/>
             <Interest name={"Machine Learning & Visual Computing"}/>
 
             <Divider/>
 
             <Title name="Experiences"/>
+            <Experience title="Junior Web Developer"
+                        company="School of Cities, University of Toronto"
+                        link="https://www.utoronto.ca/"
+                        duration="May 2020 – August 2020"/>
             <Experience title="Research Assistance"
-                        company="University of Toronto"
+                        company="Department of MIE, University of Toronto"
                         link="https://www.utoronto.ca/"
                         duration="January 2020 – April 2020"/>
             <Experience title="Software Developer Intern"

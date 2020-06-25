@@ -68,7 +68,29 @@ const useStyles = makeStyles({
             color: '#2196f3'
         },
     },
+    resume: {
+        paddingTop: 16,
+        display: 'block',
+        fontWeight: 'bold',
+        fontFamily: 'Ubuntu',
+        textAlign: 'initial',
+        fontSize: 26,
+        color: '#000',
+        "&:hover": {
+          color: '#2196f3'
+        },
+    }
 });
+
+export function Resume() {
+    const classes = useStyles();
+    return (
+        <Link className={classes.resume} href={'/resume.pdf'} target="_blank">
+            Resume
+            <OpenInNew fontSize="inherit"/>
+        </Link>
+    )
+}
 
 export function Title(props) {
     const classes = useStyles();

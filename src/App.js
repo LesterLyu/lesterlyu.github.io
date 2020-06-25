@@ -43,7 +43,7 @@ function Home() {
                 Dishu Lyu
             </Typography>
             <Typography className={classes.description} variant="subtitle1" gutterBottom>
-                Graduating 2020 May 😋
+                Specialist of Computer Science, Focus on the Web
             </Typography>
             <Grid container justify="center">
                 <Grid item>
