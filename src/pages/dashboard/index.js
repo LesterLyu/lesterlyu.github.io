@@ -13,7 +13,7 @@ import { InfoOutlined, Timelapse, Timeline, Check } from "@material-ui/icons";
 
 const useStyles = makeStyles({
   container: {
-    marginTop: 20,
+    paddingTop: 20,
   },
   boldText: {
     fontSize: 28,
