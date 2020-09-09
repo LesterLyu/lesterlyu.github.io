@@ -10,6 +10,7 @@ import Intro from './pages/Intro';
 import FastFormulaParser from './pages/demo/formulaParser/fastFormulaParser';
 import ObjectDetection from './pages/demo/objectDetection'
 import {Diy} from './ac/diy'
+import Dashboard from "./pages/dashboard";
 
 const theme = createMuiTheme({
     palette: {
@@ -74,6 +75,9 @@ function App() {
                 <Switch>
                     <Route path="/ac">
                         <Diy/>
+                    </Route>
+                    <Route path="/dashboard">
+                        <Dashboard/>
                     </Route>
                     <Route path="/demo/fast-formula-parser">
                         <FastFormulaParser/>
