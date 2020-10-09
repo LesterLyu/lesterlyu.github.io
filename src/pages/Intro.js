@@ -53,7 +53,7 @@ function Intro() {
             <Experience title="Junior Web Developer"
                         company="School of Cities, University of Toronto"
                         link="https://www.utoronto.ca/"
-                        duration="May 2020 – August 2020"/>
+                        duration="May 2020 – Present"/>
             <Experience title="Research Assistance"
                         company="Department of MIE, University of Toronto"
                         link="https://www.utoronto.ca/"
