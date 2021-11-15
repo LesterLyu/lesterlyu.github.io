@@ -8,7 +8,20 @@ function Intro() {
             <Divider/>
             {/*<hr className={classes.hr}/>*/}
             <Resume/>
-            <Title name="Public Projects"/>
+            <Title name="Public Open Sourced Projects"/>
+            <Item name="Owlready2"
+                  description="Owlready2 is a library for ontology-oriented programming in Python. It can manage ontologies and
+                   knowledge graphs in a graph database, i.e. GraphDB, connected through SPARQL endpoint. It can
+                   lso be used as an ORM (Object-relational mapper). Classes & properties & instances defined in the
+                   graph database can be mapped into Python Objects/Classes."
+                  link="https://github.com/LesterLyu/owlready2"/>
+
+            <Item name="Course Oracle"
+                  description="Course Oracle provides worldwide students a way to share course
+                        materials and course ratings. Course rating can be stored on the block chain optionally. User uses
+                        cryptocurrencies to purchase course materials, the user who shared the materials earns a portion
+                        from the purchase and can withdraw to their own wallet."
+                  link="https://github.com/LesterLyu/CourseOracle"/>
             <Item name="Excel Formula Parser"
                   description="A JavaScript library to parse and evaluate MS Excel/Google Sheets formulas with near 300
                    formulas support and competitive performance."
@@ -50,10 +63,14 @@ function Intro() {
             <Divider/>
 
             <Title name="Experiences"/>
+            <Experience title="Software Engineer"
+                        company="Department of MIE, University of Toronto"
+                        link="https://www.mie.utoronto.ca/"
+                        duration="May 2021 – Present"/>
             <Experience title="Junior Web Developer"
                         company="School of Cities, University of Toronto"
-                        link="https://www.utoronto.ca/"
-                        duration="May 2020 – Present"/>
+                        link="https://www.schoolofcities.utoronto.ca/"
+                        duration="May 2020 – April 2021"/>
             <Experience title="Research Assistance"
                         company="Department of MIE, University of Toronto"
                         link="https://www.utoronto.ca/"

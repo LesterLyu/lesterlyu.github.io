@@ -9,7 +9,6 @@ import {HashRouter as Router, Route, Switch, Link as RouterLink} from 'react-rou
 import Intro from './pages/Intro';
 import FastFormulaParser from './pages/demo/formulaParser/fastFormulaParser';
 import ObjectDetection from './pages/demo/objectDetection'
-import {Diy} from './ac/diy'
 import Dashboard from "./pages/dashboard";
 
 const theme = createMuiTheme({
@@ -80,9 +79,6 @@ function App() {
         <Router>
             <ThemeProvider theme={theme}>
                 <Switch>
-                    <Route path="/ac">
-                        <Diy/>
-                    </Route>
                     <Route path="/dashboard">
                         <Dashboard/>
                     </Route>
